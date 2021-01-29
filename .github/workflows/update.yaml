@@ -1,9 +1,10 @@
 name: Update
 
-on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '*/15 * * * *'
+#on:
+#  schedule:
+#    # * is a special character in YAML so you have to quote this string
+#    - cron:  '*/15 * * * *'
+on: push
 
 jobs:
   # Set the job key. The key is displayed as the job name
@@ -25,7 +26,11 @@ jobs:
       # Runs the code to do the update
       - name: Run program
         run: |
-          go run cmd/vaccine-finder/main.go > docs/index.md
-          git add docs/index.md
-          git commit -m "Update vaccine locations"
-          git push
+          mkdir dist
+          go run cmd/vaccine-finder/main.go > dist/index.md
+      - name: Publish generated content to GitHub Pages
+        uses: tsunematsu21/actions-publish-gh-pages@v1.0.1
+        with:
+          dir: dist
+          branch: gh-pages
+          token: ${{ secrets.ACCESS_TOKEN }}
