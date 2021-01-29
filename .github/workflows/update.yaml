@@ -1,7 +1,9 @@
 name: Update
 
-# Run this workflow every time a new commit pushed to your repository
-on: push
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/15 * * * *'
 
 jobs:
   # Set the job key. The key is displayed as the job name
@@ -23,4 +25,7 @@ jobs:
       # Runs the code to do the update
       - name: Run program
         run: |
-          go run cmd/vaccine-finder/main.go
+          go run cmd/vaccine-finder/main.go > docs/index.md
+          git add docs/index.md
+          git commit -m "Update vaccine locations"
+          git push
