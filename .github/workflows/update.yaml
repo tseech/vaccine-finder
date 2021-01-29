@@ -16,10 +16,10 @@ jobs:
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v2
-     - name: Install Go
-       uses: actions/setup-go@v2
-       with:
-         go-version: [1.15.x]
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: [1.15.x]
       # Runs the code to do the update
       - name: Run program
         run: |
