@@ -86,9 +86,10 @@ func main() {
 
 	writer.WriteString("# San Diego Vaccine Appointments\n")
 	writer.WriteString(fmt.Sprintf("*Last Updated: %s*\n\n", time.Now().In(loc).Format("Mon Jan 2 15:04:05 MST 2006")))
-	writer.WriteString(fmt.Sprintf("*Date range: %s - %s*\n",
+	writer.WriteString(fmt.Sprintf("*Date range: %s - %s*\n\n",
 		time.Now().Format("Mon Jan 2 2006"),
 		time.Now().Add(time.Hour*24*numberOfDays).Format("Mon Jan 2 2006")))
+	writer.WriteString(fmt.Sprintf("*Go to: https://myturn.ca.gov to schedule your appointment*\n\n"))
 	writer.WriteString("\n")
 
 	fmt.Printf("Checking the next %d days...\n", numberOfDays)
@@ -130,11 +131,11 @@ func main() {
 
 		writer.WriteString(fmt.Sprintf("## *%s* - %s\n", doseStatus, element.Name))
 		writer.WriteString(fmt.Sprintf("### %s\n", element.DisplayAddress))
-		writer.WriteString(fmt.Sprintf("- Done 1 available on %d days\n", hasDose1))
+		writer.WriteString(fmt.Sprintf("- Dose 1 available on %d days\n", hasDose1))
 		if dose1Dates != "" {
 			writer.WriteString(fmt.Sprintf("  - Days: %s\n", dose1Dates))
 		}
-		writer.WriteString(fmt.Sprintf("- Done 2 available on %d days\n", hasDose2))
+		writer.WriteString(fmt.Sprintf("- Dose 2 available on %d days\n", hasDose2))
 		if dose2Dates != "" {
 			writer.WriteString(fmt.Sprintf("  - Days: %s\n", dose2Dates))
 		}
@@ -147,7 +148,7 @@ func main() {
 
 func getEligibility() EligibilityResponse {
 	url := "https://api.myturn.ca.gov/public/eligibility"
-	data := []byte(`{"eligibilityQuestionResponse":[{"id":"q.screening.18.yr.of.age","value":["q.screening.18.yr.of.age"],"type":"multi-select"},{"id":"q.screening.health.data","value":["q.screening.health.data"],"type":"multi-select"},{"id":"q.screening.eligibility.county","value":"San Diego","type":"single-select"},{"id":"q.screening.healthworker","value":"No","type":"single-select"},{"id":"q.screening.eligibility.age.range","value":"65 - 74","type":"single-select"}],"url":"https://myturn.ca.gov/screening"}`)
+	data := []byte(`{"eligibilityQuestionResponse":[{"id":"q.screening.18.yr.of.age","value":["q.screening.18.yr.of.age"],"type":"multi-select"},{"id":"q.screening.health.data","value":["q.screening.health.data"],"type":"multi-select"},{"id":"q.screening.eligibility.county","value":"San Diego","type":"single-select"},{"id":"q.screening.healthworker","value":"No","type":"single-select"},{"id":"q.screening.eligibility.age.range","value":"75 and older","type":"single-select"}],"url":"https://myturn.ca.gov/screening"}`)
 
 
 	resp, err := http.Post(url, "application/json", bytes.NewBuffer(data))
