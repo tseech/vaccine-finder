@@ -82,8 +82,10 @@ func main() {
 	}
 	writer := bufio.NewWriter(file)
 
+	loc, _ := time.LoadLocation("America/Los_Angeles")
+
 	writer.WriteString("# San Diego Vaccine Appointments\n")
-	writer.WriteString(fmt.Sprintf("*Last Updated: %s*\n\n", time.Now().Format("Mon Jan 2 15:04:05 MST 2006")))
+	writer.WriteString(fmt.Sprintf("*Last Updated: %s*\n\n", time.Now().In(loc).Format("Mon Jan 2 15:04:05 MST 2006")))
 	writer.WriteString(fmt.Sprintf("*Date range: %s - %s*\n",
 		time.Now().Format("Mon Jan 2 2006"),
 		time.Now().Add(time.Hour*24*numberOfDays).Format("Mon Jan 2 2006")))
