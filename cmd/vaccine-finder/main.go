@@ -83,10 +83,10 @@ func main() {
 	writer := bufio.NewWriter(file)
 
 	writer.WriteString("# San Diego Vaccine Appointments\n")
-	writer.WriteString(fmt.Sprintf("*Last Updated: %s*\n\n", time.Now().Format("2006-01-02")))
+	writer.WriteString(fmt.Sprintf("*Last Updated: %s*\n\n", time.Now().Format("Mon Jan 2 15:04:05 MST 2006")))
 	writer.WriteString(fmt.Sprintf("*Date range: %s - %s*\n",
-		time.Now().Format("2006-01-02"),
-		time.Now().Add(time.Hour*24*numberOfDays).Format("2006-01-02")))
+		time.Now().Format("Mon Jan 2 2006"),
+		time.Now().Add(time.Hour*24*numberOfDays).Format("Mon Jan 2 2006")))
 	writer.WriteString("\n")
 
 	fmt.Printf("Checking the next %d days...\n", numberOfDays)
@@ -136,18 +136,6 @@ func main() {
 		if dose2Dates != "" {
 			writer.WriteString(fmt.Sprintf("  - Days: %s\n", dose2Dates))
 		}
-
-		//for i:=0; i<len(dose1.Availability) && i<len(dose2.Availability); i++ {
-		//	if !dose1.Availability[i].Available && !dose2.Availability[i].Available {
-		//		//fmt.Printf("   %s: None\n", dose1.Availability[i].Date)
-		//	} else if dose1.Availability[i].Available && !dose2.Availability[i].Available {
-		//		writer.WriteString(fmt.Sprintf("- %s: Done 1 only\n", dose1.Availability[i].Date))
-		//	} else if !dose1.Availability[i].Available && dose2.Availability[i].Available {
-		//		writer.WriteString(fmt.Sprintf("- %s: Done 2 only\n", dose2.Availability[i].Date))
-		//	} else {
-		//		writer.WriteString(fmt.Sprintf("- %s: Dose 1 and 2\n", dose1.Availability[i].Date))
-		//	}
-		//}
 
 		writer.WriteString("\n")
 	}
