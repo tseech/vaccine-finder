@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Jan 30 00:01:36 PST 2021*
+*Last Updated: Sat Jan 30 00:22:13 PST 2021*
 
 *Date range: Sat Jan 30 2021 - Mon Mar 1 2021*
 
@@ -9,8 +9,8 @@
 ## *Dose 2 only* - HHSA TUBMAN CHAVEZ COVID 19
 ### 415 Euclid Streed, San Diego CA 92114
 - Dose 1 available on 0 days
-- Dose 2 available on 4 days
-  - Days: 2021-02-06, 2021-02-13, 2021-02-20, 2021-02-27
+- Dose 2 available on 3 days
+  - Days: 2021-02-06, 2021-02-13, 2021-02-20
 
 ## *Dose 2 only* - HHSA TUBMAN CHAVEZ COVID 19 - Dose 1 appointments available up to Jan 29
 ### 415 Euclid Street, San Diego CA 92114
