@@ -1,11 +1,13 @@
 package main
 
 import (
+	"bufio"
 	"bytes"
 	"encoding/json"
 	"fmt"
 	"log"
 	"net/http"
+	"os"
 	"time"
 )
 
@@ -59,7 +61,7 @@ type Availability struct {
 func main() {
 
 	fmt.Println("Checking eligibility...")
-	eligibility := getEligbility()
+	eligibility := getEligibility()
 	if !eligibility.Eligible {
 		fmt.Println("Not eligible")
 		return
@@ -72,29 +74,70 @@ func main() {
 
 	numberOfDays := time.Duration(30)
 
+	os.RemoveAll("./dist")
+	os.Mkdir("./dist", 0777)
+	file, err := os.Create("./dist/index.md")
+	if err != nil {
+		log.Fatal(err)
+	}
+	writer := bufio.NewWriter(file)
+
+	writer.WriteString("# San Diego Vaccine Appointments\n")
+	writer.WriteString(fmt.Sprintf("*Last Updated: %s*\n", time.Now().Format("2006-01-02")))
+	writer.WriteString(fmt.Sprintf("*Date range: %s - %s*\n",
+		time.Now().Format("2006-01-02"),
+		time.Now().Add(time.Hour*24*numberOfDays).Format("2006-01-02")))
+	writer.WriteString("\n")
+
 	fmt.Printf("Checking the next %d days...\n", numberOfDays)
-	for index, element := range locations.Locations  {
-		fmt.Printf("%d - %s\n", index+1, element.Name)
+	for _, element := range locations.Locations  {
 		dose1 := checkLocation(locations.VaccineData, element.ExtId, 1, numberOfDays)
 		dose2 := checkLocation(locations.VaccineData, element.ExtId, 2, numberOfDays)
+
+		hasDose1 := false
+		hasDose2 := false
+		for i:=0; i<len(dose1.Availability) && i<len(dose2.Availability); i++ {
+			if dose1.Availability[i].Available {
+				hasDose1 = true
+			}
+			if dose2.Availability[i].Available {
+				hasDose2 = true
+			}
+		}
+
+		doseStatus := ""
+		if hasDose1 && !hasDose2 {
+			doseStatus = "Dose 1 only"
+		} else if !hasDose1 && hasDose2 {
+			doseStatus = "Dose 2 only"
+		} else if hasDose1 && hasDose2 {
+			doseStatus = "Dose 1 & 2"
+		} else {
+			doseStatus = "No doses"
+		}
+
+		writer.WriteString(fmt.Sprintf("## *%s* - %s\n", doseStatus, element.Name))
+		writer.WriteString(fmt.Sprintf("### %s\n", element.DisplayAddress))
 
 		for i:=0; i<len(dose1.Availability) && i<len(dose2.Availability); i++ {
 			if !dose1.Availability[i].Available && !dose2.Availability[i].Available {
 				//fmt.Printf("   %s: None\n", dose1.Availability[i].Date)
 			} else if dose1.Availability[i].Available && !dose2.Availability[i].Available {
-				fmt.Printf("   %s: Done 1 only\n", dose1.Availability[i].Date)
+				writer.WriteString(fmt.Sprintf("- %s: Done 1 only\n", dose1.Availability[i].Date))
 			} else if !dose1.Availability[i].Available && dose2.Availability[i].Available {
-				fmt.Printf("   %s: Done 2 only\n", dose1.Availability[i].Date)
+				writer.WriteString(fmt.Sprintf("- %s: Done 2 only\n", dose2.Availability[i].Date))
 			} else {
-				fmt.Printf("   %s: Both!!!!!\n", dose1.Availability[i].Date)
+				writer.WriteString(fmt.Sprintf("- %s: Dose 1 and 2\n", dose1.Availability[i].Date))
 			}
 		}
 
-		fmt.Println()
+		writer.WriteString("\n")
 	}
+
+	writer.Flush()
 }
 
-func getEligbility() EligibilityResponse {
+func getEligibility() EligibilityResponse {
 	url := "https://api.myturn.ca.gov/public/eligibility"
 	data := []byte(`{"eligibilityQuestionResponse":[{"id":"q.screening.18.yr.of.age","value":["q.screening.18.yr.of.age"],"type":"multi-select"},{"id":"q.screening.health.data","value":["q.screening.health.data"],"type":"multi-select"},{"id":"q.screening.eligibility.county","value":"San Diego","type":"single-select"},{"id":"q.screening.healthworker","value":"No","type":"single-select"},{"id":"q.screening.eligibility.age.range","value":"65 - 74","type":"single-select"}],"url":"https://myturn.ca.gov/screening"}`)
 

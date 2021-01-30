@@ -26,7 +26,6 @@ jobs:
       # Runs the code to do the update
       - name: Run program
         run: |
-          mkdir dist
           go run cmd/vaccine-finder/main.go > dist/index.md
       - name: Publish generated content to GitHub Pages
         uses: tsunematsu21/actions-publish-gh-pages@v1.0.1
