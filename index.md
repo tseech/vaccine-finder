@@ -1,7 +1,7 @@
 # San Diego Vaccine Appointments
-*Last Updated: 2021-01-30*
+*Last Updated: Sat Jan 30 01:13:26 UTC 2021*
 
-*Date range: 2021-01-30 - 2021-03-01*
+*Date range: Sat Jan 30 2021 - Mon Mar 1 2021*
 
 ## *Dose 2 only* - HHSA CRPHC VIP COVID 19 - Dose 1 appointments available up to Jan. 28
 ### 3177 Oceanview Blvd. San Diego, CA 92113
