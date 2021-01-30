@@ -83,7 +83,7 @@ func main() {
 	writer := bufio.NewWriter(file)
 
 	writer.WriteString("# San Diego Vaccine Appointments\n")
-	writer.WriteString(fmt.Sprintf("*Last Updated: %s*\n", time.Now().Format("2006-01-02")))
+	writer.WriteString(fmt.Sprintf("*Last Updated: %s*\n\n", time.Now().Format("2006-01-02")))
 	writer.WriteString(fmt.Sprintf("*Date range: %s - %s*\n",
 		time.Now().Format("2006-01-02"),
 		time.Now().Add(time.Hour*24*numberOfDays).Format("2006-01-02")))
@@ -94,23 +94,33 @@ func main() {
 		dose1 := checkLocation(locations.VaccineData, element.ExtId, 1, numberOfDays)
 		dose2 := checkLocation(locations.VaccineData, element.ExtId, 2, numberOfDays)
 
-		hasDose1 := false
-		hasDose2 := false
+		hasDose1 := 0
+		dose1Dates := ""
+		hasDose2 := 0
+		dose2Dates := ""
 		for i:=0; i<len(dose1.Availability) && i<len(dose2.Availability); i++ {
 			if dose1.Availability[i].Available {
-				hasDose1 = true
+				hasDose1++
+				if dose1Dates != "" {
+					dose1Dates += ", "
+				}
+				dose1Dates += dose1.Availability[i].Date
 			}
 			if dose2.Availability[i].Available {
-				hasDose2 = true
+				hasDose2++
+				if dose2Dates != "" {
+					dose2Dates += ", "
+				}
+				dose2Dates += dose2.Availability[i].Date
 			}
 		}
 
 		doseStatus := ""
-		if hasDose1 && !hasDose2 {
+		if hasDose1 > 0 && hasDose2 == 0 {
 			doseStatus = "Dose 1 only"
-		} else if !hasDose1 && hasDose2 {
+		} else if hasDose1 == 0 && hasDose2 > 0 {
 			doseStatus = "Dose 2 only"
-		} else if hasDose1 && hasDose2 {
+		} else if hasDose1 > 0 && hasDose2 > 0 {
 			doseStatus = "Dose 1 & 2"
 		} else {
 			doseStatus = "No doses"
@@ -118,18 +128,26 @@ func main() {
 
 		writer.WriteString(fmt.Sprintf("## *%s* - %s\n", doseStatus, element.Name))
 		writer.WriteString(fmt.Sprintf("### %s\n", element.DisplayAddress))
-
-		for i:=0; i<len(dose1.Availability) && i<len(dose2.Availability); i++ {
-			if !dose1.Availability[i].Available && !dose2.Availability[i].Available {
-				//fmt.Printf("   %s: None\n", dose1.Availability[i].Date)
-			} else if dose1.Availability[i].Available && !dose2.Availability[i].Available {
-				writer.WriteString(fmt.Sprintf("- %s: Done 1 only\n", dose1.Availability[i].Date))
-			} else if !dose1.Availability[i].Available && dose2.Availability[i].Available {
-				writer.WriteString(fmt.Sprintf("- %s: Done 2 only\n", dose2.Availability[i].Date))
-			} else {
-				writer.WriteString(fmt.Sprintf("- %s: Dose 1 and 2\n", dose1.Availability[i].Date))
-			}
+		writer.WriteString(fmt.Sprintf("- Done 1 available on %d days\n", hasDose1))
+		if dose1Dates != "" {
+			writer.WriteString(fmt.Sprintf("  - Days: %s\n", dose1Dates))
 		}
+		writer.WriteString(fmt.Sprintf("- Done 2 available on %d days\n", hasDose2))
+		if dose2Dates != "" {
+			writer.WriteString(fmt.Sprintf("  - Days: %s\n", dose2Dates))
+		}
+
+		//for i:=0; i<len(dose1.Availability) && i<len(dose2.Availability); i++ {
+		//	if !dose1.Availability[i].Available && !dose2.Availability[i].Available {
+		//		//fmt.Printf("   %s: None\n", dose1.Availability[i].Date)
+		//	} else if dose1.Availability[i].Available && !dose2.Availability[i].Available {
+		//		writer.WriteString(fmt.Sprintf("- %s: Done 1 only\n", dose1.Availability[i].Date))
+		//	} else if !dose1.Availability[i].Available && dose2.Availability[i].Available {
+		//		writer.WriteString(fmt.Sprintf("- %s: Done 2 only\n", dose2.Availability[i].Date))
+		//	} else {
+		//		writer.WriteString(fmt.Sprintf("- %s: Dose 1 and 2\n", dose1.Availability[i].Date))
+		//	}
+		//}
 
 		writer.WriteString("\n")
 	}
