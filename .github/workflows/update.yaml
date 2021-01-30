@@ -2,8 +2,7 @@ name: Update
 
 on:
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '*/15 * * * *'
+  - cron:  "*/15 * * * *"
 
 jobs:
   # Set the job key. The key is displayed as the job name
