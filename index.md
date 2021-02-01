@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Feb 1 12:47:08 PST 2021*
+*Last Updated: Mon Feb 1 13:13:08 PST 2021*
 
 *Date range: Mon Feb 1 2021 - Wed Mar 3 2021*
 
@@ -12,29 +12,29 @@
 - Dose 2 available on 4 days
   - Days: 2021-02-06, 2021-02-09, 2021-02-13, 2021-02-16
 
-## *Dose 2 only* - HHSA TUBMAN CHAVEZ COVID 19 - Dose 1 appointments available up to Jan 29
-### 415 Euclid Street, San Diego CA 92114
-- Dose 1 available on 0 days
-- Dose 2 available on 4 days
-  - Days: 2021-02-05, 2021-02-12, 2021-02-19, 2021-02-26
-
 ## *Dose 2 only* - HHSA TUBMAN CHAVEZ COVID 19
 ### 415 Euclid Streed, San Diego CA 92114
 - Dose 1 available on 0 days
 - Dose 2 available on 4 days
   - Days: 2021-02-06, 2021-02-13, 2021-02-20, 2021-02-27
 
-## *Dose 2 only* - HHSA CRPHC IMMUNIZATION CLINIC COVID 19
-### 3177 Oceanview Blvd. San Diego, CA 92113
+## *Dose 2 only* - HHSA TUBMAN CHAVEZ COVID 19 - Dose 1 appointments available up to Jan 29
+### 415 Euclid Street, San Diego CA 92114
 - Dose 1 available on 0 days
-- Dose 2 available on 6 days
-  - Days: 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-14, 2021-02-15, 2021-02-16
+- Dose 2 available on 4 days
+  - Days: 2021-02-05, 2021-02-12, 2021-02-19, 2021-02-26
 
 ## *Dose 2 only* - HHSA CRPHC VIP COVID 19 - Dose 1 appointments available up to Jan. 28
 ### 3177 Oceanview Blvd. San Diego, CA 92113
 - Dose 1 available on 0 days
 - Dose 2 available on 9 days
   - Days: 2021-02-01, 2021-02-02, 2021-02-03, 2021-02-04, 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-11
+
+## *Dose 2 only* - HHSA CRPHC IMMUNIZATION CLINIC COVID 19
+### 3177 Oceanview Blvd. San Diego, CA 92113
+- Dose 1 available on 0 days
+- Dose 2 available on 6 days
+  - Days: 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-14, 2021-02-15, 2021-02-16
 
 ## *Dose 2 only* - HHSA NATIONAL CITY MLK COVID 19
 ### 140 East 12th St. National City, CA 91950
