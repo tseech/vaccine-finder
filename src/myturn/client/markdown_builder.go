@@ -85,7 +85,6 @@ func writeLocations(availability[] LocationAvailability, writer *bufio.Writer) {
 	}
 
 	if len(availability) == 0 {
-		writer.WriteString(">None\n")
+		writer.WriteString(">None\n\n")
 	}
-	writer.WriteString("<br />\n")
 }
