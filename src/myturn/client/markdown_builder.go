@@ -46,8 +46,8 @@ func BuildMarkdownFile(Locations LocationAvailabilityByDose, NumberOfDaysSearche
 
 func writeLocations(availability[] LocationAvailability, writer *bufio.Writer) {
 	for _, location := range availability {
-		writer.WriteString(fmt.Sprintf("### - %s\n",location.Location.Name))
-		writer.WriteString(fmt.Sprintf("#### %s\n", location.Location.DisplayAddress))
+		writer.WriteString(fmt.Sprintf(">### %s\n",location.Location.Name))
+		writer.WriteString(fmt.Sprintf(">#### %s\n", location.Location.DisplayAddress))
 
 		hasDose1 := 0
 		dose1Dates := ""
@@ -70,19 +70,19 @@ func writeLocations(availability[] LocationAvailability, writer *bufio.Writer) {
 			}
 		}
 
-		writer.WriteString(fmt.Sprintf("- Dose 1 available on %d days\n", hasDose1))
+		writer.WriteString(fmt.Sprintf(">- Dose 1 available on %d days\n", hasDose1))
 		if dose1Dates != "" {
-			writer.WriteString(fmt.Sprintf("  - Days: %s\n", dose1Dates))
+			writer.WriteString(fmt.Sprintf(">  - Days: %s\n", dose1Dates))
 		}
-		writer.WriteString(fmt.Sprintf("- Dose 2 available on %d days\n", hasDose2))
+		writer.WriteString(fmt.Sprintf(">- Dose 2 available on %d days\n", hasDose2))
 		if dose2Dates != "" {
-			writer.WriteString(fmt.Sprintf("  - Days: %s\n", dose2Dates))
+			writer.WriteString(fmt.Sprintf(">  - Days: %s\n", dose2Dates))
 		}
 
 		writer.WriteString("\n")
 	}
 
 	if len(availability) == 0 {
-		writer.WriteString("None\n")
+		writer.WriteString(">None\n")
 	}
 }
