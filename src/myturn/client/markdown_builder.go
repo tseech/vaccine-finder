@@ -28,19 +28,15 @@ func BuildMarkdownFile(Locations LocationAvailabilityByDose, NumberOfDaysSearche
 	writer.WriteString("\n")
 
 	writer.WriteString("## Locations with both doses\n\n")
-	writer.WriteString("<br />\n")
 	writeLocations(Locations.Both, writer)
 
 	writer.WriteString("## Locations with dose 1 only\n\n")
-	writer.WriteString("<br />\n")
 	writeLocations(Locations.Dose1Only, writer)
 
 	writer.WriteString("## Locations with dose 2 only\n\n")
-	writer.WriteString("<br />\n")
 	writeLocations(Locations.Dose2Only, writer)
 
 	writer.WriteString("## Locations with neither\n\n")
-	writer.WriteString("<br />\n")
 	writeLocations(Locations.Neither, writer)
 
 	writer.Flush()
