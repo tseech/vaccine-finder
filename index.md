@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Feb 1 22:22:33 PST 2021*
+*Last Updated: Mon Feb 1 22:23:51 PST 2021*
 
 *Date range: Tue Feb 2 2021 - Thu Mar 4 2021*
 
@@ -10,12 +10,12 @@
 
 <br />
 >None
-<br />
+
 ## Locations with dose 1 only
 
 <br />
 >None
-<br />
+
 ## Locations with dose 2 only
 
 <br />
@@ -79,9 +79,8 @@
 >- Dose 2 available on 9 days
 >  - Days: 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-21, 2021-02-22, 2021-02-23
 
-<br />
 ## Locations with neither
 
 <br />
 >None
-<br />
+
