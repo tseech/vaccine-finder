@@ -24,7 +24,7 @@ func BuildMarkdownFile(Locations LocationAvailabilityByDose, NumberOfDaysSearche
 	writer.WriteString(fmt.Sprintf("*Date range: %s - %s*\n\n",
 		time.Now().Format("Mon Jan 2 2006"),
 		time.Now().Add(time.Hour*24*NumberOfDaysSearched).Format("Mon Jan 2 2006")))
-	writer.WriteString(fmt.Sprintf("*Go to: (https://myturn.ca.gov)[https://myturn.ca.gov] to schedule your appointment*\n\n"))
+	writer.WriteString(fmt.Sprintf("*Go to: <https://myturn.ca.gov> to schedule your appointment*\n\n"))
 	writer.WriteString("\n")
 
 	writer.WriteString("## Locations with both doses\n\n")
