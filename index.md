@@ -1,7 +1,7 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 2 15:56:11 PST 2021*
+*Last Updated: Tue Feb 2 16:49:19 PST 2021*
 
-*Date range: Tue Feb 2 2021 - Thu Mar 4 2021*
+*Date range: Wed Feb 3 2021 - Fri Mar 5 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
@@ -37,14 +37,14 @@
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
 >- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17
+>- Dose 2 available on 10 days
+>  - Days: 2021-02-03, 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-24
 
 >### HHSA CRPHC VIP COVID 19 - Dose 1 appointments available up to Jan. 28
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
 >- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-02, 2021-02-03, 2021-02-04, 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-11
+>- Dose 2 available on 7 days
+>  - Days: 2021-02-03, 2021-02-04, 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-11
 
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St. National City, CA 91950
@@ -55,20 +55,20 @@
 >### HHSA NATIONAL CITY MLK COVID 19 - Dose 1 appointments available up to Jan. 28
 >#### 140 East 12th St. National City, CA 91950
 >- Dose 1 available on 0 days
->- Dose 2 available on 11 days
->  - Days: 2021-02-02, 2021-02-03, 2021-02-04, 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-16, 2021-02-17, 2021-02-18
+>- Dose 2 available on 10 days
+>  - Days: 2021-02-03, 2021-02-04, 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-16, 2021-02-17, 2021-02-18
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
 >- Dose 1 available on 0 days
->- Dose 2 available on 10 days
->  - Days: 2021-02-02, 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-23
+>- Dose 2 available on 9 days
+>  - Days: 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-23
 
 >### HHSA CSUSM COVID 19
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
->- Dose 2 available on 11 days
->  - Days: 2021-02-02, 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-22, 2021-02-23
+>- Dose 2 available on 10 days
+>  - Days: 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-22, 2021-02-23
 
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
