@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 2 20:21:19 PST 2021*
+*Last Updated: Tue Feb 2 20:49:46 PST 2021*
 
 *Date range: Wed Feb 3 2021 - Fri Mar 5 2021*
 
@@ -45,12 +45,6 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 7 days
 >  - Days: 2021-02-03, 2021-02-04, 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-11
-
->### HHSA NATIONAL CITY MLK COVID 19
->#### 140 East 12th St. National City, CA 91950
->- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-07, 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17
 
 >### HHSA NATIONAL CITY MLK COVID 19 - Dose 1 appointments available up to Jan. 28
 >#### 140 East 12th St. National City, CA 91950
