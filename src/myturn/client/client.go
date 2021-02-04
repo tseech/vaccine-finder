@@ -30,13 +30,15 @@ func GetEligibility() model.EligibilityResponse {
 }
 
 func GetLocations(VaccineData string, Lat float32, Lon float32) model.LocationsResponse {
+	loc, _ := time.LoadLocation("America/Los_Angeles")
+
 	url := "https://api.myturn.ca.gov/public/locations/search"
 	request := model.LocationsRequest{
 		Location:    model.Position{
 			Latitude:  Lat,
 			Longitude: Lon,
 		},
-		FromDate:    time.Now().Format("2006-01-02"),
+		FromDate:    time.Now().In(loc).Format("2006-01-02"),
 		VaccineData: VaccineData,
 		Url:         "https://myturn.ca.gov/location-select",
 	}
@@ -62,9 +64,10 @@ func GetLocations(VaccineData string, Lat float32, Lon float32) model.LocationsR
 func checkLocation(VaccineData string, ExtId string, DoseNumber int, NumberOfDays time.Duration) model.CheckLocationResponse {
 	url := fmt.Sprintf("https://api.myturn.ca.gov/public/locations/%s/availability", ExtId)
 
+	loc, _ := time.LoadLocation("America/Los_Angeles")
 	request := model.CheckLocationRequest{
-		StartDate:   time.Now().Format("2006-01-02"),
-		EndDate:     time.Now().Add(time.Hour*24*NumberOfDays).Format("2006-01-02"),
+		StartDate:   time.Now().In(loc).Format("2006-01-02"),
+		EndDate:     time.Now().In(loc).Add(time.Hour*24*NumberOfDays).Format("2006-01-02"),
 		VaccineData: VaccineData,
 		DoseNumber:  DoseNumber,
 		Url:         "https://myturn.ca.gov/appointment-select",

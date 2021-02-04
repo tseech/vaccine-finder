@@ -27,16 +27,16 @@ func BuildMarkdownFile(Locations LocationAvailabilityByDose, NumberOfDaysSearche
 	writer.WriteString(fmt.Sprintf("*Go to: <https://myturn.ca.gov> to schedule your appointment*\n\n"))
 	writer.WriteString("\n")
 
-	writer.WriteString("## Locations with both doses\n\n")
+	writer.WriteString(fmt.Sprintf("## Locations with both doses (%d)\n\n", len(Locations.Both)))
 	writeLocations(Locations.Both, writer)
 
-	writer.WriteString("## Locations with dose 1 only\n\n")
+	writer.WriteString(fmt.Sprintf("## Locations with dose 1 only (%d)\n\n", len(Locations.Dose1Only)))
 	writeLocations(Locations.Dose1Only, writer)
 
-	writer.WriteString("## Locations with dose 2 only\n\n")
+	writer.WriteString(fmt.Sprintf("## Locations with dose 2 only (%d)\n\n", len(Locations.Dose2Only)))
 	writeLocations(Locations.Dose2Only, writer)
 
-	writer.WriteString("## Locations with neither\n\n")
+	writer.WriteString(fmt.Sprintf("## Locations with neither (%d)\n\n", len(Locations.Neither)))
 	writeLocations(Locations.Neither, writer)
 
 	writer.Flush()
