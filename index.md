@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 4 19:16:27 PST 2021*
+*Last Updated: Thu Feb 4 19:41:23 PST 2021*
 
 *Date range: Fri Feb 5 2021 - Sun Mar 7 2021*
 
@@ -19,8 +19,8 @@
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
 >- Dose 1 available on 0 days
->- Dose 2 available on 11 days
->  - Days: 2021-02-04, 2021-02-06, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-13, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-23, 2021-02-25
+>- Dose 2 available on 13 days
+>  - Days: 2021-02-04, 2021-02-05, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-12, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-19, 2021-02-23, 2021-02-25, 2021-02-26
 
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
