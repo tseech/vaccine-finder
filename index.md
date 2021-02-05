@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 4 21:48:24 PST 2021*
+*Last Updated: Thu Feb 4 22:17:29 PST 2021*
 
 *Date range: Fri Feb 5 2021 - Sun Mar 7 2021*
 
@@ -36,8 +36,8 @@
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
 >- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-12, 2021-02-19, 2021-02-26
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-12, 2021-02-19
 
 >### HHSA CSUSM COVID 19
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
