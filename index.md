@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 5 14:43:51 PST 2021*
+*Last Updated: Fri Feb 5 14:53:55 PST 2021*
 
 *Date range: Fri Feb 5 2021 - Sun Mar 7 2021*
 
@@ -33,25 +33,13 @@
 
 >None
 
-## Locations with dose 2 only (5)
+## Locations with dose 2 only (3)
 
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
 >- Dose 1 available on 0 days
 >- Dose 2 available on 10 days
 >  - Days: 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-12, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-19, 2021-02-23, 2021-02-25
-
->### HHSA ERPHC COVID 19 - Dose 1 appointments available up to Jan. 29
->#### 367 N Magnolia El Cajon, CA 92020
->- Dose 1 available on 0 days
->- Dose 2 available on 9 days
->  - Days: 2021-02-05, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-12, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26
-
->### HHSA IMPERIAL BEACH COVID 19- Dose 1 appointments available up to Jan. 29
->#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
->- Dose 1 available on 0 days
->- Dose 2 available on 13 days
->  - Days: 2021-02-05, 2021-02-06, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-12, 2021-02-13, 2021-02-18, 2021-02-20, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
