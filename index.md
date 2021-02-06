@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Feb 6 14:43:30 PST 2021*
+*Last Updated: Sat Feb 6 14:53:35 PST 2021*
 
 *Date range: Sat Feb 6 2021 - Mon Mar 8 2021*
 
@@ -25,7 +25,7 @@
 >#### 367 N Magnolia El Cajon, CA 92020
 >- Dose 1 available on 0 days
 >- Dose 2 available on 14 days
->  - Days: 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-12, 2021-02-14, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-19, 2021-02-21, 2021-02-23, 2021-02-25, 2021-02-26, 2021-02-28
+>  - Days: 2021-02-06, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-12, 2021-02-13, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-19, 2021-02-23, 2021-02-25, 2021-02-26, 2021-02-27
 
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
@@ -48,8 +48,8 @@
 >### HHSA CSUSM COVID 19
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
->- Dose 2 available on 12 days
->  - Days: 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-21, 2021-02-25, 2021-02-28
+>- Dose 2 available on 11 days
+>  - Days: 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-21, 2021-02-25
 
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
