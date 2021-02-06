@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 5 17:22:21 PST 2021*
+*Last Updated: Fri Feb 5 17:59:34 PST 2021*
 
 *Date range: Sat Feb 6 2021 - Mon Mar 8 2021*
 
@@ -10,10 +10,10 @@
 
 >### HHSA TUBMAN CHAVEZ COVID 19 - Dose 1 appointments available up to Jan 29
 >#### 415 Euclid Street, San Diego CA 92114
->- Dose 1 available on 2 days
->  - Days: 2021-02-05, 2021-02-06
->- Dose 2 available on 10 days
->  - Days: 2021-02-05, 2021-02-06, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-05, 2021-03-06
+>- Dose 1 available on 1 days
+>  - Days: 2021-02-05
+>- Dose 2 available on 8 days
+>  - Days: 2021-02-05, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-05
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
