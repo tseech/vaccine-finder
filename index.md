@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 5 20:44:04 PST 2021*
+*Last Updated: Fri Feb 5 20:55:17 PST 2021*
 
 *Date range: Sat Feb 6 2021 - Mon Mar 8 2021*
 
@@ -12,8 +12,8 @@
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
 >- Dose 1 available on 1 days
 >  - Days: 2021-02-05
->- Dose 2 available on 8 days
->  - Days: 2021-02-05, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-05
+>- Dose 2 available on 9 days
+>  - Days: 2021-02-05, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-05, 2021-03-06
 
 ## Locations with dose 1 only (0)
 
