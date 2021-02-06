@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 5 17:59:34 PST 2021*
+*Last Updated: Fri Feb 5 18:28:48 PST 2021*
 
 *Date range: Sat Feb 6 2021 - Mon Mar 8 2021*
 
@@ -12,15 +12,15 @@
 >#### 415 Euclid Street, San Diego CA 92114
 >- Dose 1 available on 1 days
 >  - Days: 2021-02-05
->- Dose 2 available on 8 days
->  - Days: 2021-02-05, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-05
+>- Dose 2 available on 9 days
+>  - Days: 2021-02-05, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-05, 2021-03-06
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
->- Dose 1 available on 2 days
->  - Days: 2021-02-05, 2021-02-06
->- Dose 2 available on 10 days
->  - Days: 2021-02-05, 2021-02-06, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-05, 2021-03-06
+>- Dose 1 available on 1 days
+>  - Days: 2021-02-05
+>- Dose 2 available on 9 days
+>  - Days: 2021-02-05, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-05, 2021-03-06
 
 ## Locations with dose 1 only (0)
 
@@ -37,8 +37,8 @@
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
 >- Dose 1 available on 0 days
->- Dose 2 available on 7 days
->  - Days: 2021-02-05, 2021-02-06, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-26, 2021-02-27
+>- Dose 2 available on 6 days
+>  - Days: 2021-02-05, 2021-02-06, 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-26
 
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
