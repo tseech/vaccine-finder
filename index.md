@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Feb 7 21:48:26 PST 2021*
+*Last Updated: Sun Feb 7 22:17:47 PST 2021*
 
 *Date range: Mon Feb 8 2021 - Wed Mar 10 2021*
 
@@ -25,14 +25,14 @@
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
 >- Dose 1 available on 0 days
->- Dose 2 available on 2 days
->  - Days: 2021-02-14, 2021-02-15
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-14, 2021-02-15, 2021-03-01
 
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St. National City, CA 91950
 >- Dose 1 available on 0 days
->- Dose 2 available on 14 days
->  - Days: 2021-02-07, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-21, 2021-02-24, 2021-02-25, 2021-02-28, 2021-03-01
+>- Dose 2 available on 13 days
+>  - Days: 2021-02-07, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-21, 2021-02-24, 2021-02-25, 2021-02-28
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
