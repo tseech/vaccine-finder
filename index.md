@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Feb 8 15:16:26 PST 2021*
+*Last Updated: Mon Feb 8 15:42:15 PST 2021*
 
 *Date range: Mon Feb 8 2021 - Wed Mar 10 2021*
 
@@ -42,8 +42,8 @@
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
 >- Dose 1 available on 0 days
->- Dose 2 available on 2 days
->  - Days: 2021-02-16, 2021-03-02
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-09, 2021-02-16, 2021-03-02
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 505 Elm. Ave., Imperial Beach, CA 91932
@@ -60,8 +60,8 @@
 >### HHSA CSUSM COVID 19
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
->- Dose 2 available on 14 days
->  - Days: 2021-02-08, 2021-02-09, 2021-02-10, 2021-02-11, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-21, 2021-02-25, 2021-02-28, 2021-03-01, 2021-03-02
+>- Dose 2 available on 13 days
+>  - Days: 2021-02-08, 2021-02-10, 2021-02-11, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-21, 2021-02-25, 2021-02-28, 2021-03-01, 2021-03-02
 
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
