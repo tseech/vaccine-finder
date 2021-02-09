@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 9 10:17:47 PST 2021*
+*Last Updated: Tue Feb 9 10:46:06 PST 2021*
 
 *Date range: Tue Feb 9 2021 - Thu Mar 11 2021*
 
@@ -67,8 +67,8 @@
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
 >- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-16, 2021-02-23, 2021-03-02
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-16, 2021-02-23, 2021-03-02, 2021-03-09
 
 ## Locations with neither (0)
 
