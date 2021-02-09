@@ -1,25 +1,20 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Feb 8 17:59:31 PST 2021*
+*Last Updated: Mon Feb 8 18:27:56 PST 2021*
 
 *Date range: Tue Feb 9 2021 - Thu Mar 11 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (0)
 
->### HHSA SOUTHWESTERN COLLEGE SY COVID 19
->#### 460 W San Ysidro Blvd, San Ysidro, 92173
->- Dose 1 available on 1 days
->  - Days: 2021-02-09
->- Dose 2 available on 4 days
->  - Days: 2021-02-09, 2021-02-16, 2021-02-23, 2021-03-09
+>None
 
 ## Locations with dose 1 only (0)
 
 >None
 
-## Locations with dose 2 only (8)
+## Locations with dose 2 only (9)
 
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
@@ -36,8 +31,8 @@
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St. National City, CA 91950
 >- Dose 1 available on 0 days
->- Dose 2 available on 2 days
->  - Days: 2021-02-16, 2021-02-23
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-09, 2021-02-16, 2021-02-23, 2021-03-02
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
@@ -56,6 +51,12 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 5 days
 >  - Days: 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-26, 2021-02-27
+
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd, San Ysidro, 92173
+>- Dose 1 available on 0 days
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-16, 2021-02-23, 2021-03-09
 
 >### HHSA CSUSM COVID 19
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
