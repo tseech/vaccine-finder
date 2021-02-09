@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 9 07:15:16 PST 2021*
+*Last Updated: Tue Feb 9 07:40:06 PST 2021*
 
 *Date range: Tue Feb 9 2021 - Thu Mar 11 2021*
 
@@ -43,8 +43,8 @@
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 505 Elm. Ave., Imperial Beach, CA 91932
 >- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-16, 2021-02-23, 2021-03-02
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-16, 2021-02-23
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
