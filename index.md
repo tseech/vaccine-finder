@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 10 13:44:30 PST 2021*
+*Last Updated: Wed Feb 10 13:56:22 PST 2021*
 
 *Date range: Wed Feb 10 2021 - Fri Mar 12 2021*
 
@@ -61,8 +61,8 @@
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
->- Dose 2 available on 6 days
->  - Days: 2021-02-11, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-18
+>- Dose 2 available on 7 days
+>  - Days: 2021-02-11, 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-17, 2021-02-18, 2021-03-03
 
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
