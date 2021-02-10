@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 10 08:29:34 PST 2021*
+*Last Updated: Wed Feb 10 09:08:51 PST 2021*
 
 *Date range: Wed Feb 10 2021 - Fri Mar 12 2021*
 
@@ -12,8 +12,8 @@
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
 >- Dose 1 available on 1 days
 >  - Days: 2021-02-10
->- Dose 2 available on 7 days
->  - Days: 2021-02-10, 2021-02-16, 2021-02-17, 2021-02-23, 2021-02-24, 2021-03-09, 2021-03-10
+>- Dose 2 available on 6 days
+>  - Days: 2021-02-10, 2021-02-16, 2021-02-17, 2021-02-23, 2021-02-24, 2021-03-09
 
 ## Locations with dose 1 only (0)
 
@@ -30,8 +30,8 @@
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St. National City, CA 91950
 >- Dose 1 available on 0 days
->- Dose 2 available on 4 days
->  - Days: 2021-02-16, 2021-02-17, 2021-02-23, 2021-03-03
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-16, 2021-02-17, 2021-02-23
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
@@ -48,8 +48,8 @@
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd, CA 91932
 >- Dose 1 available on 0 days
->- Dose 2 available on 4 days
->  - Days: 2021-02-10, 2021-02-17, 2021-02-24, 2021-03-03
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-17, 2021-02-24, 2021-03-03
 
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
