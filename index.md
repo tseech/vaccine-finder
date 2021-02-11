@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 11 11:48:54 PST 2021*
+*Last Updated: Thu Feb 11 12:16:54 PST 2021*
 
 *Date range: Thu Feb 11 2021 - Sat Mar 13 2021*
 
@@ -67,8 +67,8 @@
 >### Palomar Medical Center Downtown Escondido - Pfizer Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
 >- Dose 1 available on 0 days
->- Dose 2 available on 6 days
->  - Days: 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-06
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27
 
 >### Palomar Medical Center Downtown Escondido - Moderna Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
