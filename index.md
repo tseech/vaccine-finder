@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 10 20:27:47 PST 2021*
+*Last Updated: Wed Feb 10 20:44:38 PST 2021*
 
 *Date range: Thu Feb 11 2021 - Sat Mar 13 2021*
 
@@ -30,14 +30,14 @@
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St. National City, CA 91950
 >- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-11, 2021-02-18, 2021-03-04
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-18, 2021-03-04
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
 >- Dose 1 available on 0 days
->- Dose 2 available on 1 days
->  - Days: 2021-02-18
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-11, 2021-02-18, 2021-03-04
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
@@ -54,8 +54,8 @@
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
->- Dose 2 available on 1 days
->  - Days: 2021-02-18
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-18, 2021-03-04
 
 >### HHSA CSUSM COVID-19 - Moderna
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
