@@ -1,22 +1,15 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 10 19:16:39 PST 2021*
+*Last Updated: Wed Feb 10 19:41:44 PST 2021*
 
 *Date range: Thu Feb 11 2021 - Sat Mar 13 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (1)
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
->- Dose 1 available on 1 days
->  - Days: 2021-02-11
->- Dose 2 available on 5 days
->  - Days: 2021-02-11, 2021-02-18, 2021-02-25, 2021-03-04, 2021-03-11
-
->### HHSA CSUSM COVID-19 - Moderna
->#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 1 days
 >  - Days: 2021-02-11
 >- Dose 2 available on 5 days
@@ -26,7 +19,7 @@
 
 >None
 
-## Locations with dose 2 only (7)
+## Locations with dose 2 only (8)
 
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
@@ -61,8 +54,14 @@
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-11, 2021-02-18, 2021-03-04
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-18, 2021-03-04
+
+>### HHSA CSUSM COVID-19 - Moderna
+>#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 0 days
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-18, 2021-02-25, 2021-03-04, 2021-03-11
 
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
