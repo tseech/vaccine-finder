@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 10 17:28:32 PST 2021*
+*Last Updated: Wed Feb 10 18:00:50 PST 2021*
 
 *Date range: Thu Feb 11 2021 - Sat Mar 13 2021*
 
@@ -12,8 +12,8 @@
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
 >- Dose 1 available on 1 days
 >  - Days: 2021-02-11
->- Dose 2 available on 4 days
->  - Days: 2021-02-11, 2021-02-18, 2021-02-25, 2021-03-11
+>- Dose 2 available on 5 days
+>  - Days: 2021-02-11, 2021-02-18, 2021-02-25, 2021-03-04, 2021-03-11
 
 >### HHSA CSUSM COVID-19 - Moderna
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
@@ -33,7 +33,7 @@
 
 >None
 
-## Locations with dose 2 only (5)
+## Locations with dose 2 only (6)
 
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
@@ -44,14 +44,20 @@
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St. National City, CA 91950
 >- Dose 1 available on 0 days
->- Dose 2 available on 2 days
->  - Days: 2021-02-11, 2021-02-18
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-11, 2021-02-18, 2021-03-04
+
+>### HHSA SRPHC COVID 19
+>#### 690 Oxford St. Chula Vista, CA 91911
+>- Dose 1 available on 0 days
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-11, 2021-02-18, 2021-03-04
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
 >- Dose 1 available on 0 days
->- Dose 2 available on 5 days
->  - Days: 2021-02-12, 2021-02-13, 2021-02-19, 2021-02-26, 2021-02-27
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-11, 2021-02-18
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd, CA 91932
@@ -65,15 +71,10 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-02-11, 2021-02-18, 2021-03-04
 
-## Locations with neither (2)
+## Locations with neither (1)
 
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### HHSA SRPHC COVID 19
->#### 690 Oxford St. Chula Vista, CA 91911
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
