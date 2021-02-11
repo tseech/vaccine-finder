@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 10 21:26:59 PST 2021*
+*Last Updated: Wed Feb 10 21:38:51 PST 2021*
 
 *Date range: Thu Feb 11 2021 - Sat Mar 13 2021*
 
@@ -30,8 +30,8 @@
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St. National City, CA 91950
 >- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-11, 2021-02-18, 2021-03-04
+>- Dose 2 available on 1 days
+>  - Days: 2021-02-18
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
