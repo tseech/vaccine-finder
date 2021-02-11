@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 11 12:39:46 PST 2021*
+*Last Updated: Thu Feb 11 12:48:53 PST 2021*
 
 *Date range: Thu Feb 11 2021 - Sat Mar 13 2021*
 
@@ -61,8 +61,8 @@
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd, CA 91932
 >- Dose 1 available on 0 days
->- Dose 2 available on 4 days
->  - Days: 2021-02-11, 2021-02-18, 2021-02-25, 2021-03-04
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-18, 2021-02-25
 
 >### Palomar Medical Center Downtown Escondido - Pfizer Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
