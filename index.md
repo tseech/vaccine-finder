@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 10 18:00:50 PST 2021*
+*Last Updated: Wed Feb 10 18:34:51 PST 2021*
 
 *Date range: Thu Feb 11 2021 - Sat Mar 13 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (2)
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
@@ -22,18 +22,11 @@
 >- Dose 2 available on 5 days
 >  - Days: 2021-02-11, 2021-02-18, 2021-02-25, 2021-03-04, 2021-03-11
 
->### HHSA NCPHC OCEAN RANCH COVID 19
->#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
->- Dose 1 available on 1 days
->  - Days: 2021-02-11
->- Dose 2 available on 5 days
->  - Days: 2021-02-11, 2021-02-18, 2021-02-25, 2021-03-04, 2021-03-11
-
 ## Locations with dose 1 only (0)
 
 >None
 
-## Locations with dose 2 only (6)
+## Locations with dose 2 only (7)
 
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
@@ -70,6 +63,12 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 3 days
 >  - Days: 2021-02-11, 2021-02-18, 2021-03-04
+
+>### HHSA NCPHC OCEAN RANCH COVID 19
+>#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
+>- Dose 1 available on 0 days
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-18, 2021-02-25, 2021-03-04, 2021-03-11
 
 ## Locations with neither (1)
 
