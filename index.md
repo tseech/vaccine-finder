@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 11 18:01:29 PST 2021*
+*Last Updated: Thu Feb 11 18:36:12 PST 2021*
 
 *Date range: Fri Feb 12 2021 - Sun Mar 14 2021*
 
@@ -33,7 +33,7 @@
 
 >None
 
-## Locations with dose 2 only (7)
+## Locations with dose 2 only (6)
 
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
@@ -64,12 +64,6 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 4 days
 >  - Days: 2021-02-11, 2021-02-18, 2021-02-25, 2021-03-04
-
->### Palomar Medical Center Downtown Escondido - Pfizer Clinic
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 0 days
->- Dose 2 available on 4 days
->  - Days: 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27
 
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
