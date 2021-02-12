@@ -1,32 +1,43 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 12 07:34:23 PST 2021*
+*Last Updated: Fri Feb 12 07:53:52 PST 2021*
 
 *Date range: Fri Feb 12 2021 - Sun Mar 14 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (0)
+## Locations with both doses (1)
 
->None
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd, San Ysidro, 92173
+>- Dose 1 available on 1 days
+>  - Days: 2021-02-12
+>- Dose 2 available on 5 days
+>  - Days: 2021-02-12, 2021-02-19, 2021-02-26, 2021-03-05, 2021-03-12
 
 ## Locations with dose 1 only (0)
 
 >None
 
-## Locations with dose 2 only (9)
+## Locations with dose 2 only (8)
+
+>### HHSA ERPHC COVID 19
+>#### 367 N Magnolia El Cajon, CA 92020
+>- Dose 1 available on 0 days
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-12, 2021-02-19, 2021-02-26, 2021-03-05
+
+>### HHSA TUBMAN CHAVEZ COVID 19
+>#### 415 Euclid Streed, San Diego CA 92114
+>- Dose 1 available on 0 days
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-12, 2021-02-19, 2021-02-26, 2021-03-05
 
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
 >- Dose 1 available on 0 days
 >- Dose 2 available on 1 days
 >  - Days: 2021-02-18
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station
->#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
->- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-14, 2021-02-19, 2021-02-20, 2021-02-21, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-07
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
@@ -39,18 +50,6 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 1 days
 >  - Days: 2021-02-18
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd, CA 91932
->- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-18, 2021-02-25, 2021-03-04
-
->### HHSA SOUTHWESTERN COLLEGE SY COVID 19
->#### 460 W San Ysidro Blvd, San Ysidro, 92173
->- Dose 1 available on 0 days
->- Dose 2 available on 4 days
->  - Days: 2021-02-18, 2021-02-25, 2021-03-04, 2021-03-11
 
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
@@ -72,8 +71,8 @@
 
 ## Locations with neither (1)
 
->### HHSA ERPHC COVID 19
->#### 367 N Magnolia El Cajon, CA 92020
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd, CA 91932
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
