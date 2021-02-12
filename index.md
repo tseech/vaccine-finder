@@ -1,14 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 12 14:17:21 PST 2021*
+*Last Updated: Fri Feb 12 14:44:06 PST 2021*
 
 *Date range: Fri Feb 12 2021 - Sun Mar 14 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (0)
+## Locations with both doses (1)
 
->None
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd, San Ysidro, 92173
+>- Dose 1 available on 1 days
+>  - Days: 2021-02-13
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-13, 2021-02-20, 2021-02-27, 2021-03-13
 
 ## Locations with dose 1 only (0)
 
@@ -76,10 +81,7 @@
 >- Dose 2 available on 4 days
 >  - Days: 2021-02-18, 2021-02-25, 2021-03-04, 2021-03-11
 
-## Locations with neither (1)
+## Locations with neither (0)
 
->### HHSA SOUTHWESTERN COLLEGE SY COVID 19
->#### 460 W San Ysidro Blvd, San Ysidro, 92173
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+>None
 
