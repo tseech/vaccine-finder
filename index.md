@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 11 17:23:54 PST 2021*
+*Last Updated: Thu Feb 11 18:01:29 PST 2021*
 
 *Date range: Fri Feb 12 2021 - Sun Mar 14 2021*
 
@@ -33,7 +33,7 @@
 
 >None
 
-## Locations with dose 2 only (8)
+## Locations with dose 2 only (7)
 
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd. San Diego, CA 92113
@@ -50,8 +50,8 @@
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
 >- Dose 1 available on 0 days
->- Dose 2 available on 1 days
->  - Days: 2021-02-18
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-11, 2021-02-18, 2021-03-04
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
@@ -64,12 +64,6 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 4 days
 >  - Days: 2021-02-11, 2021-02-18, 2021-02-25, 2021-03-04
-
->### Palomar Medical Center Downtown Escondido - Moderna Clinic
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 0 days
->- Dose 2 available on 6 days
->  - Days: 2021-02-19, 2021-02-20, 2021-02-26, 2021-02-27, 2021-03-05, 2021-03-06
 
 >### Palomar Medical Center Downtown Escondido - Pfizer Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
