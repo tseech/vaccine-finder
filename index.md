@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 12 08:27:23 PST 2021*
+*Last Updated: Fri Feb 12 09:07:44 PST 2021*
 
 *Date range: Fri Feb 12 2021 - Sun Mar 14 2021*
 
@@ -19,13 +19,13 @@
 
 >None
 
-## Locations with dose 2 only (9)
+## Locations with dose 2 only (8)
 
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
 >- Dose 1 available on 0 days
->- Dose 2 available on 4 days
->  - Days: 2021-02-12, 2021-02-19, 2021-02-26, 2021-03-05
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-19, 2021-02-26
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Streed, San Diego CA 92114
@@ -38,12 +38,6 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 1 days
 >  - Days: 2021-02-18
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station
->#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
->- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-14, 2021-02-19, 2021-02-20, 2021-02-21, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-07
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
