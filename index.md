@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 12 11:27:29 PST 2021*
+*Last Updated: Fri Feb 12 11:35:54 PST 2021*
 
 *Date range: Fri Feb 12 2021 - Sun Mar 14 2021*
 
@@ -19,8 +19,8 @@
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
 >- Dose 1 available on 0 days
->- Dose 2 available on 2 days
->  - Days: 2021-02-19, 2021-02-26
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-19, 2021-02-26, 2021-03-05
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Streed, San Diego CA 92114
