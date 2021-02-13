@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Feb 13 12:48:31 PST 2021*
+*Last Updated: Sat Feb 13 13:13:39 PST 2021*
 
 *Date range: Sat Feb 13 2021 - Mon Mar 15 2021*
 
@@ -61,8 +61,8 @@
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
 >- Dose 1 available on 0 days
->- Dose 2 available on 2 days
->  - Days: 2021-02-20, 2021-02-27
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-20, 2021-02-27, 2021-03-13
 
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
