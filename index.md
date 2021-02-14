@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Feb 14 09:36:13 PST 2021*
+*Last Updated: Sun Feb 14 09:52:54 PST 2021*
 
 *Date range: Sun Feb 14 2021 - Tue Mar 16 2021*
 
@@ -14,7 +14,7 @@
 
 >None
 
-## Locations with dose 2 only (10)
+## Locations with dose 2 only (11)
 
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
@@ -52,6 +52,12 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-02-20, 2021-02-27, 2021-03-13
 
+>### HHSA CSUSM COVID 19 - Pfizer
+>#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 0 days
+>- Dose 2 available on 1 days
+>  - Days: 2021-03-07
+
 >### HHSA CSUSM COVID-19 - Moderna
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
@@ -76,10 +82,7 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-02-21, 2021-02-28, 2021-03-07
 
-## Locations with neither (1)
+## Locations with neither (0)
 
->### HHSA CSUSM COVID 19 - Pfizer
->#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+>None
 
