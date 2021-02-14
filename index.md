@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Feb 13 19:16:29 PST 2021*
+*Last Updated: Sat Feb 13 19:41:57 PST 2021*
 
 *Date range: Sun Feb 14 2021 - Tue Mar 16 2021*
 
@@ -36,8 +36,8 @@
 >### Scripps Del Mar Fairgrounds Vaccination Super Station
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
 >- Dose 1 available on 0 days
->- Dose 2 available on 11 days
->  - Days: 2021-02-13, 2021-02-14, 2021-02-19, 2021-02-20, 2021-02-21, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-05, 2021-03-06, 2021-03-07
+>- Dose 2 available on 9 days
+>  - Days: 2021-02-13, 2021-02-19, 2021-02-20, 2021-02-21, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-05, 2021-03-06
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
@@ -69,17 +69,17 @@
 >- Dose 2 available on 4 days
 >  - Days: 2021-02-14, 2021-02-21, 2021-02-28, 2021-03-07
 
->### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
->#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
->- Dose 1 available on 0 days
->- Dose 2 available on 4 days
->  - Days: 2021-02-14, 2021-02-21, 2021-02-28, 2021-03-07
-
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
 >- Dose 1 available on 0 days
 >- Dose 2 available on 3 days
 >  - Days: 2021-02-18, 2021-02-25, 2021-03-04
+
+>### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
+>#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
+>- Dose 1 available on 0 days
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-14, 2021-02-21, 2021-02-28, 2021-03-07
 
 ## Locations with neither (0)
 
