@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Feb 14 05:40:26 PST 2021*
+*Last Updated: Sun Feb 14 05:48:32 PST 2021*
 
 *Date range: Sun Feb 14 2021 - Tue Mar 16 2021*
 
@@ -67,8 +67,8 @@
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
 >- Dose 1 available on 0 days
->- Dose 2 available on 4 days
->  - Days: 2021-02-14, 2021-02-21, 2021-02-28, 2021-03-07
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-21, 2021-02-28
 
 >### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
