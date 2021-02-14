@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Feb 14 10:17:22 PST 2021*
+*Last Updated: Sun Feb 14 10:45:41 PST 2021*
 
 *Date range: Sun Feb 14 2021 - Tue Mar 16 2021*
 
@@ -14,7 +14,7 @@
 
 >None
 
-## Locations with dose 2 only (10)
+## Locations with dose 2 only (11)
 
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
@@ -31,8 +31,8 @@
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
 >- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-19, 2021-02-20, 2021-02-21, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-05, 2021-03-06
+>- Dose 2 available on 10 days
+>  - Days: 2021-02-14, 2021-02-19, 2021-02-20, 2021-02-21, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-05, 2021-03-06, 2021-03-07
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
@@ -52,6 +52,12 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-02-20, 2021-02-27, 2021-03-13
 
+>### HHSA CSUSM COVID 19 - Pfizer
+>#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 0 days
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-14, 2021-03-07
+
 >### HHSA CSUSM COVID-19 - Moderna
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
@@ -64,22 +70,19 @@
 >- Dose 2 available on 4 days
 >  - Days: 2021-02-14, 2021-02-21, 2021-02-28, 2021-03-07
 
->### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
->#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
->- Dose 1 available on 0 days
->- Dose 2 available on 2 days
->  - Days: 2021-02-21, 2021-02-28
-
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
 >- Dose 1 available on 0 days
 >- Dose 2 available on 3 days
 >  - Days: 2021-02-18, 2021-02-25, 2021-03-04
 
-## Locations with neither (1)
-
->### HHSA CSUSM COVID 19 - Pfizer
->#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
+>### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
+>#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
 >- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-21, 2021-02-28
+
+## Locations with neither (0)
+
+>None
 
