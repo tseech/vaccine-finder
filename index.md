@@ -1,25 +1,20 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Feb 14 23:48:39 PST 2021*
+*Last Updated: Mon Feb 15 00:20:01 PST 2021*
 
 *Date range: Mon Feb 15 2021 - Wed Mar 17 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (0)
 
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
->#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
->- Dose 1 available on 1 days
->  - Days: 2021-02-14
->- Dose 2 available on 25 days
->  - Days: 2021-02-14, 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-19, 2021-02-20, 2021-02-21, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-14
+>None
 
 ## Locations with dose 1 only (0)
 
 >None
 
-## Locations with dose 2 only (10)
+## Locations with dose 2 only (11)
 
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
@@ -32,6 +27,12 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 2 days
 >  - Days: 2021-02-20, 2021-03-06
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
+>#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
+>- Dose 1 available on 0 days
+>- Dose 2 available on 24 days
+>  - Days: 2021-02-16, 2021-02-17, 2021-02-18, 2021-02-19, 2021-02-20, 2021-02-21, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-14
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
@@ -54,8 +55,8 @@
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
->- Dose 2 available on 7 days
->  - Days: 2021-02-14, 2021-02-15, 2021-02-16, 2021-03-02, 2021-03-07, 2021-03-08, 2021-03-09
+>- Dose 2 available on 6 days
+>  - Days: 2021-02-15, 2021-02-16, 2021-03-02, 2021-03-07, 2021-03-08, 2021-03-09
 
 >### HHSA CSUSM COVID-19 - Moderna
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
@@ -66,8 +67,8 @@
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
 >- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-14, 2021-02-15, 2021-02-21, 2021-02-22, 2021-02-28, 2021-03-01, 2021-03-07, 2021-03-08
+>- Dose 2 available on 7 days
+>  - Days: 2021-02-15, 2021-02-21, 2021-02-22, 2021-02-28, 2021-03-01, 2021-03-07, 2021-03-08
 
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
@@ -78,8 +79,8 @@
 >### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
 >- Dose 1 available on 0 days
->- Dose 2 available on 12 days
->  - Days: 2021-02-14, 2021-02-15, 2021-02-16, 2021-02-21, 2021-02-22, 2021-02-23, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-07, 2021-03-08, 2021-03-09
+>- Dose 2 available on 11 days
+>  - Days: 2021-02-15, 2021-02-16, 2021-02-21, 2021-02-22, 2021-02-23, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-07, 2021-03-08, 2021-03-09
 
 ## Locations with neither (0)
 
