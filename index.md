@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 16 14:53:55 PST 2021*
+*Last Updated: Tue Feb 16 15:16:55 PST 2021*
 
 *Date range: Tue Feb 16 2021 - Thu Mar 18 2021*
 
@@ -60,8 +60,8 @@
 >### Palomar Medical Center Downtown Escondido - Pfizer Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
 >- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-24, 2021-03-03, 2021-03-10
+>- Dose 2 available on 2 days
+>  - Days: 2021-02-24, 2021-03-03
 
 >### HHSA CSUSM COVID-19 - Moderna
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
