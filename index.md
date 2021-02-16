@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 16 14:44:13 PST 2021*
+*Last Updated: Tue Feb 16 14:53:55 PST 2021*
 
 *Date range: Tue Feb 16 2021 - Thu Mar 18 2021*
 
@@ -24,8 +24,8 @@
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
 >- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-27, 2021-03-02, 2021-03-06
+>- Dose 2 available on 5 days
+>  - Days: 2021-02-16, 2021-02-27, 2021-03-02, 2021-03-06, 2021-03-09
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Ave., San Diego CA 92114
@@ -60,8 +60,8 @@
 >### Palomar Medical Center Downtown Escondido - Pfizer Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
 >- Dose 1 available on 0 days
->- Dose 2 available on 2 days
->  - Days: 2021-02-24, 2021-03-03
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-24, 2021-03-03, 2021-03-10
 
 >### HHSA CSUSM COVID-19 - Moderna
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
