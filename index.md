@@ -1,14 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Feb 15 16:39:17 PST 2021*
+*Last Updated: Mon Feb 15 17:24:24 PST 2021*
 
 *Date range: Tue Feb 16 2021 - Thu Mar 18 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (0)
+## Locations with both doses (1)
 
->None
+>### Palomar Medical Center Downtown Escondido - Moderna Clinic
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 1 days
+>  - Days: 2021-02-16
+>- Dose 2 available on 5 days
+>  - Days: 2021-02-16, 2021-02-23, 2021-03-02, 2021-03-09, 2021-03-16
 
 ## Locations with dose 1 only (0)
 
@@ -55,8 +60,8 @@
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 0 days
->- Dose 2 available on 6 days
->  - Days: 2021-02-15, 2021-02-16, 2021-03-02, 2021-03-07, 2021-03-08, 2021-03-09
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-15, 2021-03-02, 2021-03-07, 2021-03-08
 
 >### HHSA CSUSM COVID-19 - Moderna
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
@@ -70,17 +75,17 @@
 >- Dose 2 available on 7 days
 >  - Days: 2021-02-15, 2021-02-21, 2021-02-22, 2021-02-28, 2021-03-01, 2021-03-07, 2021-03-08
 
->### HHSA NCPHC OCEAN RANCH COVID 19
->#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
->- Dose 1 available on 0 days
->- Dose 2 available on 3 days
->  - Days: 2021-02-18, 2021-02-25, 2021-03-04
-
 >### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
 >- Dose 1 available on 0 days
 >- Dose 2 available on 9 days
 >  - Days: 2021-02-15, 2021-02-21, 2021-02-22, 2021-02-23, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-07, 2021-03-08
+
+>### HHSA NCPHC OCEAN RANCH COVID 19
+>#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
+>- Dose 1 available on 0 days
+>- Dose 2 available on 3 days
+>  - Days: 2021-02-18, 2021-02-25, 2021-03-04
 
 ## Locations with neither (0)
 
