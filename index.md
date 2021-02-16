@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 16 13:44:14 PST 2021*
+*Last Updated: Tue Feb 16 13:52:31 PST 2021*
 
 *Date range: Tue Feb 16 2021 - Thu Mar 18 2021*
 
@@ -23,7 +23,7 @@
 >  - Days: 2021-02-27, 2021-03-02, 2021-03-06
 
 >### HHSA TUBMAN CHAVEZ COVID 19
->#### 415 Euclid Streed, San Diego CA 92114
+>#### 415 Euclid Ave., San Diego CA 92114
 >- Dose 1 available on 0 days
 >- Dose 2 available on 2 days
 >  - Days: 2021-02-20, 2021-03-06
@@ -41,7 +41,7 @@
 >  - Days: 2021-02-18
 
 >### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd, CA 91932
+>#### 524 Imperial Beach Blvd., Imperial Beach CA 91932
 >- Dose 1 available on 0 days
 >- Dose 2 available on 7 days
 >  - Days: 2021-02-16, 2021-02-20, 2021-02-23, 2021-02-27, 2021-03-02, 2021-03-06, 2021-03-09
