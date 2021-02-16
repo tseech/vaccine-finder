@@ -1,19 +1,14 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 16 06:48:31 PST 2021*
+*Last Updated: Tue Feb 16 07:15:16 PST 2021*
 
 *Date range: Tue Feb 16 2021 - Thu Mar 18 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (0)
 
->### Palomar Medical Center Downtown Escondido - Moderna Clinic
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 1 days
->  - Days: 2021-02-16
->- Dose 2 available on 5 days
->  - Days: 2021-02-16, 2021-02-23, 2021-03-02, 2021-03-09, 2021-03-16
+>None
 
 ## Locations with dose 1 only (0)
 
@@ -84,8 +79,8 @@
 >### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
 >- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-21, 2021-02-22, 2021-02-23, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-07, 2021-03-08
+>- Dose 2 available on 10 days
+>  - Days: 2021-02-16, 2021-02-21, 2021-02-22, 2021-02-23, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-07, 2021-03-08, 2021-03-09
 
 >### HHSA NCPHC OCEAN RANCH COVID 19
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
