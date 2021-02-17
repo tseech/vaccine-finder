@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 16 19:17:11 PST 2021*
+*Last Updated: Tue Feb 16 19:42:41 PST 2021*
 
 *Date range: Wed Feb 17 2021 - Fri Mar 19 2021*
 
@@ -19,7 +19,7 @@
 
 >None
 
-## Locations with dose 2 only (13)
+## Locations with dose 2 only (14)
 
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
@@ -33,6 +33,12 @@
 >- Dose 2 available on 2 days
 >  - Days: 2021-02-20, 2021-03-06
 
+>### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
+>#### 3177 Oceanview Blvd. San Diego, CA 92113
+>- Dose 1 available on 0 days
+>- Dose 2 available on 1 days
+>  - Days: 2021-03-10
+
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St. National City, CA 91950
 >- Dose 1 available on 0 days
@@ -42,8 +48,8 @@
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
 >- Dose 1 available on 0 days
->- Dose 2 available on 14 days
->  - Days: 2021-02-16, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09
+>- Dose 2 available on 15 days
+>  - Days: 2021-02-16, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09, 2021-03-10
 
 >### HHSA IMPERIAL BEACH COVID 19
 >#### 825 Imperial Beach Blvd. Imperial Beach, CA 91932
@@ -99,10 +105,7 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-02-18, 2021-02-25, 2021-03-04
 
-## Locations with neither (1)
+## Locations with neither (0)
 
->### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
->#### 3177 Oceanview Blvd. San Diego, CA 92113
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+>None
 
