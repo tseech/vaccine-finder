@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 18 11:35:58 PST 2021*
+*Last Updated: Thu Feb 18 11:48:30 PST 2021*
 
 *Date range: Thu Feb 18 2021 - Sat Mar 20 2021*
 
@@ -14,19 +14,25 @@
 
 >None
 
-## Locations with dose 2 only (5)
+## Locations with dose 2 only (6)
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
 >- Dose 1 available on 0 days
->- Dose 2 available on 16 days
->  - Days: 2021-02-18, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09, 2021-03-10, 2021-03-11
+>- Dose 2 available on 17 days
+>  - Days: 2021-02-18, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
 >- Dose 1 available on 0 days
 >- Dose 2 available on 13 days
 >  - Days: 2021-02-18, 2021-02-20, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-06, 2021-03-09, 2021-03-10, 2021-03-11
+
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd, San Ysidro, 92173
+>- Dose 1 available on 0 days
+>- Dose 2 available on 10 days
+>  - Days: 2021-02-18, 2021-02-20, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-11
 
 >### Palomar Medical Center Downtown Escondido - Pfizer Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
