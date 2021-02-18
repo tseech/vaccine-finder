@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 18 09:54:05 PST 2021*
+*Last Updated: Thu Feb 18 10:19:16 PST 2021*
 
 *Date range: Thu Feb 18 2021 - Sat Mar 20 2021*
 
@@ -25,8 +25,8 @@
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
 >- Dose 1 available on 0 days
->- Dose 2 available on 11 days
->  - Days: 2021-02-20, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-06, 2021-03-09, 2021-03-10
+>- Dose 2 available on 13 days
+>  - Days: 2021-02-18, 2021-02-20, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-06, 2021-03-09, 2021-03-10, 2021-03-11
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
