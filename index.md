@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 18 10:19:16 PST 2021*
+*Last Updated: Thu Feb 18 10:46:54 PST 2021*
 
 *Date range: Thu Feb 18 2021 - Sat Mar 20 2021*
 
@@ -31,8 +31,8 @@
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
 >- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-18, 2021-02-20, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-03, 2021-03-04
+>- Dose 2 available on 9 days
+>  - Days: 2021-02-18, 2021-02-20, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-03, 2021-03-04, 2021-03-09
 
 >### Palomar Medical Center Downtown Escondido - Pfizer Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
