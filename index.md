@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 19 18:52:40 PST 2021*
+*Last Updated: Fri Feb 19 19:16:42 PST 2021*
 
 *Date range: Sat Feb 20 2021 - Mon Mar 22 2021*
 
@@ -19,8 +19,8 @@
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
 >- Dose 1 available on 0 days
->- Dose 2 available on 20 days
->  - Days: 2021-02-19, 2021-02-21, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-14
+>- Dose 2 available on 19 days
+>  - Days: 2021-02-19, 2021-02-21, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-14
 
 >### Palomar Medical Center Downtown Escondido - Moderna Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
