@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Feb 22 15:42:56 PST 2021*
+*Last Updated: Mon Feb 22 15:53:28 PST 2021*
 
 *Date range: Mon Feb 22 2021 - Wed Mar 24 2021*
 
@@ -19,7 +19,7 @@
 
 >None
 
-## Locations with dose 2 only (5)
+## Locations with dose 2 only (9)
 
 >### HHSA ERPHC COVID 19
 >#### 367 N Magnolia El Cajon, CA 92020
@@ -33,17 +33,41 @@
 >- Dose 2 available on 2 days
 >  - Days: 2021-03-09, 2021-03-16
 
+>### HHSA NATIONAL CITY MLK COVID 19
+>#### 140 East 12th St. National City, CA 91950
+>- Dose 1 available on 0 days
+>- Dose 2 available on 2 days
+>  - Days: 2021-03-09, 2021-03-16
+
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
 >- Dose 1 available on 0 days
->- Dose 2 available on 21 days
->  - Days: 2021-02-22, 2021-02-23, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-12, 2021-03-13, 2021-03-14, 2021-03-15, 2021-03-16
+>- Dose 2 available on 23 days
+>  - Days: 2021-02-22, 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-12, 2021-03-13, 2021-03-14, 2021-03-15, 2021-03-16, 2021-03-17
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St. Chula Vista, CA 91911
 >- Dose 1 available on 0 days
 >- Dose 2 available on 4 days
 >  - Days: 2021-02-23, 2021-03-02, 2021-03-09, 2021-03-16
+
+>### HHSA BORDERVIEW YMCA COVID 19
+>#### 3601 Arey Drive, San Diego, CA 92154
+>- Dose 1 available on 0 days
+>- Dose 2 available on 4 days
+>  - Days: 2021-02-23, 2021-03-02, 2021-03-09, 2021-03-16
+
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 0 days
+>- Dose 2 available on 13 days
+>  - Days: 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-06, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-16
+
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd, San Ysidro, 92173
+>- Dose 1 available on 0 days
+>- Dose 2 available on 12 days
+>  - Days: 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-16
 
 >### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
