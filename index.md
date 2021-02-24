@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Feb 23 23:49:02 PST 2021*
+*Last Updated: Wed Feb 24 00:19:50 PST 2021*
 
 *Date range: Wed Feb 24 2021 - Fri Mar 26 2021*
 
@@ -49,20 +49,20 @@
 >### HHSA BORDERVIEW YMCA COVID 19
 >#### 3601 Arey Drive, San Diego, CA 92154
 >- Dose 1 available on 0 days
->- Dose 2 available on 8 days
->  - Days: 2021-02-23, 2021-02-24, 2021-03-02, 2021-03-03, 2021-03-09, 2021-03-10, 2021-03-16, 2021-03-17
+>- Dose 2 available on 7 days
+>  - Days: 2021-02-24, 2021-03-02, 2021-03-03, 2021-03-09, 2021-03-10, 2021-03-16, 2021-03-17
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
 >- Dose 1 available on 0 days
->- Dose 2 available on 14 days
->  - Days: 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-06, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-16, 2021-03-17
+>- Dose 2 available on 13 days
+>  - Days: 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-06, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-16, 2021-03-17
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd, San Ysidro, 92173
 >- Dose 1 available on 0 days
->- Dose 2 available on 13 days
->  - Days: 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-16, 2021-03-17
+>- Dose 2 available on 12 days
+>  - Days: 2021-02-24, 2021-02-25, 2021-02-27, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-16, 2021-03-17
 
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
@@ -73,8 +73,8 @@
 >### HHSA NCPHC OCEAN RANCH COVID 19 - Pfizer
 >#### 3708 Ocean Ranch Blvd, Oceanside, CA 92056
 >- Dose 1 available on 0 days
->- Dose 2 available on 13 days
->  - Days: 2021-02-23, 2021-02-24, 2021-02-25, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11
+>- Dose 2 available on 12 days
+>  - Days: 2021-02-24, 2021-02-25, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11
 
 ## Locations with neither (0)
 
