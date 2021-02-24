@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 24 15:16:46 PST 2021*
+*Last Updated: Wed Feb 24 15:43:00 PST 2021*
 
 *Date range: Wed Feb 24 2021 - Fri Mar 26 2021*
 
@@ -20,13 +20,13 @@
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
 >- Dose 1 available on 0 days
 >- Dose 2 available on 20 days
->  - Days: 2021-02-24, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-15, 2021-03-17, 2021-03-18, 2021-03-20, 2021-03-22, 2021-03-23
+>  - Days: 2021-02-24, 2021-02-25, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-15, 2021-03-17, 2021-03-18, 2021-03-22, 2021-03-23
 
 >### Palomar Medical Center Downtown Escondido - Moderna Clinic
 >#### 555 East Valley Parkway, Escondido CA 92025
 >- Dose 1 available on 0 days
->- Dose 2 available on 7 days
->  - Days: 2021-03-02, 2021-03-04, 2021-03-09, 2021-03-11, 2021-03-16, 2021-03-18, 2021-03-25
+>- Dose 2 available on 6 days
+>  - Days: 2021-03-02, 2021-03-04, 2021-03-09, 2021-03-11, 2021-03-16, 2021-03-18
 
 ## Locations with neither (0)
 
