@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 24 20:47:35 PST 2021*
+*Last Updated: Wed Feb 24 21:15:55 PST 2021*
 
 *Date range: Thu Feb 25 2021 - Sat Mar 27 2021*
 
@@ -19,8 +19,8 @@
 >### HHSA ERPHC COVID 19
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
 >- Dose 1 available on 0 days
->- Dose 2 available on 11 days
->  - Days: 2021-02-24, 2021-02-25, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-16, 2021-03-17, 2021-03-18
+>- Dose 2 available on 10 days
+>  - Days: 2021-02-24, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-16, 2021-03-17, 2021-03-18
 
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
