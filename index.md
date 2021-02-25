@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 25 09:56:51 PST 2021*
+*Last Updated: Thu Feb 25 10:25:40 PST 2021*
 
 *Date range: Thu Feb 25 2021 - Sat Mar 27 2021*
 
@@ -12,8 +12,8 @@
 >#### 555 East Valley Parkway, Escondido CA 92025
 >- Dose 1 available on 1 days
 >  - Days: 2021-02-25
->- Dose 2 available on 7 days
->  - Days: 2021-02-25, 2021-03-02, 2021-03-04, 2021-03-09, 2021-03-11, 2021-03-16, 2021-03-18
+>- Dose 2 available on 8 days
+>  - Days: 2021-02-25, 2021-03-02, 2021-03-04, 2021-03-09, 2021-03-11, 2021-03-16, 2021-03-18, 2021-03-25
 
 ## Locations with dose 1 only (0)
 
