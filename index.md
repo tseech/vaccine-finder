@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 25 09:43:18 PST 2021*
+*Last Updated: Thu Feb 25 09:56:51 PST 2021*
 
 *Date range: Thu Feb 25 2021 - Sat Mar 27 2021*
 
@@ -12,8 +12,8 @@
 >#### 555 East Valley Parkway, Escondido CA 92025
 >- Dose 1 available on 1 days
 >  - Days: 2021-02-25
->- Dose 2 available on 8 days
->  - Days: 2021-02-25, 2021-03-02, 2021-03-04, 2021-03-09, 2021-03-11, 2021-03-16, 2021-03-18, 2021-03-25
+>- Dose 2 available on 7 days
+>  - Days: 2021-02-25, 2021-03-02, 2021-03-04, 2021-03-09, 2021-03-11, 2021-03-16, 2021-03-18
 
 ## Locations with dose 1 only (0)
 
@@ -24,8 +24,8 @@
 >### HHSA ERPHC COVID 19
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
 >- Dose 1 available on 0 days
->- Dose 2 available on 9 days
->  - Days: 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-16, 2021-03-17, 2021-03-18
+>- Dose 2 available on 10 days
+>  - Days: 2021-02-25, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-16, 2021-03-17, 2021-03-18
 
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
