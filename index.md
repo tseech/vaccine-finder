@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Feb 24 21:48:45 PST 2021*
+*Last Updated: Wed Feb 24 22:18:29 PST 2021*
 
 *Date range: Thu Feb 25 2021 - Sat Mar 27 2021*
 
@@ -37,8 +37,8 @@
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St., Chula Vista, CA 91911
 >- Dose 1 available on 0 days
->- Dose 2 available on 11 days
->  - Days: 2021-02-24, 2021-02-25, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-16, 2021-03-17, 2021-03-18
+>- Dose 2 available on 10 days
+>  - Days: 2021-02-24, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-16, 2021-03-17, 2021-03-18
 
 >### HHSA BORDERVIEW YMCA COVID 19
 >#### 3601 Arey Drive, San Diego, CA 92154
