@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Feb 25 01:58:59 PST 2021*
+*Last Updated: Thu Feb 25 02:41:37 PST 2021*
 
 *Date range: Thu Feb 25 2021 - Sat Mar 27 2021*
 
@@ -31,8 +31,8 @@
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
 >- Dose 1 available on 0 days
->- Dose 2 available on 22 days
->  - Days: 2021-02-25, 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-15, 2021-03-17, 2021-03-18, 2021-03-19, 2021-03-20
+>- Dose 2 available on 20 days
+>  - Days: 2021-02-26, 2021-02-27, 2021-02-28, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-15, 2021-03-17, 2021-03-19, 2021-03-20
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St., Chula Vista, CA 91911
