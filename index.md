@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 26 15:17:02 PST 2021*
+*Last Updated: Fri Feb 26 15:43:28 PST 2021*
 
 *Date range: Fri Feb 26 2021 - Sun Mar 28 2021*
 
@@ -10,10 +10,10 @@
 
 >### HHSA COPLEY PRICE YMCA COVID 19
 >#### 4300 El Cajon Blvd., San Diego, CA 92105
->- Dose 1 available on 4 days
->  - Days: 2021-02-27, 2021-03-06, 2021-03-13, 2021-03-20
->- Dose 2 available on 4 days
->  - Days: 2021-02-27, 2021-03-06, 2021-03-13, 2021-03-20
+>- Dose 1 available on 3 days
+>  - Days: 2021-03-06, 2021-03-13, 2021-03-20
+>- Dose 2 available on 3 days
+>  - Days: 2021-03-06, 2021-03-13, 2021-03-20
 
 >### HHSA ERPHC COVID 19
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
