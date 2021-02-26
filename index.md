@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Feb 26 10:49:10 PST 2021*
+*Last Updated: Fri Feb 26 11:12:04 PST 2021*
 
 *Date range: Fri Feb 26 2021 - Sun Mar 28 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (5)
+
+>### HHSA ERPHC COVID 19
+>#### 367 N. Magnolia Avenue, El Cajon, CA 92020
+>- Dose 1 available on 13 days
+>  - Days: 2021-02-26, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-16, 2021-03-17, 2021-03-18, 2021-03-19
+>- Dose 2 available on 13 days
+>  - Days: 2021-02-26, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-16, 2021-03-17, 2021-03-18, 2021-03-19
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Ave., San Diego, CA 92114
@@ -14,6 +21,13 @@
 >  - Days: 2021-02-26, 2021-03-06, 2021-03-12, 2021-03-13, 2021-03-19
 >- Dose 2 available on 5 days
 >  - Days: 2021-02-26, 2021-03-06, 2021-03-12, 2021-03-13, 2021-03-19
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
+>#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
+>- Dose 1 available on 19 days
+>  - Days: 2021-02-26, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-15, 2021-03-17, 2021-03-18, 2021-03-19, 2021-03-20
+>- Dose 2 available on 19 days
+>  - Days: 2021-02-26, 2021-03-01, 2021-03-02, 2021-03-03, 2021-03-04, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-15, 2021-03-17, 2021-03-18, 2021-03-19, 2021-03-20
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
