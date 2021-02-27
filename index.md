@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Feb 27 15:16:48 PST 2021*
+*Last Updated: Sat Feb 27 15:43:37 PST 2021*
 
 *Date range: Sat Feb 27 2021 - Mon Mar 29 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (3)
 
 >### HHSA LEMON GROVE CC COVID 19
 >#### 3146 School Lane, Lemon Grove, CA 91945
@@ -14,6 +14,13 @@
 >  - Days: 2021-03-07, 2021-03-14
 >- Dose 2 available on 2 days
 >  - Days: 2021-03-07, 2021-03-14
+
+>### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
+>#### 3177 Oceanview Blvd., San Diego, CA 92113
+>- Dose 1 available on 3 days
+>  - Days: 2021-03-07, 2021-03-14, 2021-03-21
+>- Dose 2 available on 3 days
+>  - Days: 2021-03-07, 2021-03-14, 2021-03-21
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
