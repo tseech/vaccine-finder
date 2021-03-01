@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 1 13:31:44 PST 2021*
+*Last Updated: Mon Mar 1 13:49:46 PST 2021*
 
 *Date range: Mon Mar 1 2021 - Wed Mar 31 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (8)
+## Locations with both doses (7)
 
 >### HHSA LEMON GROVE CC COVID 19
 >#### 3146 School Lane, Lemon Grove, CA 91945
@@ -28,13 +28,6 @@
 >  - Days: 2021-03-01, 2021-03-08, 2021-03-15, 2021-03-22
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-01, 2021-03-08, 2021-03-15, 2021-03-22
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
->#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
->- Dose 1 available on 17 days
->  - Days: 2021-03-01, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-14, 2021-03-15, 2021-03-16, 2021-03-17, 2021-03-18, 2021-03-20, 2021-03-21, 2021-03-22, 2021-03-23
->- Dose 2 available on 17 days
->  - Days: 2021-03-01, 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-14, 2021-03-15, 2021-03-16, 2021-03-17, 2021-03-18, 2021-03-20, 2021-03-21, 2021-03-22, 2021-03-23
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St., Chula Vista, CA 91911
