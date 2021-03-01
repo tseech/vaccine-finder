@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 1 10:27:42 PST 2021*
+*Last Updated: Mon Mar 1 10:51:42 PST 2021*
 
 *Date range: Mon Mar 1 2021 - Wed Mar 31 2021*
 
@@ -31,17 +31,17 @@
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
->- Dose 1 available on 13 days
->  - Days: 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-14, 2021-03-15, 2021-03-17, 2021-03-18, 2021-03-20, 2021-03-21
->- Dose 2 available on 13 days
->  - Days: 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-14, 2021-03-15, 2021-03-17, 2021-03-18, 2021-03-20, 2021-03-21
+>- Dose 1 available on 14 days
+>  - Days: 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-14, 2021-03-15, 2021-03-17, 2021-03-18, 2021-03-20, 2021-03-21, 2021-03-24
+>- Dose 2 available on 14 days
+>  - Days: 2021-03-06, 2021-03-07, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-13, 2021-03-14, 2021-03-15, 2021-03-17, 2021-03-18, 2021-03-20, 2021-03-21, 2021-03-24
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St., Chula Vista, CA 91911
->- Dose 1 available on 4 days
->  - Days: 2021-03-01, 2021-03-08, 2021-03-15, 2021-03-22
->- Dose 2 available on 4 days
->  - Days: 2021-03-01, 2021-03-08, 2021-03-15, 2021-03-22
+>- Dose 1 available on 3 days
+>  - Days: 2021-03-08, 2021-03-15, 2021-03-22
+>- Dose 2 available on 3 days
+>  - Days: 2021-03-08, 2021-03-15, 2021-03-22
 
 >### HHSA CSUSM COVID 19 - Pfizer
 >#### CSUSM Parking Garage - 103 Campus View Drive, San Marcos, CA 92078
