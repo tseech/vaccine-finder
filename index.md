@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 1 17:54:26 PST 2021*
+*Last Updated: Mon Mar 1 18:18:26 PST 2021*
 
 *Date range: Tue Mar 2 2021 - Thu Apr 1 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (10)
+## Locations with both doses (9)
 
 >### HHSA COPLEY PRICE YMCA COVID 19
 >#### 4300 El Cajon Blvd., San Diego, CA 92105
@@ -42,13 +42,6 @@
 >  - Days: 2021-03-01, 2021-03-08, 2021-03-15, 2021-03-22
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-01, 2021-03-08, 2021-03-15, 2021-03-22
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
->#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
->- Dose 1 available on 18 days
->  - Days: 2021-03-01, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-15, 2021-03-16, 2021-03-17, 2021-03-18, 2021-03-22, 2021-03-23, 2021-03-26, 2021-03-27, 2021-03-28
->- Dose 2 available on 18 days
->  - Days: 2021-03-01, 2021-03-05, 2021-03-06, 2021-03-07, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-15, 2021-03-16, 2021-03-17, 2021-03-18, 2021-03-22, 2021-03-23, 2021-03-26, 2021-03-27, 2021-03-28
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St., Chula Vista, CA 91911
