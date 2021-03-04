@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 3 15:55:57 PST 2021*
+*Last Updated: Wed Mar 3 16:47:14 PST 2021*
 
-*Date range: Wed Mar 3 2021 - Fri Apr 2 2021*
+*Date range: Thu Mar 4 2021 - Sat Apr 3 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### HHSA ERPHC COVID 19
+>#### 367 N. Magnolia Avenue, El Cajon, CA 92020
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-09, 2021-03-10, 2021-03-16, 2021-03-23
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-09, 2021-03-10, 2021-03-16, 2021-03-23
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer
 >#### 2260 Jimmy Durante Blvd.  Del Mar, CA 92014
@@ -23,7 +30,10 @@
 
 >None
 
-## Locations with neither (0)
+## Locations with neither (1)
 
->None
+>### UC San Diego Health - La Jolla Campus RIMAC Super Station
+>#### 9730 Hopkins Dr, San Diego CA 92093
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
