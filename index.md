@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 5 12:17:26 PST 2021*
+*Last Updated: Fri Mar 5 12:41:12 PST 2021*
 
 *Date range: Fri Mar 5 2021 - Sun Apr 4 2021*
 
