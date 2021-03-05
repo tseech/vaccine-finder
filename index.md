@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 5 03:48:27 PST 2021*
+*Last Updated: Fri Mar 5 04:22:17 PST 2021*
 
 *Date range: Fri Mar 5 2021 - Sun Apr 4 2021*
 
@@ -23,10 +23,7 @@
 
 >None
 
-## Locations with neither (1)
+## Locations with neither (0)
 
->### UC San Diego Health - La Jolla Campus RIMAC Super Station
->#### 9730 Hopkins Dr, San Diego CA 92093
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+>None
 
