@@ -1,19 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 8 15:56:10 PST 2021*
+*Last Updated: Mon Mar 8 16:53:26 PST 2021*
 
-*Date range: Mon Mar 8 2021 - Wed Apr 7 2021*
+*Date range: Tue Mar 9 2021 - Thu Apr 8 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
 ## Locations with both doses (1)
 
->### Palomar Medical Center Downtown Escondido - Moderna Clinic
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 3 days
->  - Days: 2021-03-16, 2021-03-23, 2021-03-30
->- Dose 2 available on 3 days
->  - Days: 2021-03-16, 2021-03-23, 2021-03-30
+>### Riverside - LA Fitness Temecula - Moderna - Both Dose
+>#### 39716 Winchester Rd Temecula, CA 92591
+>- Dose 1 available on 21 days
+>  - Days: 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-14, 2021-03-17, 2021-03-18, 2021-03-19, 2021-03-20, 2021-03-21, 2021-03-24, 2021-03-25, 2021-03-26, 2021-03-27, 2021-03-28, 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07
+>- Dose 2 available on 21 days
+>  - Days: 2021-03-10, 2021-03-11, 2021-03-12, 2021-03-13, 2021-03-14, 2021-03-17, 2021-03-18, 2021-03-19, 2021-03-20, 2021-03-21, 2021-03-24, 2021-03-25, 2021-03-26, 2021-03-27, 2021-03-28, 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07
 
 ## Locations with dose 1 only (0)
 
