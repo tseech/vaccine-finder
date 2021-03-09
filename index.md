@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 8 19:55:31 PST 2021*
+*Last Updated: Mon Mar 8 20:21:48 PST 2021*
 
 *Date range: Tue Mar 9 2021 - Thu Apr 8 2021*
 
@@ -23,7 +23,10 @@
 
 >None
 
-## Locations with neither (0)
+## Locations with neither (1)
 
->None
+>### HHSA NATIONAL CITY MLK COVID 19 - Janssen
+>#### 140 East 12th St., National City, CA 91950
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
