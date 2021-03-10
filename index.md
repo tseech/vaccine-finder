@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 10 08:36:17 PST 2021*
+*Last Updated: Wed Mar 10 09:18:30 PST 2021*
 
 *Date range: Wed Mar 10 2021 - Fri Apr 9 2021*
 
@@ -10,6 +10,14 @@
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### Rady Children's Hospital - San Diego
+>#### 3020 Children's Way
+San Diego California 92123
 >- Dose 1 available on 4 days
 >  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
 >- Dose 2 available on 4 days
@@ -66,13 +74,6 @@
 
 >### VONS PHARMACY #2107
 >#### 10675 Scrpps Poway Parkway, San Diego, CA 92131
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### VONS PHARMACY #2012
->#### 7788 REGENTS ROAD, San Diego, CA 92122
 >- Dose 1 available on 4 days
 >  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
 >- Dose 2 available on 4 days
