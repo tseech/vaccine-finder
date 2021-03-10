@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Mar 9 22:18:55 PST 2021*
+*Last Updated: Tue Mar 9 22:47:49 PST 2021*
 
 *Date range: Wed Mar 10 2021 - Fri Apr 9 2021*
 
@@ -8,15 +8,8 @@
 
 ## Locations with both doses (20)
 
->### VONS PHARMACY #2115
->#### 620 DENNERY ROAD, San Diego, CA 92154
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAV-ON PHARMACY #3859
->#### 200 E SEPULVEDA BLVD, Carson, CA 90745
+>### VONS PHARMACY #2118
+>#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
 >- Dose 1 available on 4 days
 >  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
 >- Dose 2 available on 4 days
@@ -29,106 +22,8 @@
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
 
->### VONS PHARMACY #2092
->#### 2048 E Avenida De Los Arboles, Thousand Oaks, CA 91362
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAFEWAY PHARMACY #0706
->#### 104 Midvalley, Carmel, CA 93923
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAFEWAY PHARMACY #1895
->#### 5450 Dewey Drive, Fair Oaks, CA 95628
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAV-ON PHARMACY #2783
->#### 2899 JAMACHA RD, El Cajon, CA 92019
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### VONS PHARMACY #2101
->#### 1046 Coast Village Rd Suite B, Montecito, CA 93108
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAFEWAY PHARMACY #1990
->#### 3970 Rivermark Plaza, Santa Clara, CA 95054
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAFEWAY PHARMACY #0713
->#### 100 Calistoga Rd, Santa Rosa, CA 95409
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAV-ON PHARMACY #0710
->#### 8920 FLETCHER PKWY, La Mesa, CA 91942
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### VONS PHARMACY #2345
->#### 1000 W. El Norte Parkway, Escondido, CA 92026
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### VONS PHARMACY #2344
->#### 351 W. Felicita Ave, Escondido, CA 92025
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAFEWAY PHARMACY #748
->#### 3383 BASS LAKE RD, EL DORADO HILLS, CA 95762
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAFEWAY PHARMACY #2719
->#### 525 EL CAMINO REAL, Menlo Park, CA 94025
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAV-ON PHARMACY #4706
->#### 30530 RANCHO CALIFORNIA RD, Temecula, CA 92591
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### VONS PHARMACY #2155
->#### 550 E. Baseline Rd, Claremont, CA 91711
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAV-ON PHARMACY #0728
->#### 260 W FOOTHILL PKWY, Corona, CA 92882
+>### VONS PHARMACY #4018
+>#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
 >- Dose 1 available on 4 days
 >  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
 >- Dose 2 available on 4 days
@@ -141,8 +36,113 @@
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
 
->### SAV-ON PHARMACY #3177
->#### 8850 FOOTHILL BLVD, Rancho Cucamonga, CA 91730
+>### SAV-ON PHARMACY #0710
+>#### 8920 FLETCHER PKWY, La Mesa, CA 91942
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2093
+>#### 8011 UNIVERSITY AVE, La Mesa, CA 91942
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #1897
+>#### 9643 MISSION GORGE ROAD, Santee, CA 92071
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2784
+>#### 515 WEST WASHINGTON ST., San Diego, CA 92103
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2107
+>#### 10675 Scrpps Poway Parkway, San Diego, CA 92131
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2012
+>#### 7788 REGENTS ROAD, San Diego, CA 92122
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### SAV-ON PHARMACY #0711
+>#### 1929 W SAN MARCOS BLVD, SAN MARCOS, CA 92078
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2345
+>#### 1000 W. El Norte Parkway, Escondido, CA 92026
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### SAV-ON PHARMACY # 0750
+>#### 1571 SAN ELIJO ROAD S, San Marcos, CA 92078
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2724
+>#### 3439 Via Montebello, Carlsbad, CA 92009
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2344
+>#### 351 W. Felicita Ave, Escondido, CA 92025
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### SAV-ON PHARMACY #4713
+>#### 1509 E VALLEY PKWY, Escondido, CA 92027
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2065
+>#### 6951 El Camino Real, Carlsbad, CA 92009
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2156
+>#### 2345 EAST VALLEY PARKWAY, Escondido, CA 92027
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### SAV-ON PHARMACY # 0733
+>#### 3450 MARRON RD, Oceanside, CA 92056
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
+
+>### VONS PHARMACY #2144
+>#### 262 N. El Camino Real, Encinitas, CA 92024
 >- Dose 1 available on 4 days
 >  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
 >- Dose 2 available on 4 days
