@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 12 07:21:54 PST 2021*
+*Last Updated: Fri Mar 12 07:45:50 PST 2021*
 
 *Date range: Fri Mar 12 2021 - Sun Apr 11 2021*
 
@@ -100,6 +100,13 @@ San Diego California 92123
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
 
+>### Palomar Medical Center Downtown Escondido - Moderna Clinic
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 12 days
+>  - Days: 2021-03-16, 2021-03-18, 2021-03-20, 2021-03-23, 2021-03-25, 2021-03-27, 2021-03-30, 2021-04-01, 2021-04-03, 2021-04-06, 2021-04-08, 2021-04-10
+>- Dose 2 available on 12 days
+>  - Days: 2021-03-16, 2021-03-18, 2021-03-20, 2021-03-23, 2021-03-25, 2021-03-27, 2021-03-30, 2021-04-01, 2021-04-03, 2021-04-06, 2021-04-08, 2021-04-10
+
 >### Centro Medico Escondido
 >#### 1121 East Washington Avenue, Escondido, CA, 92025
 >- Dose 1 available on 4 days
@@ -137,13 +144,6 @@ San Diego California 92123
 
 >### VONS PHARMACY #2156
 >#### 2345 EAST VALLEY PARKWAY, Escondido, CA 92027
->- Dose 1 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
->- Dose 2 available on 4 days
->  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
-
->### SAV-ON PHARMACY # 0733
->#### 3450 MARRON RD, Oceanside, CA 92056
 >- Dose 1 available on 4 days
 >  - Days: 2021-03-15, 2021-03-22, 2021-03-29, 2021-04-05
 >- Dose 2 available on 4 days
