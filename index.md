@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Mar 18 04:50:53 PDT 2021*
+*Last Updated: Thu Mar 18 05:22:48 PDT 2021*
 
 *Date range: Thu Mar 18 2021 - Sat Apr 17 2021*
 
@@ -102,10 +102,10 @@ San Diego California 92123
 
 >### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
 >#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 7 days
->  - Days: 2021-03-19, 2021-03-24, 2021-03-26, 2021-03-31, 2021-04-02, 2021-04-07, 2021-04-09
->- Dose 2 available on 7 days
->  - Days: 2021-03-19, 2021-03-24, 2021-03-26, 2021-03-31, 2021-04-02, 2021-04-07, 2021-04-09
+>- Dose 1 available on 6 days
+>  - Days: 2021-03-24, 2021-03-26, 2021-03-31, 2021-04-02, 2021-04-07, 2021-04-09
+>- Dose 2 available on 6 days
+>  - Days: 2021-03-24, 2021-03-26, 2021-03-31, 2021-04-02, 2021-04-07, 2021-04-09
 
 >### Centro Medico Escondido
 >#### 1121 East Washington Avenue, Escondido, CA, 92025
