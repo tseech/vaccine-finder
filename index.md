@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 19 23:47:33 PDT 2021*
+*Last Updated: Sat Mar 20 00:15:59 PDT 2021*
 
 *Date range: Sat Mar 20 2021 - Mon Apr 19 2021*
 
@@ -11,10 +11,10 @@
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
 San Diego California 92123
->- Dose 1 available on 4 days
->  - Days: 2021-03-22, 2021-03-29, 2021-04-05, 2021-04-12
->- Dose 2 available on 4 days
->  - Days: 2021-03-22, 2021-03-29, 2021-04-05, 2021-04-12
+>- Dose 1 available on 5 days
+>  - Days: 2021-03-22, 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
+>- Dose 2 available on 5 days
+>  - Days: 2021-03-22, 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
 
 ## Locations with dose 1 only (0)
 
