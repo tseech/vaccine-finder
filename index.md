@@ -1,12 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Mar 20 13:18:18 PDT 2021*
+*Last Updated: Sat Mar 20 13:42:26 PDT 2021*
 
 *Date range: Sat Mar 20 2021 - Mon Apr 19 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (3)
+
+>### Cuyamaca College COVID 19
+>#### 900 Rancho San Diego Pkwy El Cajon CA 92019
+>- Dose 1 available on 13 days
+>  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-05, 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-12
+>- Dose 2 available on 13 days
+>  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-05, 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-12
+
+>### HHSA SRPHC COVID 19 - Moderna
+>#### 690 Oxford Street, Chula Vista, CA 91911
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-28, 2021-04-04, 2021-04-11, 2021-04-18
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-28, 2021-04-04, 2021-04-11, 2021-04-18
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
