@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Mar 20 12:27:09 PDT 2021*
+*Last Updated: Sat Mar 20 12:39:22 PDT 2021*
 
 *Date range: Sat Mar 20 2021 - Mon Apr 19 2021*
 
@@ -8,8 +8,8 @@
 
 ## Locations with both doses (2)
 
->### HHSA SRPHC COVID 19 - Moderna
->#### 690 Oxford Street, Chula Vista, CA 91911
+>### HHSA NCPHC MISSION COVID 19 - Moderna
+>#### 1701 Mission Avenue, Oceanside, CA 92058
 >- Dose 1 available on 5 days
 >  - Days: 2021-03-21, 2021-03-28, 2021-04-04, 2021-04-11, 2021-04-18
 >- Dose 2 available on 5 days
