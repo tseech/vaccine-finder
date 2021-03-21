@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Mar 20 21:21:40 PDT 2021*
+*Last Updated: Sat Mar 20 21:52:44 PDT 2021*
 
 *Date range: Sun Mar 21 2021 - Tue Apr 20 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
-
->### HHSA NCPHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 3 days
->  - Days: 2021-03-28, 2021-04-04, 2021-04-11
->- Dose 2 available on 3 days
->  - Days: 2021-03-28, 2021-04-04, 2021-04-11
+## Locations with both doses (1)
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
