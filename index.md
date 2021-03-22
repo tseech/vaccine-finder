@@ -1,36 +1,22 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 22 15:48:31 PDT 2021*
+*Last Updated: Mon Mar 22 16:18:02 PDT 2021*
 
 *Date range: Mon Mar 22 2021 - Wed Apr 21 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (7)
-
->### HHSA ERPHC COVID 19
->#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 4 days
->  - Days: 2021-03-23, 2021-03-30, 2021-04-06, 2021-04-13
->- Dose 2 available on 4 days
->  - Days: 2021-03-23, 2021-03-30, 2021-04-06, 2021-04-13
+## Locations with both doses (5)
 
 >### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
 >#### 3177 Oceanview Blvd., San Diego, CA 92113
->- Dose 1 available on 4 days
->  - Days: 2021-03-23, 2021-03-30, 2021-04-06, 2021-04-13
+>- Dose 1 available on 3 days
+>  - Days: 2021-03-30, 2021-04-06, 2021-04-13
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-23, 2021-03-30, 2021-04-06, 2021-04-13
 
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
->- Dose 1 available on 4 days
->  - Days: 2021-03-23, 2021-03-30, 2021-04-06, 2021-04-13
->- Dose 2 available on 4 days
->  - Days: 2021-03-23, 2021-03-30, 2021-04-06, 2021-04-13
-
->### HHSA SRPHC COVID 19
->#### 690 Oxford St., Chula Vista, CA 91911
 >- Dose 1 available on 3 days
 >  - Days: 2021-03-30, 2021-04-06, 2021-04-13
 >- Dose 2 available on 3 days
@@ -38,13 +24,13 @@
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 4 days
->  - Days: 2021-03-23, 2021-03-30, 2021-04-06, 2021-04-13
->- Dose 2 available on 4 days
->  - Days: 2021-03-23, 2021-03-30, 2021-04-06, 2021-04-13
+>- Dose 1 available on 3 days
+>  - Days: 2021-03-30, 2021-04-06, 2021-04-13
+>- Dose 2 available on 3 days
+>  - Days: 2021-03-30, 2021-04-06, 2021-04-13
 
->### HHSA SOUTHWESTERN COLLEGE SY COVID 19
->#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
+>### HHSA NCPHC MISSION COVID 19 - Moderna
+>#### 1701 Mission Avenue, Oceanside, CA 92058
 >- Dose 1 available on 3 days
 >  - Days: 2021-03-30, 2021-04-06, 2021-04-13
 >- Dose 2 available on 3 days
