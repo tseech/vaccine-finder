@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 22 13:51:37 PDT 2021*
+*Last Updated: Mon Mar 22 14:16:30 PDT 2021*
 
 *Date range: Mon Mar 22 2021 - Wed Apr 21 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
-
->### Cuyamaca College COVID 19
->#### 900 Rancho San Diego Pkwy El Cajon CA 92019
->- Dose 1 available on 14 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-05, 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-12, 2021-04-13
->- Dose 2 available on 14 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-05, 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-12, 2021-04-13
+## Locations with both doses (1)
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
@@ -93,11 +86,6 @@ San Diego California 92123
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
->### Centro Medico Escondido
->#### 1121 East Washington Avenue, Escondido, CA, 92025
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
 >### VONS PHARMACY #2724
 >#### 3439 Via Montebello, Carlsbad, CA 92009
 >- Dose 1 available on 0 days
@@ -125,6 +113,11 @@ San Diego California 92123
 
 >### SAV-ON PHARMACY # 0733
 >#### 3450 MARRON RD, Oceanside, CA 92056
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### VONS PHARMACY #2144
+>#### 262 N. El Camino Real, Encinitas, CA 92024
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
