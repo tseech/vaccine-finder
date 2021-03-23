@@ -1,26 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Mar 23 08:45:10 PDT 2021*
+*Last Updated: Tue Mar 23 08:57:07 PDT 2021*
 
 *Date range: Tue Mar 23 2021 - Thu Apr 22 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (2)
 
->### HHSA SRPHC COVID 19
->#### 690 Oxford St., Chula Vista, CA 91911
->- Dose 1 available on 2 days
->  - Days: 2021-03-30, 2021-04-06
->- Dose 2 available on 2 days
->  - Days: 2021-03-30, 2021-04-06
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
 >- Dose 1 available on 3 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13
+>  - Days: 2021-03-31, 2021-04-07, 2021-04-14
 >- Dose 2 available on 3 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13
+>  - Days: 2021-03-31, 2021-04-07, 2021-04-14
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
