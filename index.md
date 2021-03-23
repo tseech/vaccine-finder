@@ -1,12 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 22 19:21:52 PDT 2021*
+*Last Updated: Mon Mar 22 19:57:53 PDT 2021*
 
 *Date range: Tue Mar 23 2021 - Thu Apr 22 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (3)
+
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 3 days
+>  - Days: 2021-03-30, 2021-04-06, 2021-04-13
+>- Dose 2 available on 3 days
+>  - Days: 2021-03-30, 2021-04-06, 2021-04-13
+
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
+>- Dose 1 available on 3 days
+>  - Days: 2021-03-30, 2021-04-06, 2021-04-13
+>- Dose 2 available on 3 days
+>  - Days: 2021-03-30, 2021-04-06, 2021-04-13
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
