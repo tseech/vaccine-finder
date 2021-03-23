@@ -1,7 +1,7 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 22 16:46:02 PDT 2021*
+*Last Updated: Mon Mar 22 17:43:21 PDT 2021*
 
-*Date range: Mon Mar 22 2021 - Wed Apr 21 2021*
+*Date range: Tue Mar 23 2021 - Thu Apr 22 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
