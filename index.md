@@ -1,33 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Mar 23 15:46:42 PDT 2021*
+*Last Updated: Tue Mar 23 16:18:43 PDT 2021*
 
 *Date range: Tue Mar 23 2021 - Thu Apr 22 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
-
->### HHSA COLLEGE AREA AT SDSU COVID 19
->#### Viejas Arena Lot 12 & 13, 5101 Canyon Crest Dr, San Diego, CA 92182, USA
->- Dose 1 available on 6 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
->- Dose 2 available on 6 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
-
->### HHSA NATIONAL CITY MLK COVID 19
->#### 140 East 12th St., National City, CA 91950
->- Dose 1 available on 4 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-14
->- Dose 2 available on 4 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-14
-
->### HHSA NCPHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 6 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
->- Dose 2 available on 6 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
+## Locations with both doses (1)
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
