@@ -1,75 +1,47 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Mar 23 14:53:49 PDT 2021*
+*Last Updated: Tue Mar 23 15:19:53 PDT 2021*
 
 *Date range: Tue Mar 23 2021 - Thu Apr 22 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (10)
+## Locations with both doses (6)
 
->### HHSA COLLEGE AREA AT SDSU COVID 19
->#### Viejas Arena Lot 12 & 13, 5101 Canyon Crest Dr, San Diego, CA 92182, USA
->- Dose 1 available on 8 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
->- Dose 2 available on 8 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
+>### HHSA NORTHGATE CITY HGTS COVID 19 - Pfizer
+>#### 5403 University Avenue, San Diego, CA 92105
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-01, 2021-04-08
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-01, 2021-04-08
 
 >### HHSA ERPHC COVID 19
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 6 days
->  - Days: 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-08, 2021-04-14, 2021-04-15
->- Dose 2 available on 6 days
->  - Days: 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-08, 2021-04-14, 2021-04-15
-
->### HHSA MEXICAN CONSULATE COVID 19 - Pfizer
->#### 1549 India Street, San Diego, CA 92101
->- Dose 1 available on 6 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
->- Dose 2 available on 6 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
-
->### HHSA CRPHC IMMUNIZATION CLINIC COVID 19
->#### 3177 Oceanview Blvd., San Diego, CA 92113
->- Dose 1 available on 7 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-08, 2021-04-14, 2021-04-15
->- Dose 2 available on 7 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-08, 2021-04-14, 2021-04-15
+>- Dose 1 available on 5 days
+>  - Days: 2021-03-31, 2021-04-01, 2021-04-08, 2021-04-14, 2021-04-15
+>- Dose 2 available on 5 days
+>  - Days: 2021-03-31, 2021-04-01, 2021-04-08, 2021-04-14, 2021-04-15
 
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
->- Dose 1 available on 7 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-14, 2021-04-15
->- Dose 2 available on 7 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-14, 2021-04-15
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-14
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-14
+
+>### HHSA SRPHC COVID 19 - Moderna
+>#### 690 Oxford Street, Chula Vista, CA 91911
+>- Dose 1 available on 5 days
+>  - Days: 2021-03-24, 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
+>- Dose 2 available on 5 days
+>  - Days: 2021-03-24, 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 6 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-14, 2021-04-15
->- Dose 2 available on 6 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-14, 2021-04-15
-
->### HHSA SOUTHWESTERN COLLEGE SY COVID 19
->#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
->- Dose 1 available on 8 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
->- Dose 2 available on 8 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15
-
->### HHSA NCPHC MISSION COVID 19
->#### 1701 Mission Avenue, Oceanside, CA 92058
 >- Dose 1 available on 5 days
->  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15
->- Dose 2 available on 5 days
->  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15
-
->### HHSA NCPHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 10 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-21, 2021-04-22
->- Dose 2 available on 10 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-21, 2021-04-22
+>  - Days: 2021-03-25, 2021-03-31, 2021-04-01, 2021-04-14, 2021-04-15
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-31, 2021-04-01, 2021-04-14, 2021-04-15
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
