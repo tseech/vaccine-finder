@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 24 07:52:03 PDT 2021*
+*Last Updated: Wed Mar 24 08:25:35 PDT 2021*
 
 *Date range: Wed Mar 24 2021 - Fri Apr 23 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (3)
+
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 7 days
+>  - Days: 2021-03-26, 2021-03-31, 2021-04-02, 2021-04-07, 2021-04-09, 2021-04-14, 2021-04-16
+>- Dose 2 available on 7 days
+>  - Days: 2021-03-26, 2021-03-31, 2021-04-02, 2021-04-07, 2021-04-09, 2021-04-14, 2021-04-16
 
 >### Sharp - CSU San Marcos
 >#### 103 Campus View Way, San Marcos, CA 92078
