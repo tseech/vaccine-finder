@@ -1,19 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 24 12:50:21 PDT 2021*
+*Last Updated: Wed Mar 24 13:25:57 PDT 2021*
 
 *Date range: Wed Mar 24 2021 - Fri Apr 23 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (3)
+
+>### HHSA COLLEGE AREA AT SDSU COVID 19
+>#### Viejas Arena Lot 12 & 13, 5101 Canyon Crest Dr, San Diego, CA 92182, USA
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-02, 2021-04-09, 2021-04-16
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-02, 2021-04-09, 2021-04-16
 
 >### Sharp - CSU San Marcos
 >#### 103 Campus View Way, San Marcos, CA 92078
->- Dose 1 available on 7 days
->  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22
->- Dose 2 available on 7 days
->  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22
+>- Dose 1 available on 8 days
+>  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
+>- Dose 2 available on 8 days
+>  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
