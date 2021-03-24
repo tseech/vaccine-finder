@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 24 12:29:10 PDT 2021*
+*Last Updated: Wed Mar 24 12:50:21 PDT 2021*
 
 *Date range: Wed Mar 24 2021 - Fri Apr 23 2021*
 
@@ -8,6 +8,13 @@
 
 ## Locations with both doses (2)
 
+>### Sharp - CSU San Marcos
+>#### 103 Campus View Way, San Marcos, CA 92078
+>- Dose 1 available on 7 days
+>  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22
+>- Dose 2 available on 7 days
+>  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22
+
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
 San Diego California 92123
@@ -15,13 +22,6 @@ San Diego California 92123
 >  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
-
->### Riverside - LA Fitness Temecula - Pfizer - Both Dose
->#### 39716 Winchester Road, Temecula, CA 92591
->- Dose 1 available on 20 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-26, 2021-03-27, 2021-03-28, 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18
->- Dose 2 available on 20 days
->  - Days: 2021-03-24, 2021-03-25, 2021-03-26, 2021-03-27, 2021-03-28, 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18
 
 ## Locations with dose 1 only (0)
 
