@@ -1,26 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Mar 25 19:26:27 PDT 2021*
+*Last Updated: Thu Mar 25 20:04:58 PDT 2021*
 
 *Date range: Fri Mar 26 2021 - Sun Apr 25 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
-
->### HHSA ERPHC COVID 19
->#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 2 days
->  - Days: 2021-04-02, 2021-04-09
->- Dose 2 available on 2 days
->  - Days: 2021-04-02, 2021-04-09
-
->### HHSA TUBMAN CHAVEZ COVID 19
->#### 415 Euclid Ave., San Diego, CA 92114
->- Dose 1 available on 3 days
->  - Days: 2021-04-02, 2021-04-09, 2021-04-16
->- Dose 2 available on 3 days
->  - Days: 2021-04-02, 2021-04-09, 2021-04-16
+## Locations with both doses (1)
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
