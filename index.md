@@ -1,12 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 26 08:21:14 PDT 2021*
+*Last Updated: Fri Mar 26 08:48:59 PDT 2021*
 
 *Date range: Fri Mar 26 2021 - Sun Apr 25 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (3)
+
+>### Sharp - CSU San Marcos - Moderna
+>#### 103 Campus View Way, San Marcos, CA 92078
+>- Dose 1 available on 10 days
+>  - Days: 2021-03-27, 2021-03-28, 2021-04-03, 2021-04-04, 2021-04-10, 2021-04-11, 2021-04-17, 2021-04-18, 2021-04-24, 2021-04-25
+>- Dose 2 available on 10 days
+>  - Days: 2021-03-27, 2021-03-28, 2021-04-03, 2021-04-04, 2021-04-10, 2021-04-11, 2021-04-17, 2021-04-18, 2021-04-24, 2021-04-25
+
+>### Sharp - CSU San Marcos - Pfizer
+>#### 103 Campus View Way, San Marcos, CA 92078
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
