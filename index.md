@@ -1,12 +1,54 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 26 11:58:57 PDT 2021*
+*Last Updated: Fri Mar 26 12:25:27 PDT 2021*
 
 *Date range: Fri Mar 26 2021 - Sun Apr 25 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (7)
+
+>### HHSA COLLEGE AREA AT SDSU COVID 19
+>#### Viejas Arena Lot 12 & 13, 5130 Canyon Crest Dr, San Diego, CA 92182, USA
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-27, 2021-04-03, 2021-04-10, 2021-04-17
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-27, 2021-04-03, 2021-04-10, 2021-04-17
+
+>### Sharp - Central San Diego Knollwood
+>#### 7944 Birmingham Drive, San Diego, CA 92123
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19
+
+>### HHSA ERPHC COVID 19
+>#### 367 N. Magnolia Avenue, El Cajon, CA 92020
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17
+
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-27, 2021-04-03, 2021-04-10, 2021-04-17
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-27, 2021-04-03, 2021-04-10, 2021-04-17
+
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-27, 2021-04-03, 2021-04-10, 2021-04-17
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-27, 2021-04-03, 2021-04-10, 2021-04-17
+
+>### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17, 2021-04-24
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17, 2021-04-24
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
