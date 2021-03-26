@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 26 14:18:41 PDT 2021*
+*Last Updated: Fri Mar 26 14:44:53 PDT 2021*
 
 *Date range: Fri Mar 26 2021 - Sun Apr 25 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
-
->### HHSA SOUTHWESTERN COLLEGE SY COVID 19
->#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
->- Dose 1 available on 3 days
->  - Days: 2021-04-03, 2021-04-10, 2021-04-17
->- Dose 2 available on 3 days
->  - Days: 2021-04-03, 2021-04-10, 2021-04-17
+## Locations with both doses (1)
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
