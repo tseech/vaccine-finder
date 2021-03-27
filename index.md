@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 26 19:07:54 PDT 2021*
+*Last Updated: Fri Mar 26 19:51:08 PDT 2021*
 
 *Date range: Sat Mar 27 2021 - Mon Apr 26 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
-
->### HHSA ERPHC COVID 19
->#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 2 days
->  - Days: 2021-04-03, 2021-04-10
->- Dose 2 available on 2 days
->  - Days: 2021-04-03, 2021-04-10
+## Locations with both doses (2)
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
