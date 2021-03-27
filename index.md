@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 26 21:26:02 PDT 2021*
+*Last Updated: Fri Mar 26 21:56:19 PDT 2021*
 
 *Date range: Sat Mar 27 2021 - Mon Apr 26 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 2 days
->  - Days: 2021-04-03, 2021-04-10
->- Dose 2 available on 2 days
->  - Days: 2021-04-03, 2021-04-10
+## Locations with both doses (2)
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
@@ -25,10 +18,10 @@ San Diego California 92123
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
->- Dose 1 available on 18 days
->  - Days: 2021-03-26, 2021-03-27, 2021-03-28, 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18
->- Dose 2 available on 18 days
->  - Days: 2021-03-26, 2021-03-27, 2021-03-28, 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18
+>- Dose 1 available on 17 days
+>  - Days: 2021-03-26, 2021-03-28, 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18
+>- Dose 2 available on 17 days
+>  - Days: 2021-03-26, 2021-03-28, 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18
 
 ## Locations with dose 1 only (0)
 
