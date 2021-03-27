@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Mar 27 08:20:13 PDT 2021*
+*Last Updated: Sat Mar 27 08:48:01 PDT 2021*
 
 *Date range: Sat Mar 27 2021 - Mon Apr 26 2021*
 
@@ -8,12 +8,12 @@
 
 ## Locations with both doses (2)
 
->### HHSA TUBMAN CHAVEZ COVID 19
->#### 415 Euclid Ave., San Diego, CA 92114
->- Dose 1 available on 1 days
->  - Days: 2021-04-10
->- Dose 2 available on 1 days
->  - Days: 2021-04-10
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-03, 2021-04-10
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-03, 2021-04-10
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
