@@ -1,40 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Mar 27 12:40:58 PDT 2021*
+*Last Updated: Sat Mar 27 12:48:56 PDT 2021*
 
 *Date range: Sat Mar 27 2021 - Mon Apr 26 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (5)
+## Locations with both doses (3)
 
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 3 days
->  - Days: 2021-04-04, 2021-04-11, 2021-04-18
->- Dose 2 available on 3 days
->  - Days: 2021-04-04, 2021-04-11, 2021-04-18
+>### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17, 2021-04-24
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17, 2021-04-24
 
->### HHSA NATIONAL CITY MLK COVID 19
->#### 140 East 12th St., National City, CA 91950
+>### HHSA VISTA LINDA RHOADES COVID 19
+>#### 600 North Santa Fe Ave., Vista, CA 92084
 >- Dose 1 available on 4 days
 >  - Days: 2021-03-28, 2021-04-04, 2021-04-11, 2021-04-18
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-28, 2021-04-04, 2021-04-11, 2021-04-18
-
->### HHSA SRPHC COVID 19
->#### 690 Oxford St., Chula Vista, CA 91911
->- Dose 1 available on 3 days
->  - Days: 2021-04-04, 2021-04-11, 2021-04-18
->- Dose 2 available on 3 days
->  - Days: 2021-04-04, 2021-04-11, 2021-04-18
-
->### HHSA VISTA LINDA RHOADES COVID 19
->#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 3 days
->  - Days: 2021-04-04, 2021-04-11, 2021-04-18
->- Dose 2 available on 3 days
->  - Days: 2021-04-04, 2021-04-11, 2021-04-18
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
