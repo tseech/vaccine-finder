@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Mar 27 08:48:01 PDT 2021*
+*Last Updated: Sat Mar 27 09:34:58 PDT 2021*
 
 *Date range: Sat Mar 27 2021 - Mon Apr 26 2021*
 
@@ -8,12 +8,12 @@
 
 ## Locations with both doses (2)
 
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 2 days
->  - Days: 2021-04-03, 2021-04-10
->- Dose 2 available on 2 days
->  - Days: 2021-04-03, 2021-04-10
+>### Sharp - CSU San Marcos - Moderna
+>#### 103 Campus View Way, San Marcos, CA 92078
+>- Dose 1 available on 8 days
+>  - Days: 2021-04-03, 2021-04-04, 2021-04-10, 2021-04-11, 2021-04-17, 2021-04-18, 2021-04-24, 2021-04-25
+>- Dose 2 available on 8 days
+>  - Days: 2021-04-03, 2021-04-04, 2021-04-10, 2021-04-11, 2021-04-17, 2021-04-18, 2021-04-24, 2021-04-25
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
