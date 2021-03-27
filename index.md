@@ -1,26 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Mar 26 16:46:53 PDT 2021*
+*Last Updated: Fri Mar 26 17:56:25 PDT 2021*
 
-*Date range: Fri Mar 26 2021 - Sun Apr 25 2021*
+*Date range: Sat Mar 27 2021 - Mon Apr 26 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 13 days
->  - Days: 2021-03-26, 2021-03-30, 2021-04-01, 2021-04-02, 2021-04-06, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-22, 2021-04-23
->- Dose 2 available on 13 days
->  - Days: 2021-03-26, 2021-03-30, 2021-04-01, 2021-04-02, 2021-04-06, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-22, 2021-04-23
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 2 days
->  - Days: 2021-04-03, 2021-04-10
->- Dose 2 available on 2 days
->  - Days: 2021-04-03, 2021-04-10
+## Locations with both doses (1)
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
