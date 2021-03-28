@@ -1,19 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Mar 28 13:21:23 PDT 2021*
+*Last Updated: Sun Mar 28 13:43:44 PDT 2021*
 
 *Date range: Sun Mar 28 2021 - Tue Apr 27 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (3)
 
->### HHSA NCPHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
+>### Sharp - Central San Diego Knollwood
+>#### 7944 Birmingham Drive, San Diego, CA 92123
 >- Dose 1 available on 3 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-26
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19
 >- Dose 2 available on 3 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-26
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19
+
+>### HHSA LEMON GROVE CC COVID 19
+>#### 3146 School Lane, Lemon Grove, CA 91945
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
