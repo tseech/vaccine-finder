@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Mar 28 14:18:37 PDT 2021*
+*Last Updated: Sun Mar 28 14:45:15 PDT 2021*
 
 *Date range: Sun Mar 28 2021 - Tue Apr 27 2021*
 
@@ -8,12 +8,12 @@
 
 ## Locations with both doses (2)
 
->### HHSA NATIONAL CITY MLK COVID 19
->#### 140 East 12th St., National City, CA 91950
->- Dose 1 available on 3 days
->  - Days: 2021-03-29, 2021-04-12, 2021-04-19
->- Dose 2 available on 3 days
->  - Days: 2021-03-29, 2021-04-12, 2021-04-19
+>### Sharp - CSU San Marcos - Pfizer
+>#### 103 Campus View Way, San Marcos, CA 92078
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-05, 2021-04-12
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-05, 2021-04-12
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
