@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Mar 28 13:52:13 PDT 2021*
+*Last Updated: Sun Mar 28 14:18:37 PDT 2021*
 
 *Date range: Sun Mar 28 2021 - Tue Apr 27 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### HHSA NATIONAL CITY MLK COVID 19
+>#### 140 East 12th St., National City, CA 91950
+>- Dose 1 available on 3 days
+>  - Days: 2021-03-29, 2021-04-12, 2021-04-19
+>- Dose 2 available on 3 days
+>  - Days: 2021-03-29, 2021-04-12, 2021-04-19
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
