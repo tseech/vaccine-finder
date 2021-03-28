@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Mar 28 10:32:35 PDT 2021*
+*Last Updated: Sun Mar 28 11:18:26 PDT 2021*
 
 *Date range: Sun Mar 28 2021 - Tue Apr 27 2021*
 
@@ -8,6 +8,13 @@
 
 ## Locations with both doses (2)
 
+>### HHSA COPLEY PRICE YMCA COVID 19
+>#### 4300 El Cajon Blvd., San Diego, CA 92105
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
+
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
 San Diego California 92123
@@ -15,13 +22,6 @@ San Diego California 92123
 >  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
 >- Dose 2 available on 5 days
 >  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
-
->### Riverside - LA Fitness Temecula - Pfizer - Both Dose
->#### 39716 Winchester Road, Temecula, CA 92591
->- Dose 1 available on 15 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18
->- Dose 2 available on 15 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18
 
 ## Locations with dose 1 only (0)
 
