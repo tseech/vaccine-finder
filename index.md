@@ -1,12 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Mar 28 12:00:04 PDT 2021*
+*Last Updated: Sun Mar 28 12:26:17 PDT 2021*
 
 *Date range: Sun Mar 28 2021 - Tue Apr 27 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (4)
+
+>### HHSA LEMON GROVE CC COVID 19
+>#### 3146 School Lane, Lemon Grove, CA 91945
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-05, 2021-04-12
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-05, 2021-04-12
+
+>### HHSA NATIONAL CITY MLK COVID 19
+>#### 140 East 12th St., National City, CA 91950
+>- Dose 1 available on 1 days
+>  - Days: 2021-04-12
+>- Dose 2 available on 1 days
+>  - Days: 2021-04-12
 
 >### HHSA NCPHC MISSION COVID 19 - Moderna
 >#### 1701 Mission Avenue, Oceanside, CA 92058
