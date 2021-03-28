@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Mar 28 11:18:26 PDT 2021*
+*Last Updated: Sun Mar 28 12:00:04 PDT 2021*
 
 *Date range: Sun Mar 28 2021 - Tue Apr 27 2021*
 
@@ -8,12 +8,12 @@
 
 ## Locations with both doses (2)
 
->### HHSA COPLEY PRICE YMCA COVID 19
->#### 4300 El Cajon Blvd., San Diego, CA 92105
->- Dose 1 available on 4 days
->  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
->- Dose 2 available on 4 days
->  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19
+>### HHSA NCPHC MISSION COVID 19 - Moderna
+>#### 1701 Mission Avenue, Oceanside, CA 92058
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-26
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-26
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
