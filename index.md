@@ -1,29 +1,22 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 29 14:18:52 PDT 2021*
+*Last Updated: Mon Mar 29 14:45:05 PDT 2021*
 
 *Date range: Mon Mar 29 2021 - Wed Apr 28 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (10)
+## Locations with both doses (9)
 
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
->- Dose 2 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
+>### Sharp - Central San Diego Knollwood
+>#### 7944 Birmingham Drive, San Diego, CA 92123
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-28
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-28
 
 >### HHSA ERPHC COVID 19
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
->- Dose 2 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
-
->### HHSA NATIONAL CITY MLK COVID 19
->#### 140 East 12th St., National City, CA 91950
 >- Dose 1 available on 3 days
 >  - Days: 2021-04-06, 2021-04-13, 2021-04-20
 >- Dose 2 available on 3 days
@@ -36,26 +29,19 @@
 >- Dose 2 available on 13 days
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28
 
->### HHSA SRPHC COVID 19
->#### 690 Oxford St., Chula Vista, CA 91911
->- Dose 1 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-20
->- Dose 2 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-20
-
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
->- Dose 1 available on 3 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-20
->- Dose 2 available on 3 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-20
+>- Dose 1 available on 1 days
+>  - Days: 2021-04-06
+>- Dose 2 available on 1 days
+>  - Days: 2021-04-06
 
->### HHSA NORTH INLAND FIRST UNITED - Pfizer
->#### 341 S. Kalmia Street, Escondido, CA 92025
->- Dose 1 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
->- Dose 2 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-07, 2021-04-21
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-07, 2021-04-21
 
 >### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
 >#### 555 East Valley Parkway, Escondido CA 92025
@@ -64,12 +50,19 @@
 >- Dose 2 available on 5 days
 >  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20, 2021-04-27
 
->### HHSA NCPHC MISSION COVID 19 - Moderna
+>### Sharp - CSU San Marcos - Moderna
+>#### 103 Campus View Way, San Marcos, CA 92078
+>- Dose 1 available on 11 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-28
+>- Dose 2 available on 11 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-28
+
+>### HHSA NCPHC MISSION COVID 19
 >#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 5 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20, 2021-04-27
->- Dose 2 available on 5 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20, 2021-04-27
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
