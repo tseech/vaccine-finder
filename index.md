@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 29 12:48:48 PDT 2021*
+*Last Updated: Mon Mar 29 13:22:23 PDT 2021*
 
 *Date range: Mon Mar 29 2021 - Wed Apr 28 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (14)
+## Locations with both doses (15)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -28,6 +28,13 @@
 >  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
+
+>### HHSA MEXICAN CONSULATE COVID 19 - Pfizer
+>#### 1549 India Street, San Diego, CA 92101
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-06, 2021-04-13, 2021-04-20
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-06, 2021-04-13, 2021-04-20
 
 >### HHSA MOUNTAIN VIEW AT ECC - Pfizer
 >#### 4343 Ocean View Boulevard, San Diego, CA 92113
@@ -52,10 +59,10 @@
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St., Chula Vista, CA 91911
->- Dose 1 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
->- Dose 2 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-06, 2021-04-13, 2021-04-20
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-06, 2021-04-13, 2021-04-20
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
@@ -71,13 +78,6 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-03-30, 2021-04-06, 2021-04-20
 
->### HHSA VISTA LINDA RHOADES COVID 19
->#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
->- Dose 2 available on 4 days
->  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
-
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
 San Diego California 92123
@@ -86,8 +86,15 @@ San Diego California 92123
 >- Dose 2 available on 5 days
 >  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
 
->### HHSA NORTH INLAND FIRST UNITED - Pfizer
->#### 341 S. Kalmia Street, Escondido, CA 92025
+>### Sharp - CSU San Marcos - Moderna
+>#### 103 Campus View Way, San Marcos, CA 92078
+>- Dose 1 available on 12 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28
+>- Dose 2 available on 12 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28
+
+>### HHSA VISTA LINDA RHOADES COVID 19
+>#### 600 North Santa Fe Ave., Vista, CA 92084
 >- Dose 1 available on 4 days
 >  - Days: 2021-03-30, 2021-04-06, 2021-04-13, 2021-04-20
 >- Dose 2 available on 4 days
