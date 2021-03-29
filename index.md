@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Mar 28 16:47:21 PDT 2021*
+*Last Updated: Sun Mar 28 17:59:19 PDT 2021*
 
-*Date range: Sun Mar 28 2021 - Tue Apr 27 2021*
+*Date range: Mon Mar 29 2021 - Wed Apr 28 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### Sharp - Central San Diego Knollwood
+>#### 7944 Birmingham Drive, San Diego, CA 92123
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
