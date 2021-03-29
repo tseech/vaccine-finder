@@ -1,26 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 29 15:22:33 PDT 2021*
+*Last Updated: Mon Mar 29 15:49:23 PDT 2021*
 
 *Date range: Mon Mar 29 2021 - Wed Apr 28 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (8)
-
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-20
->- Dose 2 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-20
-
->### HHSA NATIONAL CITY MLK COVID 19
->#### 140 East 12th St., National City, CA 91950
->- Dose 1 available on 2 days
->  - Days: 2021-04-06, 2021-04-13
->- Dose 2 available on 2 days
->  - Days: 2021-04-06, 2021-04-13
+## Locations with both doses (3)
 
 >### Sharp - City of Coronado
 >#### 1845 Strand Ave, Coronado, CA 92118
@@ -29,33 +15,12 @@
 >- Dose 2 available on 13 days
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28
 
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-20
->- Dose 2 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-20
-
->### HHSA NORTH INLAND FIRST UNITED - Pfizer
->#### 341 S. Kalmia Street, Escondido, CA 92025
->- Dose 1 available on 2 days
->  - Days: 2021-04-06, 2021-04-13
->- Dose 2 available on 2 days
->  - Days: 2021-04-06, 2021-04-13
-
->### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 2 days
->  - Days: 2021-04-07, 2021-04-21
->- Dose 2 available on 2 days
->  - Days: 2021-04-07, 2021-04-21
-
->### Sharp - CSU San Marcos - Moderna
->#### 103 Campus View Way, San Marcos, CA 92078
->- Dose 1 available on 12 days
->  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28
->- Dose 2 available on 12 days
->  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 5 days
+>  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
+>- Dose 2 available on 5 days
+>  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
