@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Mar 28 17:59:19 PDT 2021*
+*Last Updated: Sun Mar 28 19:11:47 PDT 2021*
 
 *Date range: Mon Mar 29 2021 - Wed Apr 28 2021*
 
@@ -8,12 +8,12 @@
 
 ## Locations with both doses (2)
 
->### Sharp - Central San Diego Knollwood
->#### 7944 Birmingham Drive, San Diego, CA 92123
+>### HHSA NCPHC MISSION COVID 19 - Moderna
+>#### 1701 Mission Avenue, Oceanside, CA 92058
 >- Dose 1 available on 3 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-19
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-26
 >- Dose 2 available on 3 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-19
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-26
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
