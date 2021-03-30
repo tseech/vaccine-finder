@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Mar 30 15:22:31 PDT 2021*
+*Last Updated: Tue Mar 30 15:49:09 PDT 2021*
 
 *Date range: Tue Mar 30 2021 - Thu Apr 29 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
+## Locations with both doses (2)
 
 >### Sharp - City of Coronado
 >#### 1845 Strand Ave, Coronado, CA 92118
@@ -14,20 +14,6 @@
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
 >- Dose 2 available on 14 days
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
-
->### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 2 days
->  - Days: 2021-04-07, 2021-04-21
->- Dose 2 available on 2 days
->  - Days: 2021-04-07, 2021-04-21
-
->### HHSA NCLWHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 3 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21
->- Dose 2 available on 3 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
