@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 29 19:06:58 PDT 2021*
+*Last Updated: Mon Mar 29 19:51:48 PDT 2021*
 
 *Date range: Tue Mar 30 2021 - Thu Apr 29 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
-
->### HHSA MEXICAN CONSULATE COVID 19 - Pfizer
->#### 1549 India Street, San Diego, CA 92101
->- Dose 1 available on 2 days
->  - Days: 2021-04-06, 2021-04-13
->- Dose 2 available on 2 days
->  - Days: 2021-04-06, 2021-04-13
+## Locations with both doses (3)
 
 >### Sharp - City of Coronado
 >#### 1845 Strand Ave, Coronado, CA 92118
@@ -24,10 +17,10 @@
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 5 days
->  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
->- Dose 2 available on 5 days
->  - Days: 2021-03-29, 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-29, 2021-04-12, 2021-04-19, 2021-04-26
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-29, 2021-04-12, 2021-04-19, 2021-04-26
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
