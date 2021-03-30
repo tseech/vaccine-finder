@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 29 21:56:25 PDT 2021*
+*Last Updated: Mon Mar 29 22:28:34 PDT 2021*
 
 *Date range: Tue Mar 30 2021 - Thu Apr 29 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
-
->### HHSA COLLEGE AREA AT SDSU COVID 19
->#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
->- Dose 1 available on 2 days
->  - Days: 2021-04-06, 2021-04-13
->- Dose 2 available on 2 days
->  - Days: 2021-04-06, 2021-04-13
+## Locations with both doses (3)
 
 >### Sharp - City of Coronado
 >#### 1845 Strand Ave, Coronado, CA 92118
