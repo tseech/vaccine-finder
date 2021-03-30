@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Mar 30 16:45:32 PDT 2021*
+*Last Updated: Tue Mar 30 16:55:38 PDT 2021*
 
 *Date range: Tue Mar 30 2021 - Thu Apr 29 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
-
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 2 days
->  - Days: 2021-04-07, 2021-04-14
->- Dose 2 available on 2 days
->  - Days: 2021-04-07, 2021-04-14
+## Locations with both doses (2)
 
 >### Sharp - City of Coronado
 >#### 1845 Strand Ave, Coronado, CA 92118
@@ -21,13 +14,6 @@
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
 >- Dose 2 available on 14 days
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
-
->### HHSA NORTH INLAND FIRST UNITED - Pfizer
->#### 341 S. Kalmia Street, Escondido, CA 92025
->- Dose 1 available on 3 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21
->- Dose 2 available on 3 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
@@ -45,7 +31,17 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (21)
+
+>### HHSA ERPHC COVID 19
+>#### 367 N. Magnolia Avenue, El Cajon, CA 92020
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
