@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Mar 29 23:24:07 PDT 2021*
+*Last Updated: Mon Mar 29 23:52:54 PDT 2021*
 
 *Date range: Tue Mar 30 2021 - Thu Apr 29 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
+## Locations with both doses (3)
 
 >### Sharp - City of Coronado
 >#### 1845 Strand Ave, Coronado, CA 92118
@@ -21,13 +21,6 @@
 >  - Days: 2021-03-29, 2021-04-12, 2021-04-19, 2021-04-26
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-29, 2021-04-12, 2021-04-19, 2021-04-26
-
->### HHSA NCLWHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-20
->- Dose 2 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-20
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
