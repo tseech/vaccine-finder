@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Mar 30 23:24:07 PDT 2021*
+*Last Updated: Tue Mar 30 23:53:34 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (2)
 
 >### Sharp - City of Coronado
 >#### 1845 Strand Ave, Coronado, CA 92118
@@ -14,13 +14,6 @@
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
 >- Dose 2 available on 14 days
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 3 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-26
->- Dose 2 available on 3 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-26
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
