@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Mar 30 16:55:38 PDT 2021*
+*Last Updated: Tue Mar 30 17:54:03 PDT 2021*
 
-*Date range: Tue Mar 30 2021 - Thu Apr 29 2021*
+*Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (5)
 
 >### Sharp - City of Coronado
 >#### 1845 Strand Ave, Coronado, CA 92118
@@ -14,6 +14,27 @@
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
 >- Dose 2 available on 14 days
 >  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
+
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 1 days
+>  - Days: 2021-04-21
+>- Dose 2 available on 1 days
+>  - Days: 2021-04-21
+
+>### Sharp - CSU San Marcos - Moderna
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 13 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29
+>- Dose 2 available on 13 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29
+
+>### HHSA VISTA LINDA RHOADES COVID 19
+>#### 600 North Santa Fe Ave., Vista, CA 92084
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-07, 2021-04-14
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-07, 2021-04-14
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
@@ -31,17 +52,7 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (21)
-
->### HHSA ERPHC COVID 19
->#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+## Locations with neither (19)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
