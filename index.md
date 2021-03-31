@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 08:21:52 PDT 2021*
+*Last Updated: Wed Mar 31 08:49:41 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
@@ -8,12 +8,12 @@
 
 ## Locations with both doses (2)
 
->### Sharp - City of Coronado
->#### 1845 Strand Ave, Coronado, CA 92118
->- Dose 1 available on 11 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
->- Dose 2 available on 11 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
+>### HHSA COLLEGE AREA AT SDSU COVID 19
+>#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
@@ -30,7 +30,12 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (21)
+
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
