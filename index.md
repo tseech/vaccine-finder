@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 09:36:59 PDT 2021*
+*Last Updated: Wed Mar 31 10:33:06 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
@@ -8,19 +8,19 @@
 
 ## Locations with both doses (3)
 
->### HHSA NORTH INLAND FIRST UNITED - Pfizer
->#### 341 S. Kalmia Street, Escondido, CA 92025
->- Dose 1 available on 3 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21
->- Dose 2 available on 3 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21
+>### HHSA COLLEGE AREA AT SDSU COVID 19
+>#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
+>- Dose 1 available on 4 days
+>  - Days: 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
+>- Dose 2 available on 4 days
+>  - Days: 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
 
->### HHSA NCLWHC MISSION COVID 19
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 1 days
->  - Days: 2021-04-14
->- Dose 2 available on 1 days
->  - Days: 2021-04-14
+>### Sharp - CSU San Marcos - Moderna
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 14 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 14 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
