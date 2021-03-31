@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 16:20:46 PDT 2021*
+*Last Updated: Wed Mar 31 16:47:45 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
@@ -8,20 +8,19 @@
 
 ## Locations with both doses (2)
 
->### HHSA SOUTHWESTERN COLLEGE SY COVID 19
->#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
 >- Dose 1 available on 4 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-22, 2021-04-23
 >- Dose 2 available on 4 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-22, 2021-04-23
 
->### Rady Children's Hospital - San Diego
->#### 3020 Children's Way
-San Diego California 92123
->- Dose 1 available on 4 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
->- Dose 2 available on 4 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
+>### HHSA NCLWHC MISSION COVID 19 - Moderna
+>#### 1701 Mission Avenue, Oceanside, CA 92058
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-08, 2021-04-15, 2021-04-22
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-08, 2021-04-15, 2021-04-22
 
 ## Locations with dose 1 only (0)
 
@@ -31,7 +30,7 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (20)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
@@ -75,6 +74,11 @@ San Diego California 92123
 
 >### VONS PHARMACY #2107
 >#### 10675 Scrpps Poway Parkway, San Diego, CA 92131
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### VONS PHARMACY #2012
+>#### 7788 REGENTS ROAD, San Diego, CA 92122
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
