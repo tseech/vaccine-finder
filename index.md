@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 12:40:39 PDT 2021*
+*Last Updated: Wed Mar 31 12:48:28 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
@@ -24,17 +24,17 @@
 
 >### HHSA ERPHC COVID 19
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 3 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-22
->- Dose 2 available on 3 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-22
+>- Dose 1 available on 7 days
+>  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-16, 2021-04-22, 2021-04-23
+>- Dose 2 available on 7 days
+>  - Days: 2021-04-01, 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-16, 2021-04-22, 2021-04-23
 
->### HHSA MEXICAN CONSULATE COVID 19 - Pfizer
->#### 1549 India Street, San Diego, CA 92101
+>### HHSA TUBMAN CHAVEZ COVID 19
+>#### 415 Euclid Ave., San Diego, CA 92114
 >- Dose 1 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+>  - Days: 2021-04-02, 2021-04-09, 2021-04-16, 2021-04-23
 >- Dose 2 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+>  - Days: 2021-04-02, 2021-04-09, 2021-04-16, 2021-04-23
 
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
