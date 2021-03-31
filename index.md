@@ -1,47 +1,40 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 15:23:55 PDT 2021*
+*Last Updated: Wed Mar 31 15:49:30 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (6)
+## Locations with both doses (5)
 
->### HHSA COLLEGE AREA AT SDSU COVID 19
->#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
->- Dose 1 available on 6 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
->- Dose 2 available on 6 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
+>### HHSA ERPHC COVID 19
+>#### 367 N. Magnolia Avenue, El Cajon, CA 92020
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-08, 2021-04-09, 2021-04-16, 2021-04-23
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-08, 2021-04-09, 2021-04-16, 2021-04-23
 
->### Sharp - City of Coronado
->#### 1845 Strand Ave, Coronado, CA 92118
->- Dose 1 available on 11 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
->- Dose 2 available on 11 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
+>### HHSA NATIONAL CITY MLK COVID 19
+>#### 140 East 12th St., National City, CA 91950
+>- Dose 1 available on 1 days
+>  - Days: 2021-04-15
+>- Dose 2 available on 1 days
+>  - Days: 2021-04-15
 
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 3 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-26
->- Dose 2 available on 3 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-26
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-22, 2021-04-23
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-22, 2021-04-23
 
->### HHSA VISTA LINDA RHOADES COVID 19
->#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 6 days
->  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-23
->- Dose 2 available on 6 days
->  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-23
-
->### HHSA NCLWHC MISSION COVID 19 - Moderna
+>### HHSA NCLWHC MISSION COVID 19
 >#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 5 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
->- Dose 2 available on 5 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
+>- Dose 1 available on 1 days
+>  - Days: 2021-04-22
+>- Dose 2 available on 1 days
+>  - Days: 2021-04-22
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
