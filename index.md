@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 11:19:41 PDT 2021*
+*Last Updated: Wed Mar 31 11:58:21 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (1)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -14,13 +14,6 @@
 >  - Days: 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
-
->### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 4 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
->- Dose 2 available on 4 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
 
 ## Locations with dose 1 only (0)
 
