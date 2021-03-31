@@ -1,19 +1,96 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 11:58:21 PDT 2021*
+*Last Updated: Wed Mar 31 12:24:35 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (12)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
 >- Dose 1 available on 4 days
->  - Days: 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
 >- Dose 2 available on 4 days
->  - Days: 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+
+>### HHSA LEMON GROVE CC COVID 19
+>#### 3146 School Lane, Lemon Grove, CA 91945
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+
+>### HHSA ERPHC COVID 19
+>#### 367 N. Magnolia Avenue, El Cajon, CA 92020
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-22
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-22
+
+>### HHSA MEXICAN CONSULATE COVID 19 - Pfizer
+>#### 1549 India Street, San Diego, CA 92101
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+
+>### HHSA NATIONAL CITY MLK COVID 19
+>#### 140 East 12th St., National City, CA 91950
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-01, 2021-04-15, 2021-04-22
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-01, 2021-04-15, 2021-04-22
+
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-01, 2021-04-22
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-01, 2021-04-22
+
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+
+>### HHSA NORTH INLAND FIRST UNITED - Pfizer
+>#### 341 S. Kalmia Street, Escondido, CA 92025
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+
+>### Sharp - CSU San Marcos - Moderna
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 14 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 14 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+
+>### HHSA VISTA LINDA RHOADES COVID 19
+>#### 600 North Santa Fe Ave., Vista, CA 92084
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+
+>### HHSA NCLWHC MISSION COVID 19
+>#### 1701 Mission Avenue, Oceanside, CA 92058
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-01, 2021-04-22
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-01, 2021-04-22
+
+>### HHSA NCLWHC MISSION COVID 19 - Moderna
+>#### 1701 Mission Avenue, Oceanside, CA 92058
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
 
 ## Locations with dose 1 only (0)
 
