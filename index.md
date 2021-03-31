@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 00:22:08 PDT 2021*
+*Last Updated: Wed Mar 31 00:43:57 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
-
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 3 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21
->- Dose 2 available on 3 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21
+## Locations with both doses (2)
 
 >### Sharp - City of Coronado
 >#### 1845 Strand Ave, Coronado, CA 92118
