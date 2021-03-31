@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 06:53:36 PDT 2021*
+*Last Updated: Wed Mar 31 07:20:27 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### HHSA MEXICAN CONSULATE COVID 19 - Pfizer
+>#### 1549 India Street, San Diego, CA 92101
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-07, 2021-04-14
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-07, 2021-04-14
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
