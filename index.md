@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 10:33:06 PDT 2021*
+*Last Updated: Wed Mar 31 11:19:41 PDT 2021*
 
 *Date range: Wed Mar 31 2021 - Fri Apr 30 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (2)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -15,19 +15,12 @@
 >- Dose 2 available on 4 days
 >  - Days: 2021-03-31, 2021-04-07, 2021-04-14, 2021-04-21
 
->### Sharp - CSU San Marcos - Moderna
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 14 days
->  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 14 days
->  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
-
->### Riverside - LA Fitness Temecula - Pfizer - Both Dose
->#### 39716 Winchester Road, Temecula, CA 92591
->- Dose 1 available on 20 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25
->- Dose 2 available on 20 days
->  - Days: 2021-03-31, 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25
+>### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
 
 ## Locations with dose 1 only (0)
 
