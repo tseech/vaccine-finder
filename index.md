@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Mar 31 19:16:49 PDT 2021*
+*Last Updated: Wed Mar 31 20:02:01 PDT 2021*
 
 *Date range: Thu Apr 1 2021 - Sat May 1 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (1)
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
@@ -14,20 +14,6 @@
 >  - Days: 2021-04-12, 2021-04-19, 2021-04-26
 >- Dose 2 available on 3 days
 >  - Days: 2021-04-12, 2021-04-19, 2021-04-26
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 3 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23
->- Dose 2 available on 3 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23
-
->### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 4 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
->- Dose 2 available on 4 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
 
 ## Locations with dose 1 only (0)
 
@@ -37,12 +23,7 @@
 
 >None
 
-## Locations with neither (21)
-
->### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+## Locations with neither (20)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
@@ -104,6 +85,11 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
+>### KAISER PERMANENTE Vista Medical Offices San Diego Medical Center Area
+>#### 780 Shadowridge Dr, Vista, CA, 92083
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
 >### SAV-ON PHARMACY # 0750
 >#### 1571 SAN ELIJO ROAD S, San Marcos, CA 92078
 >- Dose 1 available on 0 days
@@ -136,11 +122,6 @@
 
 >### SAV-ON PHARMACY # 0733
 >#### 3450 MARRON RD, Oceanside, CA 92056
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### VONS PHARMACY #2144
->#### 262 N. El Camino Real, Encinitas, CA 92024
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
