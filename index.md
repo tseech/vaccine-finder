@@ -1,26 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 08:50:08 PDT 2021*
+*Last Updated: Thu Apr 1 09:37:42 PDT 2021*
 
 *Date range: Thu Apr 1 2021 - Sat May 1 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (5)
-
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
->- Dose 2 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
-
->### HHSA NATIONAL CITY MLK COVID 19
->#### 140 East 12th St., National City, CA 91950
->- Dose 1 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
->- Dose 2 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+## Locations with both doses (2)
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St., Chula Vista, CA 91911
@@ -28,13 +14,6 @@
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
 >- Dose 2 available on 4 days
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 7 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
->- Dose 2 available on 7 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
