@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 12:33:25 PDT 2021*
+*Last Updated: Thu Apr 1 12:50:12 PDT 2021*
 
 *Date range: Thu Apr 1 2021 - Sat May 1 2021*
 
@@ -24,10 +24,17 @@
 
 >### HHSA ERPHC COVID 19
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 7 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
->- Dose 2 available on 7 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
+>- Dose 1 available on 12 days
+>  - Days: 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
+>- Dose 2 available on 12 days
+>  - Days: 2021-04-01, 2021-04-02, 2021-04-03, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
+
+>### HHSA TUBMAN CHAVEZ COVID 19
+>#### 415 Euclid Ave., San Diego, CA 92114
+>- Dose 1 available on 8 days
+>  - Days: 2021-04-02, 2021-04-03, 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
+>- Dose 2 available on 8 days
+>  - Days: 2021-04-02, 2021-04-03, 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
 
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
@@ -57,13 +64,6 @@
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22
 
->### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 5 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
->- Dose 2 available on 5 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
-
 ## Locations with dose 1 only (0)
 
 >None
@@ -72,7 +72,12 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (21)
+
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
