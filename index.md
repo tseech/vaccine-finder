@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 14:19:42 PDT 2021*
+*Last Updated: Thu Apr 1 15:48:57 PDT 2021*
 
 *Date range: Thu Apr 1 2021 - Sat May 1 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (9)
+## Locations with both doses (8)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -29,19 +29,19 @@
 >- Dose 2 available on 10 days
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
 
+>### HHSA TUBMAN CHAVEZ COVID 19
+>#### 415 Euclid Ave., San Diego, CA 92114
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
+
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
 >- Dose 1 available on 4 days
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
 >- Dose 2 available on 4 days
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
-
->### Sharp - City of Coronado
->#### 1845 Strand Ave, Coronado, CA 92118
->- Dose 1 available on 11 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
->- Dose 2 available on 11 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St., Chula Vista, CA 91911
@@ -59,17 +59,10 @@
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
->- Dose 1 available on 8 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
->- Dose 2 available on 8 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
-
->### HHSA VISTA LINDA RHOADES COVID 19
->#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 8 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-24
->- Dose 2 available on 8 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-24
+>- Dose 1 available on 7 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-22
+>- Dose 2 available on 7 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-22
 
 ## Locations with dose 1 only (0)
 
