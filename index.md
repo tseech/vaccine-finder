@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 12:03:16 PDT 2021*
+*Last Updated: Thu Apr 1 12:33:25 PDT 2021*
 
 *Date range: Thu Apr 1 2021 - Sat May 1 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (6)
+## Locations with both doses (8)
+
+>### HHSA COLLEGE AREA AT SDSU COVID 19
+>#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
+>- Dose 1 available on 7 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
+>- Dose 2 available on 7 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
 
 >### HHSA LEMON GROVE CC COVID 19
 >#### 3146 School Lane, Lemon Grove, CA 91945
@@ -49,6 +56,13 @@
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22
+
+>### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29
 
 ## Locations with dose 1 only (0)
 
