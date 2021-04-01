@@ -1,19 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 06:40:20 PDT 2021*
+*Last Updated: Thu Apr 1 06:53:28 PDT 2021*
 
 *Date range: Thu Apr 1 2021 - Sat May 1 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
 
->### HHSA SRPHC COVID 19
->#### 690 Oxford St., Chula Vista, CA 91911
->- Dose 1 available on 1 days
->  - Days: 2021-04-15
->- Dose 2 available on 1 days
->  - Days: 2021-04-15
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-02, 2021-04-23
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-02, 2021-04-23
+
+>### HHSA VISTA LINDA RHOADES COVID 19
+>#### 600 North Santa Fe Ave., Vista, CA 92084
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
 
 ## Locations with dose 1 only (0)
 
