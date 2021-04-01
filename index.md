@@ -1,34 +1,47 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 08:21:36 PDT 2021*
+*Last Updated: Thu Apr 1 08:50:08 PDT 2021*
 
 *Date range: Thu Apr 1 2021 - Sat May 1 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (5)
 
->### HHSA VISTA LINDA RHOADES COVID 19
->#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 6 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
->- Dose 2 available on 6 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
-
->### HHSA NCLWHC MISSION COVID 19
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 1 days
->  - Days: 2021-04-22
->- Dose 2 available on 1 days
->  - Days: 2021-04-22
-
->### Rady Children's Hospital - San Diego
->#### 3020 Children's Way
-San Diego California 92123
+>### HHSA LEMON GROVE CC COVID 19
+>#### 3146 School Lane, Lemon Grove, CA 91945
 >- Dose 1 available on 4 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
 >- Dose 2 available on 4 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+
+>### HHSA NATIONAL CITY MLK COVID 19
+>#### 140 East 12th St., National City, CA 91950
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+
+>### HHSA SRPHC COVID 19
+>#### 690 Oxford St., Chula Vista, CA 91911
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
+
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 7 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
+>- Dose 2 available on 7 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22, 2021-04-23
+
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-15, 2021-04-16, 2021-04-22
 
 ## Locations with dose 1 only (0)
 
@@ -38,7 +51,7 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (20)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
@@ -82,6 +95,11 @@ San Diego California 92123
 
 >### VONS PHARMACY #1897
 >#### 9643 MISSION GORGE ROAD, Santee, CA 92071
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### VONS PHARMACY #2784
+>#### 515 WEST WASHINGTON ST., San Diego, CA 92103
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
