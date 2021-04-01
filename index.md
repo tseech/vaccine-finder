@@ -1,19 +1,27 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 07:20:50 PDT 2021*
+*Last Updated: Thu Apr 1 07:53:01 PDT 2021*
 
 *Date range: Thu Apr 1 2021 - Sat May 1 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
 
->### Sharp - CSU San Marcos - Moderna
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 14 days
->  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 14 days
->  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>### Sharp - City of Coronado
+>#### 1845 Strand Ave, Coronado, CA 92118
+>- Dose 1 available on 11 days
+>  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
+>- Dose 2 available on 11 days
+>  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29
+
+>### Rady Children's Hospital - San Diego
+>#### 3020 Children's Way
+San Diego California 92123
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
 
 ## Locations with dose 1 only (0)
 
@@ -23,7 +31,7 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (19)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
@@ -67,11 +75,6 @@
 
 >### VONS PHARMACY #1897
 >#### 9643 MISSION GORGE ROAD, Santee, CA 92071
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### VONS PHARMACY #2784
->#### 515 WEST WASHINGTON ST., San Diego, CA 92103
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
