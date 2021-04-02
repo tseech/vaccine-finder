@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 21:28:47 PDT 2021*
+*Last Updated: Thu Apr 1 22:00:32 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
@@ -14,6 +14,13 @@
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
 >- Dose 2 available on 10 days
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
+
+>### HHSA COPLEY PRICE YMCA COVID 19
+>#### 4300 El Cajon Blvd., San Diego, CA 92105
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-23
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-23
 
 >### HHSA LEMON GROVE CC COVID 19
 >#### 3146 School Lane, Lemon Grove, CA 91945
@@ -56,13 +63,6 @@
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-22
 >- Dose 2 available on 7 days
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-22
-
->### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 3 days
->  - Days: 2021-04-10, 2021-04-17, 2021-05-01
->- Dose 2 available on 3 days
->  - Days: 2021-04-10, 2021-04-17, 2021-05-01
 
 ## Locations with dose 1 only (0)
 
