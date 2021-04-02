@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 2 15:50:06 PDT 2021*
+*Last Updated: Fri Apr 2 16:21:37 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (8)
+## Locations with both doses (9)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -17,10 +17,10 @@
 
 >### Sharp - Central San Diego Knollwood - Pfizer - Both Doses - Age 16+
 >#### 7944 Birmingham Drive, San Diego, CA 92123
->- Dose 1 available on 6 days
->  - Days: 2021-04-03, 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
->- Dose 2 available on 6 days
->  - Days: 2021-04-03, 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
 
 >### Sharp - Grossmont Center Mall - Pfizer
 >#### 5500 Grossmont Center Drive, La Mesa CA 91942
@@ -49,6 +49,13 @@
 >  - Days: 2021-04-03, 2021-04-05, 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-19, 2021-04-24, 2021-04-26
 >- Dose 2 available on 8 days
 >  - Days: 2021-04-03, 2021-04-05, 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-19, 2021-04-24, 2021-04-26
+
+>### HHSA NCLWHC MISSION COVID 19 - Moderna
+>#### 1701 Mission Avenue, Oceanside, CA 92058
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-11, 2021-04-18, 2021-04-25
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-11, 2021-04-18, 2021-04-25
 
 >### KAISER PERMANENTE La Mesa Medical Offices San Diego Med Ctr Area
 >#### 8080 Parkway Drive, La Mesa, CA
