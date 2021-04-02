@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 2 06:04:35 PDT 2021*
+*Last Updated: Fri Apr 2 06:39:51 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### HHSA TUBMAN CHAVEZ COVID 19
+>#### 415 Euclid Ave., San Diego, CA 92114
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
@@ -23,12 +30,7 @@
 
 >None
 
-## Locations with neither (21)
-
->### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+## Locations with neither (20)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
