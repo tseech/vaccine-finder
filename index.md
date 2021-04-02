@@ -1,12 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 2 07:20:50 PDT 2021*
+*Last Updated: Fri Apr 2 07:44:14 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (3)
+
+>### HHSA IB MAR VISTA HS COVID 19
+>#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
+>- Dose 1 available on 10 days
+>  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
+>- Dose 2 available on 10 days
+>  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
+
+>### HHSA NORTH INLAND FIRST UNITED - Pfizer
+>#### 341 S. Kalmia Street, Escondido, CA 92025
+>- Dose 1 available on 9 days
+>  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23
+>- Dose 2 available on 9 days
+>  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
