@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 2 02:22:53 PDT 2021*
+*Last Updated: Fri Apr 2 02:49:30 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
@@ -18,12 +18,7 @@
 
 >None
 
-## Locations with neither (21)
-
->### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+## Locations with neither (20)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
