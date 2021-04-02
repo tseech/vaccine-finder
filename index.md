@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 2 11:19:56 PDT 2021*
+*Last Updated: Fri Apr 2 12:01:52 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (6)
+## Locations with both doses (5)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -14,13 +14,6 @@
 >  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
 >- Dose 2 available on 10 days
 >  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
-
->### HHSA COPLEY PRICE YMCA COVID 19
->#### 4300 El Cajon Blvd., San Diego, CA 92105
->- Dose 1 available on 3 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23
->- Dose 2 available on 3 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23
 
 >### HHSA ERPHC COVID 19
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
