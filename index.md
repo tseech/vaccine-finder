@@ -1,61 +1,14 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 23:55:07 PDT 2021*
+*Last Updated: Fri Apr 2 00:23:19 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (7)
+## Locations with both doses (0)
 
->### HHSA COLLEGE AREA AT SDSU COVID 19
->#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
->- Dose 1 available on 10 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
->- Dose 2 available on 10 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
-
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
->- Dose 2 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
-
->### HHSA ERPHC COVID 19
->#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 9 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23
->- Dose 2 available on 9 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23
-
->### HHSA NATIONAL CITY MLK COVID 19
->#### 140 East 12th St., National City, CA 91950
->- Dose 1 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
->- Dose 2 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
-
->### HHSA SRPHC COVID 19
->#### 690 Oxford St., Chula Vista, CA 91911
->- Dose 1 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
->- Dose 2 available on 4 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-15, 2021-04-22
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 10 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
->- Dose 2 available on 10 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
-
->### HHSA SOUTHWESTERN COLLEGE SY COVID 19
->#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
->- Dose 1 available on 7 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-22
->- Dose 2 available on 7 days
->  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-22
+>None
 
 ## Locations with dose 1 only (0)
 
