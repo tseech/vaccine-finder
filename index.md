@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 2 08:53:58 PDT 2021*
+*Last Updated: Fri Apr 2 09:37:34 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
@@ -8,19 +8,19 @@
 
 ## Locations with both doses (3)
 
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 9 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
->- Dose 2 available on 9 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
-
 >### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
 >#### 555 East Valley Parkway, Escondido CA 92025
 >- Dose 1 available on 3 days
 >  - Days: 2021-04-10, 2021-04-17, 2021-05-01
 >- Dose 2 available on 3 days
 >  - Days: 2021-04-10, 2021-04-17, 2021-05-01
+
+>### KAISER PERMANENTE La Mesa Medical Offices San Diego Med Ctr Area
+>#### 8080 Parkway Drive, La Mesa, CA
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
@@ -37,7 +37,7 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (19)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
@@ -81,11 +81,6 @@
 
 >### VONS PHARMACY #2107
 >#### 10675 Scrpps Poway Parkway, San Diego, CA 92131
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### VONS PHARMACY #2012
->#### 7788 REGENTS ROAD, San Diego, CA 92122
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
