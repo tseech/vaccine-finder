@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 2 14:45:11 PDT 2021*
+*Last Updated: Fri Apr 2 14:55:15 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
@@ -29,12 +29,12 @@
 >- Dose 2 available on 7 days
 >  - Days: 2021-04-02, 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
 
->### HHSA NCLWHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 4 days
->  - Days: 2021-04-11, 2021-04-18, 2021-04-25, 2021-05-02
->- Dose 2 available on 4 days
->  - Days: 2021-04-11, 2021-04-18, 2021-04-25, 2021-05-02
+>### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
+>#### 1845 Strand Way, Coronado, CA 92118
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26
 
 >### KAISER PERMANENTE La Mesa Medical Offices San Diego Med Ctr Area
 >#### 8080 Parkway Drive, La Mesa, CA
