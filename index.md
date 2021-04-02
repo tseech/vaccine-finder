@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 1 19:39:47 PDT 2021*
+*Last Updated: Thu Apr 1 20:14:26 PDT 2021*
 
 *Date range: Fri Apr 2 2021 - Sun May 2 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (7)
+## Locations with both doses (8)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -57,6 +57,13 @@
 >- Dose 2 available on 7 days
 >  - Days: 2021-04-01, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-22
 
+>### Sharp - CSU San Marcos - Moderna
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 14 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 14 days
+>  - Days: 2021-04-06, 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+
 ## Locations with dose 1 only (0)
 
 >None
@@ -72,18 +79,8 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
->### KAISER PERMANENTE San Diego Medical Center San Diego Med Ctr Area
->#### 9455 Clairemont Mesa Blvd, San Diego, CA, 92123
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
 >### VONS PHARMACY #2352
 >#### 6155 EL CAJON BOULEVARD, San Diego, CA 92115
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### KAISER PERMANENTE La Mesa Medical Offices San Diego Med Ctr Area
->#### 8080 Parkway Drive, La Mesa, CA
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
@@ -117,8 +114,13 @@
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
->### KAISER PERMANENTE San Marcos Outpatient Med Ctr San Diego Med Ctr
->#### 400 Craven Rd, San Marco, CA, 92078
+>### VONS PHARMACY #2107
+>#### 10675 Scrpps Poway Parkway, San Diego, CA 92131
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### VONS PHARMACY #2012
+>#### 7788 REGENTS ROAD, San Diego, CA 92122
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
@@ -129,11 +131,6 @@
 
 >### VONS PHARMACY #2345
 >#### 1000 W. El Norte Parkway, Escondido, CA 92026
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### KAISER PERMANENTE Vista Medical Offices San Diego Medical Center Area
->#### 780 Shadowridge Dr, Vista, CA, 92083
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
@@ -164,6 +161,16 @@
 
 >### VONS PHARMACY #2156
 >#### 2345 EAST VALLEY PARKWAY, Escondido, CA 92027
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### SAV-ON PHARMACY # 0733
+>#### 3450 MARRON RD, Oceanside, CA 92056
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### VONS PHARMACY #2144
+>#### 262 N. El Camino Real, Encinitas, CA 92024
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
