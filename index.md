@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 2 19:10:39 PDT 2021*
+*Last Updated: Fri Apr 2 19:52:33 PDT 2021*
 
 *Date range: Sat Apr 3 2021 - Mon May 3 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (8)
+## Locations with both doses (5)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -14,13 +14,6 @@
 >  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
 >- Dose 2 available on 10 days
 >  - Days: 2021-04-02, 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-23, 2021-04-24
-
->### Sharp - Grossmont Center Mall - Pfizer
->#### 5500 Grossmont Center Drive, La Mesa CA 91942
->- Dose 1 available on 3 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-26
->- Dose 2 available on 3 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-26
 
 >### HHSA ERPHC COVID 19
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
@@ -42,20 +35,6 @@
 >  - Days: 2021-04-06, 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
 >- Dose 2 available on 8 days
 >  - Days: 2021-04-06, 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
-
->### HHSA SRPHC COVID 19
->#### 690 Oxford St., Chula Vista, CA 91911
->- Dose 1 available on 2 days
->  - Days: 2021-04-11, 2021-04-18
->- Dose 2 available on 2 days
->  - Days: 2021-04-11, 2021-04-18
-
->### HHSA VISTA LINDA RHOADES COVID 19
->#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 8 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-24
->- Dose 2 available on 8 days
->  - Days: 2021-04-08, 2021-04-09, 2021-04-10, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-22, 2021-04-24
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
