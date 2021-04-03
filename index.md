@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 3 00:53:05 PDT 2021*
+*Last Updated: Sat Apr 3 01:23:14 PDT 2021*
 
 *Date range: Sat Apr 3 2021 - Mon May 3 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (3)
+
+>### HHSA TUBMAN CHAVEZ COVID 19
+>#### 415 Euclid Ave., San Diego, CA 92114
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
