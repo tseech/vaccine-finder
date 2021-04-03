@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 3 08:20:45 PDT 2021*
+*Last Updated: Sat Apr 3 08:49:35 PDT 2021*
 
 *Date range: Sat Apr 3 2021 - Mon May 3 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (1)
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
@@ -14,13 +14,6 @@
 >  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
-
->### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 3 days
->  - Days: 2021-04-10, 2021-04-17, 2021-05-01
->- Dose 2 available on 3 days
->  - Days: 2021-04-10, 2021-04-17, 2021-05-01
 
 ## Locations with dose 1 only (0)
 
