@@ -1,14 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 3 07:43:08 PDT 2021*
+*Last Updated: Sat Apr 3 07:51:50 PDT 2021*
 
 *Date range: Sat Apr 3 2021 - Mon May 3 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (0)
+## Locations with both doses (1)
 
->None
+>### HHSA TUBMAN CHAVEZ COVID 19
+>#### 415 Euclid Ave., San Diego, CA 92114
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
 
 ## Locations with dose 1 only (0)
 
