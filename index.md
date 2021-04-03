@@ -1,40 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 3 00:22:04 PDT 2021*
+*Last Updated: Sat Apr 3 00:44:44 PDT 2021*
 
 *Date range: Sat Apr 3 2021 - Mon May 3 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
-
->### HHSA TUBMAN CHAVEZ COVID 19
->#### 415 Euclid Ave., San Diego, CA 92114
->- Dose 1 available on 6 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
->- Dose 2 available on 6 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-23, 2021-04-24
+## Locations with both doses (1)
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 6 days
->  - Days: 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-29
->- Dose 2 available on 6 days
->  - Days: 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-29
-
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 4 days
->  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-19
->- Dose 2 available on 4 days
->  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-19
-
->### Riverside - LA Fitness Temecula - Pfizer - Both Dose
->#### 39716 Winchester Road, Temecula, CA 92591
->- Dose 1 available on 12 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25
->- Dose 2 available on 12 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25
+>- Dose 1 available on 7 days
+>  - Days: 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
+>- Dose 2 available on 7 days
+>  - Days: 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
 
 ## Locations with dose 1 only (0)
 
