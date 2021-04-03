@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 2 20:53:18 PDT 2021*
+*Last Updated: Fri Apr 2 21:26:47 PDT 2021*
 
 *Date range: Sat Apr 3 2021 - Mon May 3 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (5)
+## Locations with both doses (6)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -35,6 +35,13 @@
 >  - Days: 2021-04-06, 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
 >- Dose 2 available on 8 days
 >  - Days: 2021-04-06, 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
+
+>### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-19
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-19
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
