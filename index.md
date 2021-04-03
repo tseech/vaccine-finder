@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 3 16:21:13 PDT 2021*
+*Last Updated: Sat Apr 3 16:48:34 PDT 2021*
 
 *Date range: Sat Apr 3 2021 - Mon May 3 2021*
 
@@ -73,10 +73,10 @@
 
 >### HHSA NCLWHC MISSION COVID 19 - Moderna
 >#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 7 days
->  - Days: 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-03
->- Dose 2 available on 7 days
->  - Days: 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-03
+>- Dose 1 available on 8 days
+>  - Days: 2021-04-04, 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-02
+>- Dose 2 available on 8 days
+>  - Days: 2021-04-04, 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-02
 
 ## Locations with dose 1 only (0)
 
