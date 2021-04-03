@@ -1,19 +1,47 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 3 08:49:35 PDT 2021*
+*Last Updated: Sat Apr 3 09:36:01 PDT 2021*
 
 *Date range: Sat Apr 3 2021 - Mon May 3 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (5)
 
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 6 days
->  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
->- Dose 2 available on 6 days
->  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
+>### HHSA COLLEGE AREA AT SDSU COVID 19
+>#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17, 2021-04-24
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17, 2021-04-24
+
+>### HHSA ERPHC COVID 19
+>#### 367 N. Magnolia Avenue, El Cajon, CA 92020
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17, 2021-04-24
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-03, 2021-04-10, 2021-04-17, 2021-04-24
+
+>### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-10, 2021-04-17, 2021-05-01
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-10, 2021-04-17, 2021-05-01
+
+>### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-19, 2021-04-26
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-19, 2021-04-26
+
+>### HHSA NCLWHC MISSION COVID 19 - Moderna
+>#### 1701 Mission Avenue, Oceanside, CA 92058
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-11, 2021-04-18, 2021-04-25
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-11, 2021-04-18, 2021-04-25
 
 ## Locations with dose 1 only (0)
 
