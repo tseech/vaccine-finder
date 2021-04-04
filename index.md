@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Apr 4 02:47:58 PDT 2021*
+*Last Updated: Sun Apr 4 03:21:50 PDT 2021*
 
 *Date range: Sun Apr 4 2021 - Tue May 4 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (5)
+## Locations with both doses (6)
+
+>### HHSA COPLEY PRICE YMCA COVID 19
+>#### 4300 El Cajon Blvd., San Diego, CA 92105
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26
 
 >### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
 >#### 5500 Grossmont Center Drive, La Mesa CA 91942
