@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Apr 4 13:21:02 PDT 2021*
+*Last Updated: Sun Apr 4 13:42:43 PDT 2021*
 
 *Date range: Sun Apr 4 2021 - Tue May 4 2021*
 
@@ -43,13 +43,6 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-04-06, 2021-04-13, 2021-04-27
 
->### HHSA MEXICAN CONSULATE COVID 19 - Pfizer
->#### 1549 India Street, San Diego, CA 92101
->- Dose 1 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-27
->- Dose 2 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-27
-
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
 >- Dose 1 available on 5 days
@@ -78,6 +71,13 @@
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-06, 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26, 2021-04-27
 
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-06, 2021-04-27
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-06, 2021-04-27
+
 >### HHSA NORTH INLAND FIRST UNITED - Pfizer
 >#### 341 S. Kalmia Street, Escondido, CA 92025
 >- Dose 1 available on 3 days
@@ -101,10 +101,10 @@
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
->- Dose 1 available on 12 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25
->- Dose 2 available on 12 days
->  - Days: 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25
+>- Dose 1 available on 13 days
+>  - Days: 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25
+>- Dose 2 available on 13 days
+>  - Days: 2021-04-04, 2021-04-07, 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25
 
 ## Locations with dose 1 only (0)
 
