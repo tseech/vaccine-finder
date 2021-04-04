@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Apr 4 14:18:27 PDT 2021*
+*Last Updated: Sun Apr 4 14:44:58 PDT 2021*
 
 *Date range: Sun Apr 4 2021 - Tue May 4 2021*
 
@@ -36,12 +36,19 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-04-06, 2021-04-13, 2021-04-27
 
+>### HHSA MEXICAN CONSULATE COVID 19 - Pfizer
+>#### 1549 India Street, San Diego, CA 92101
+>- Dose 1 available on 1 days
+>  - Days: 2021-04-13
+>- Dose 2 available on 1 days
+>  - Days: 2021-04-13
+
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
->- Dose 1 available on 6 days
->  - Days: 2021-04-05, 2021-04-06, 2021-04-12, 2021-04-19, 2021-04-26, 2021-04-27
->- Dose 2 available on 6 days
->  - Days: 2021-04-05, 2021-04-06, 2021-04-12, 2021-04-19, 2021-04-26, 2021-04-27
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-06, 2021-04-12, 2021-04-19, 2021-04-26, 2021-04-27
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-06, 2021-04-12, 2021-04-19, 2021-04-26, 2021-04-27
 
 >### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
 >#### 1845 Strand Way, Coronado, CA 92118
@@ -63,13 +70,6 @@
 >  - Days: 2021-04-06, 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26, 2021-04-27
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-06, 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26, 2021-04-27
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 2 days
->  - Days: 2021-04-06, 2021-04-27
->- Dose 2 available on 2 days
->  - Days: 2021-04-06, 2021-04-27
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
