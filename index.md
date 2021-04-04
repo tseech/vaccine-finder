@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Apr 4 09:36:21 PDT 2021*
+*Last Updated: Sun Apr 4 10:33:18 PDT 2021*
 
 *Date range: Sun Apr 4 2021 - Tue May 4 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (7)
+## Locations with both doses (3)
 
 >### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
 >#### 5500 Grossmont Center Drive, La Mesa CA 91942
@@ -15,26 +15,12 @@
 >- Dose 2 available on 15 days
 >  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
 
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 6 days
->  - Days: 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26
->- Dose 2 available on 6 days
->  - Days: 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26
-
 >### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
 >#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 12 days
->  - Days: 2021-04-07, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04
->- Dose 2 available on 12 days
->  - Days: 2021-04-07, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04
-
->### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
->#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 3 days
->  - Days: 2021-04-15, 2021-04-22, 2021-04-29
->- Dose 2 available on 3 days
->  - Days: 2021-04-15, 2021-04-22, 2021-04-29
+>- Dose 1 available on 11 days
+>  - Days: 2021-04-07, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
+>- Dose 2 available on 11 days
+>  - Days: 2021-04-07, 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
 
 >### Sharp - South Bay - Pfizer - Both Doses - Age 16+
 >#### 565 Broadway, Chula Vista, CA 91910
@@ -42,20 +28,6 @@
 >  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
 >- Dose 2 available on 12 days
 >  - Days: 2021-04-07, 2021-04-08, 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
-
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 10 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
->- Dose 2 available on 10 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
-
->### HHSA NCLWHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 6 days
->  - Days: 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26
->- Dose 2 available on 6 days
->  - Days: 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26
 
 ## Locations with dose 1 only (0)
 
