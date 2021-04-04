@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Apr 4 13:51:05 PDT 2021*
+*Last Updated: Sun Apr 4 14:18:27 PDT 2021*
 
 *Date range: Sun Apr 4 2021 - Tue May 4 2021*
 
@@ -38,10 +38,10 @@
 
 >### HHSA NATIONAL CITY MLK COVID 19
 >#### 140 East 12th St., National City, CA 91950
->- Dose 1 available on 5 days
->  - Days: 2021-04-06, 2021-04-12, 2021-04-19, 2021-04-26, 2021-04-27
->- Dose 2 available on 5 days
->  - Days: 2021-04-06, 2021-04-12, 2021-04-19, 2021-04-26, 2021-04-27
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-05, 2021-04-06, 2021-04-12, 2021-04-19, 2021-04-26, 2021-04-27
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-05, 2021-04-06, 2021-04-12, 2021-04-19, 2021-04-26, 2021-04-27
 
 >### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
 >#### 1845 Strand Way, Coronado, CA 92118
@@ -59,10 +59,10 @@
 
 >### HHSA SRPHC COVID 19
 >#### 690 Oxford St., Chula Vista, CA 91911
->- Dose 1 available on 7 days
->  - Days: 2021-04-05, 2021-04-06, 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26, 2021-04-27
->- Dose 2 available on 7 days
->  - Days: 2021-04-05, 2021-04-06, 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26, 2021-04-27
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-06, 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26, 2021-04-27
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-06, 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26, 2021-04-27
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
@@ -80,10 +80,10 @@
 
 >### HHSA NORTH INLAND FIRST UNITED - Pfizer
 >#### 341 S. Kalmia Street, Escondido, CA 92025
->- Dose 1 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-27
->- Dose 2 available on 3 days
->  - Days: 2021-04-06, 2021-04-13, 2021-04-27
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-13, 2021-04-27
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-13, 2021-04-27
 
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
