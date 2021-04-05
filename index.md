@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 5 00:21:13 PDT 2021*
+*Last Updated: Mon Apr 5 00:44:26 PDT 2021*
 
 *Date range: Mon Apr 5 2021 - Wed May 5 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### Sharp - Central San Diego Knollwood - Pfizer - Both Doses - Age 16+
+>#### 7944 Birmingham Drive, San Diego, CA 92123
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
 
 >### Sharp - South Bay - Pfizer - Both Doses - Age 16+
 >#### 565 Broadway, Chula Vista, CA 91910
