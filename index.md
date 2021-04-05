@@ -1,26 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 5 01:24:09 PDT 2021*
+*Last Updated: Mon Apr 5 01:51:09 PDT 2021*
 
 *Date range: Mon Apr 5 2021 - Wed May 5 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (1)
 
->### Sharp - Central San Diego Knollwood - Pfizer - Both Doses - Age 16+
->#### 7944 Birmingham Drive, San Diego, CA 92123
->- Dose 1 available on 6 days
->  - Days: 2021-04-05, 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
->- Dose 2 available on 6 days
->  - Days: 2021-04-05, 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
-
->### Sharp - South Bay - Pfizer - Both Doses - Age 16+
->#### 565 Broadway, Chula Vista, CA 91910
->- Dose 1 available on 10 days
->  - Days: 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 10 days
->  - Days: 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
+>### HHSA LEMON GROVE CC COVID 19
+>#### 3146 School Lane, Lemon Grove, CA 91945
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26
 
 ## Locations with dose 1 only (0)
 
