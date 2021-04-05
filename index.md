@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Apr 4 23:25:33 PDT 2021*
+*Last Updated: Sun Apr 4 23:55:08 PDT 2021*
 
 *Date range: Mon Apr 5 2021 - Wed May 5 2021*
 
@@ -8,19 +8,19 @@
 
 ## Locations with both doses (3)
 
->### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
->#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 9 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
->- Dose 2 available on 9 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
-
 >### Sharp - South Bay - Pfizer - Both Doses - Age 16+
 >#### 565 Broadway, Chula Vista, CA 91910
+>- Dose 1 available on 9 days
+>  - Days: 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
+>- Dose 2 available on 9 days
+>  - Days: 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
+
+>### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
+>#### 103 Campus View Drive, San Marcos, CA 92078
 >- Dose 1 available on 10 days
->  - Days: 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
 >- Dose 2 available on 10 days
->  - Days: 2021-04-09, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
 
 >### Riverside - LA Fitness Temecula - Pfizer - Both Dose
 >#### 39716 Winchester Road, Temecula, CA 92591
