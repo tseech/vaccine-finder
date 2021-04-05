@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 5 12:32:37 PDT 2021*
+*Last Updated: Mon Apr 5 12:49:46 PDT 2021*
 
 *Date range: Mon Apr 5 2021 - Wed May 5 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (7)
+## Locations with both doses (8)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -15,13 +15,6 @@
 >- Dose 2 available on 5 days
 >  - Days: 2021-04-07, 2021-04-13, 2021-04-20, 2021-04-27, 2021-04-28
 
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 8 days
->  - Days: 2021-04-07, 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-19, 2021-04-21, 2021-04-26, 2021-04-28
->- Dose 2 available on 8 days
->  - Days: 2021-04-07, 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-19, 2021-04-21, 2021-04-26, 2021-04-28
-
 >### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
 >#### 1845 Strand Way, Coronado, CA 92118
 >- Dose 1 available on 11 days
@@ -29,12 +22,26 @@
 >- Dose 2 available on 11 days
 >  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05
 
->### HHSA SOUTHWESTERN COLLEGE SY COVID 19
->#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
->- Dose 1 available on 5 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21, 2021-04-27, 2021-04-28
->- Dose 2 available on 5 days
->  - Days: 2021-04-07, 2021-04-14, 2021-04-21, 2021-04-27, 2021-04-28
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
+
+>### HHSA NORTH INLAND FIRST UNITED - Pfizer
+>#### 341 S. Kalmia Street, Escondido, CA 92025
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-07, 2021-04-13, 2021-04-14, 2021-04-28
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-07, 2021-04-13, 2021-04-14, 2021-04-28
+
+>### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 10 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
+>- Dose 2 available on 10 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
 
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
