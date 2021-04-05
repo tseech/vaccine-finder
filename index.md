@@ -1,47 +1,14 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 5 13:52:04 PDT 2021*
+*Last Updated: Mon Apr 5 14:18:26 PDT 2021*
 
 *Date range: Mon Apr 5 2021 - Wed May 5 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (5)
+## Locations with both doses (0)
 
->### HHSA ERPHC COVID 19
->#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 4 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-21, 2021-04-28
->- Dose 2 available on 4 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-21, 2021-04-28
-
->### HHSA ERPHC COVID 19 - Moderna
->#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 4 days
->  - Days: 2021-04-14, 2021-04-21, 2021-04-28, 2021-05-05
->- Dose 2 available on 4 days
->  - Days: 2021-04-14, 2021-04-21, 2021-04-28, 2021-05-05
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 3 days
->  - Days: 2021-04-14, 2021-04-21, 2021-04-28
->- Dose 2 available on 3 days
->  - Days: 2021-04-14, 2021-04-21, 2021-04-28
-
->### HHSA VISTA LINDA RHOADES COVID 19
->#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 5 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-21, 2021-04-27, 2021-04-28
->- Dose 2 available on 5 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-21, 2021-04-27, 2021-04-28
-
->### HHSA NCLWHC MISSION COVID 19
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 5 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-21, 2021-04-27, 2021-04-28
->- Dose 2 available on 5 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-21, 2021-04-27, 2021-04-28
+>None
 
 ## Locations with dose 1 only (0)
 
