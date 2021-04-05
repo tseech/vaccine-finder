@@ -1,47 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 5 07:44:20 PDT 2021*
+*Last Updated: Mon Apr 5 07:53:10 PDT 2021*
 
 *Date range: Mon Apr 5 2021 - Wed May 5 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (5)
+## Locations with both doses (1)
 
->### Sharp - Central San Diego Knollwood - Pfizer - Both Doses - Age 16+
->#### 7944 Birmingham Drive, San Diego, CA 92123
->- Dose 1 available on 5 days
->  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
->- Dose 2 available on 5 days
->  - Days: 2021-04-10, 2021-04-12, 2021-04-17, 2021-04-24, 2021-04-26
-
->### HHSA COPLEY PRICE YMCA COVID 19
->#### 4300 El Cajon Blvd., San Diego, CA 92105
->- Dose 1 available on 4 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
->- Dose 2 available on 4 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-19, 2021-04-26
-
->### HHSA LEMON GROVE CC COVID 19
->#### 3146 School Lane, Lemon Grove, CA 91945
->- Dose 1 available on 5 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26
->- Dose 2 available on 5 days
->  - Days: 2021-04-05, 2021-04-12, 2021-04-13, 2021-04-19, 2021-04-26
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 6 days
->  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
->- Dose 2 available on 6 days
->  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
-
->### HHSA NCLWHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 9 days
->  - Days: 2021-04-05, 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-02, 2021-05-03
->- Dose 2 available on 9 days
->  - Days: 2021-04-05, 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-02, 2021-05-03
+>### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
+>#### 5500 Grossmont Center Drive, La Mesa CA 91942
+>- Dose 1 available on 12 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 12 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
 
 ## Locations with dose 1 only (0)
 
