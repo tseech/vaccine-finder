@@ -1,33 +1,14 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 5 14:55:09 PDT 2021*
+*Last Updated: Mon Apr 5 15:24:00 PDT 2021*
 
 *Date range: Mon Apr 5 2021 - Wed May 5 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (0)
 
->### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
->#### 5500 Grossmont Center Drive, La Mesa CA 91942
->- Dose 1 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
-
->### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
->#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 11 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05
->- Dose 2 available on 11 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05
-
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 10 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
->- Dose 2 available on 10 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
+>None
 
 ## Locations with dose 1 only (0)
 
