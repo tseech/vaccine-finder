@@ -1,33 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 6 08:51:18 PDT 2021*
+*Last Updated: Tue Apr 6 09:36:59 PDT 2021*
 
 *Date range: Tue Apr 6 2021 - Thu May 6 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (1)
 
->### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 2 days
->  - Days: 2021-04-21, 2021-04-28
->- Dose 2 available on 2 days
->  - Days: 2021-04-21, 2021-04-28
-
->### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 4 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-05-06
->- Dose 2 available on 4 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-05-06
-
->### HHSA NCLWHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 5 days
->  - Days: 2021-04-12, 2021-04-14, 2021-04-19, 2021-04-26, 2021-05-03
->- Dose 2 available on 5 days
->  - Days: 2021-04-12, 2021-04-14, 2021-04-19, 2021-04-26, 2021-05-03
+>### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 11 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
+>- Dose 2 available on 11 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
 
 ## Locations with dose 1 only (0)
 
