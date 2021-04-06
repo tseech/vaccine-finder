@@ -1,40 +1,33 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 6 13:21:43 PDT 2021*
+*Last Updated: Tue Apr 6 13:43:30 PDT 2021*
 
 *Date range: Tue Apr 6 2021 - Thu May 6 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
+## Locations with both doses (3)
 
->### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
+>### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
 >#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 2 days
->  - Days: 2021-04-15, 2021-04-22
->- Dose 2 available on 2 days
->  - Days: 2021-04-15, 2021-04-22
+>- Dose 1 available on 12 days
+>  - Days: 2021-04-07, 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05
+>- Dose 2 available on 12 days
+>  - Days: 2021-04-07, 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05
+
+>### Sharp - South Bay - Pfizer - Both Doses - Age 16+
+>#### 565 Broadway, Chula Vista, CA 91910
+>- Dose 1 available on 9 days
+>  - Days: 2021-04-07, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
+>- Dose 2 available on 9 days
+>  - Days: 2021-04-07, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 6 days
->  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
->- Dose 2 available on 6 days
->  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
-
->### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 2 days
->  - Days: 2021-04-15, 2021-04-22
->- Dose 2 available on 2 days
->  - Days: 2021-04-15, 2021-04-22
-
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 11 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-29, 2021-04-30
->- Dose 2 available on 11 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-29, 2021-04-30
+>- Dose 1 available on 7 days
+>  - Days: 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
+>- Dose 2 available on 7 days
+>  - Days: 2021-04-08, 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
 
 ## Locations with dose 1 only (0)
 
@@ -44,7 +37,12 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (21)
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
