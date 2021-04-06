@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 6 09:36:59 PDT 2021*
+*Last Updated: Tue Apr 6 10:37:18 PDT 2021*
 
 *Date range: Tue Apr 6 2021 - Thu May 6 2021*
 
@@ -8,12 +8,12 @@
 
 ## Locations with both doses (1)
 
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 11 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
->- Dose 2 available on 11 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
+>### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-05-06
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-05-06
 
 ## Locations with dose 1 only (0)
 
@@ -23,7 +23,12 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (21)
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
