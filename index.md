@@ -1,26 +1,33 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 5 19:56:14 PDT 2021*
+*Last Updated: Mon Apr 5 20:30:39 PDT 2021*
 
 *Date range: Tue Apr 6 2021 - Thu May 6 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (3)
 
 >### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
 >#### 5500 Grossmont Center Drive, La Mesa CA 91942
->- Dose 1 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 1 available on 13 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 13 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
 
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 1 days
->  - Days: 2021-04-12
->- Dose 2 available on 1 days
->  - Days: 2021-04-12
+>### HHSA ERPHC COVID 19
+>#### 367 N. Magnolia Avenue, El Cajon, CA 92020
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-21, 2021-04-27, 2021-04-28
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-21, 2021-04-27, 2021-04-28
+
+>### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
+>#### 1845 Strand Way, Coronado, CA 92118
+>- Dose 1 available on 11 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05
+>- Dose 2 available on 11 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05
 
 ## Locations with dose 1 only (0)
 
