@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 6 13:51:54 PDT 2021*
+*Last Updated: Tue Apr 6 14:18:40 PDT 2021*
 
 *Date range: Tue Apr 6 2021 - Thu May 6 2021*
 
@@ -8,12 +8,12 @@
 
 ## Locations with both doses (2)
 
->### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 3 days
->  - Days: 2021-04-15, 2021-04-22, 2021-05-06
->- Dose 2 available on 3 days
->  - Days: 2021-04-15, 2021-04-22, 2021-05-06
+>### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
+>#### 1845 Strand Way, Coronado, CA 92118
+>- Dose 1 available on 12 days
+>  - Days: 2021-04-06, 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05
+>- Dose 2 available on 11 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05
 
 >### HHSA NCLWHC MISSION COVID 19 - Moderna
 >#### 1701 Mission Avenue, Oceanside, CA 92058
