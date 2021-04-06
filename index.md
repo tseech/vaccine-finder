@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 6 16:21:07 PDT 2021*
+*Last Updated: Tue Apr 6 16:49:08 PDT 2021*
 
 *Date range: Tue Apr 6 2021 - Thu May 6 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
+>#### 1845 Strand Way, Coronado, CA 92118
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
