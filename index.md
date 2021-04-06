@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 5 17:59:56 PDT 2021*
+*Last Updated: Mon Apr 5 19:15:01 PDT 2021*
 
 *Date range: Tue Apr 6 2021 - Thu May 6 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
+## Locations with both doses (3)
 
 >### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
 >#### 5500 Grossmont Center Drive, La Mesa CA 91942
@@ -15,19 +15,12 @@
 >- Dose 2 available on 13 days
 >  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
 
->### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
->#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 2 days
->  - Days: 2021-04-15, 2021-04-22
->- Dose 2 available on 2 days
->  - Days: 2021-04-15, 2021-04-22
-
->### Sharp - South Bay - Pfizer - Both Doses - Age 16+
->#### 565 Broadway, Chula Vista, CA 91910
->- Dose 1 available on 8 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
->- Dose 2 available on 8 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
