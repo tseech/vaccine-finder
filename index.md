@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Apr 7 04:43:33 PDT 2021*
+*Last Updated: Wed Apr 7 04:52:26 PDT 2021*
 
 *Date range: Wed Apr 7 2021 - Fri May 7 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Pfizer 1
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
