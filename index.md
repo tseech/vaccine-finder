@@ -1,40 +1,40 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Apr 7 15:54:00 PDT 2021*
+*Last Updated: Wed Apr 7 16:22:57 PDT 2021*
 
 *Date range: Wed Apr 7 2021 - Fri May 7 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (6)
-
->### HHSA NORTHGATE CITY HGTS COVID 19 - Janssen
->#### 5403 University Avenue, San Diego, CA 92105
->- Dose 1 available on 1 days
->  - Days: 2021-04-08
->- Dose 2 available on 1 days
->  - Days: 2021-04-08
+## Locations with both doses (5)
 
 >### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
 >#### 5500 Grossmont Center Drive, La Mesa CA 91942
->- Dose 1 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 1 available on 13 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29
+>- Dose 2 available on 13 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29
 
 >### HHSA ERPHC COVID 19 - Moderna
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 5 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
->- Dose 2 available on 5 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
 
 >### HHSA SRPHC COVID 19 - Moderna
 >#### 690 Oxford Street, Chula Vista, CA 91911
->- Dose 1 available on 5 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
->- Dose 2 available on 5 days
->  - Days: 2021-04-08, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
+
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
 
 >### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
 >#### 103 Campus View Drive, San Marcos, CA 92078
@@ -42,13 +42,6 @@
 >  - Days: 2021-04-07, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
 >- Dose 2 available on 12 days
 >  - Days: 2021-04-07, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
-
->### HHSA NCLWHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 7 days
->  - Days: 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-05, 2021-05-06
->- Dose 2 available on 7 days
->  - Days: 2021-04-08, 2021-04-14, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-05, 2021-05-06
 
 ## Locations with dose 1 only (0)
 
