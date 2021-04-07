@@ -1,33 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 6 21:02:23 PDT 2021*
+*Last Updated: Tue Apr 6 21:49:08 PDT 2021*
 
 *Date range: Wed Apr 7 2021 - Fri May 7 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
-
->### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
->#### 5500 Grossmont Center Drive, La Mesa CA 91942
->- Dose 1 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
-
->### Sharp - South Bay - Pfizer - Both Doses - Age 16+
->#### 565 Broadway, Chula Vista, CA 91910
->- Dose 1 available on 8 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
->- Dose 2 available on 8 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-30
-
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 11 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
->- Dose 2 available on 11 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
+## Locations with both doses (1)
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
