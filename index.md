@@ -1,19 +1,26 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 11:19:20 PDT 2021*
+*Last Updated: Thu Apr 8 12:00:51 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
+## Locations with both doses (3)
 
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
+>#### 5500 Grossmont Center Drive, La Mesa CA 91942
+>- Dose 1 available on 13 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29
+>- Dose 2 available on 13 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29
+
+>### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
+>#### 1845 Strand Way, Coronado, CA 92118
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
@@ -31,12 +38,7 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (20)
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+## Locations with neither (19)
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
