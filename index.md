@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 12:32:13 PDT 2021*
+*Last Updated: Thu Apr 8 12:49:26 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
@@ -50,12 +50,12 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-04-09, 2021-04-16, 2021-04-30
 
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
 
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
