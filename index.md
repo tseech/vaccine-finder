@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 10:34:21 PDT 2021*
+*Last Updated: Thu Apr 8 11:19:20 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 12 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 12 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
@@ -24,15 +31,10 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (20)
 
->### VONS PHARMACY #2118
->#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### VONS PHARMACY #2352
->#### 6155 EL CAJON BOULEVARD, San Diego, CA 92115
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
@@ -41,18 +43,8 @@ San Diego California 92123
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
->### VONS PHARMACY #2355
->#### 4145 30TH STREET, San Diego, CA 92104
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
 >### SAV-ON PHARMACY #0710
 >#### 8920 FLETCHER PKWY, La Mesa, CA 91942
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### VONS PHARMACY #2093
->#### 8011 UNIVERSITY AVE, La Mesa, CA 91942
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
@@ -61,13 +53,33 @@ San Diego California 92123
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
->### VONS PHARMACY #2784
->#### 515 WEST WASHINGTON ST., San Diego, CA 92103
+>### VONS PHARMACY #2107
+>#### 10675 Scrpps Poway Parkway, San Diego, CA 92131
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
->### VONS PHARMACY #2107
->#### 10675 Scrpps Poway Parkway, San Diego, CA 92131
+>### SAV-ON PHARMACY #0723
+>#### 9831 CAMPO RD, Spring Valley, CA 91977
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### VONS PHARMACY #3044
+>#### 1201 AVOCADO AVENUE, EL CAJON, CA 92020
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### SAV-ON PHARMACY # 0745
+>#### 655 14TH ST, San Diego, CA 92101
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### VONS PHARMACY #2081
+>#### 13255 BLACK MOUNTAIN ROAD, San Diego, CA 92129
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### SAV-ON PHARMACY #0758
+>#### 543 SWEETWATER RD, Spring Valley, CA 91977
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
