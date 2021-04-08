@@ -1,19 +1,14 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 07:53:02 PDT 2021*
+*Last Updated: Thu Apr 8 08:21:03 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (0)
 
->### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
->- Dose 1 available on 3 days
->  - Days: 2021-04-15, 2021-04-22, 2021-05-06
->- Dose 2 available on 3 days
->  - Days: 2021-04-15, 2021-04-22, 2021-05-06
+>None
 
 ## Locations with dose 1 only (0)
 
