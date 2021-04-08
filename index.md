@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 14:18:27 PDT 2021*
+*Last Updated: Thu Apr 8 14:44:12 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (9)
+## Locations with both doses (6)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -15,26 +15,19 @@
 >- Dose 2 available on 7 days
 >  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
->### HHSA COPLEY PRICE YMCA COVID 19
->#### 4300 El Cajon Blvd., San Diego, CA 92105
->- Dose 1 available on 3 days
->  - Days: 2021-04-16, 2021-04-23, 2021-04-30
->- Dose 2 available on 3 days
->  - Days: 2021-04-16, 2021-04-23, 2021-04-30
-
 >### HHSA ERPHC COVID 19 - Moderna
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 4 days
->  - Days: 2021-04-16, 2021-04-23, 2021-04-30, 2021-05-07
->- Dose 2 available on 4 days
->  - Days: 2021-04-16, 2021-04-23, 2021-04-30, 2021-05-07
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-23, 2021-04-30, 2021-05-07
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-23, 2021-04-30, 2021-05-07
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Ave., San Diego, CA 92114
->- Dose 1 available on 7 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 7 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
@@ -45,24 +38,10 @@
 
 >### HHSA SOUTHWESTERN COLLEGE SY COVID 19
 >#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
->- Dose 1 available on 5 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 5 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-24, 2021-04-30, 2021-05-01
-
->### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
->#### 555 East Valley Parkway, Escondido CA 92025
 >- Dose 1 available on 6 days
->  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-24, 2021-04-30, 2021-05-01
 >- Dose 2 available on 6 days
->  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
-
->### HHSA VISTA LINDA RHOADES COVID 19
->#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 5 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
->- Dose 2 available on 5 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-24, 2021-04-30, 2021-05-01
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
