@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 13:43:01 PDT 2021*
+*Last Updated: Thu Apr 8 13:51:27 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (11)
+## Locations with both doses (9)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -15,26 +15,19 @@
 >- Dose 2 available on 7 days
 >  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
->### HHSA COPLEY PRICE YMCA COVID 19
->#### 4300 El Cajon Blvd., San Diego, CA 92105
->- Dose 1 available on 4 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23, 2021-04-30
->- Dose 2 available on 4 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23, 2021-04-30
-
->### HHSA ERPHC COVID 19
->#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 1 days
->  - Days: 2021-05-01
->- Dose 2 available on 1 days
->  - Days: 2021-05-01
+>### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
+>#### 5500 Grossmont Center Drive, La Mesa CA 91942
+>- Dose 1 available on 14 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 14 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
 
 >### HHSA ERPHC COVID 19 - Moderna
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
->- Dose 1 available on 5 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23, 2021-04-30, 2021-05-07
->- Dose 2 available on 5 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23, 2021-04-30, 2021-05-07
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-16, 2021-04-23, 2021-04-30, 2021-05-07
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-16, 2021-04-23, 2021-04-30, 2021-05-07
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Ave., San Diego, CA 92114
@@ -42,13 +35,6 @@
 >  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 >- Dose 2 available on 7 days
 >  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
-
->### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
->#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-07
->- Dose 2 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-07
 
 >### HHSA IB MAR VISTA HS COVID 19
 >#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
@@ -73,10 +59,10 @@
 
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 6 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
->- Dose 2 available on 6 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
@@ -94,7 +80,12 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (20)
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
