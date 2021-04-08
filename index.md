@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 14:54:50 PDT 2021*
+*Last Updated: Thu Apr 8 15:23:25 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (6)
+## Locations with both doses (7)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -15,33 +15,40 @@
 >- Dose 2 available on 7 days
 >  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
->### HHSA COPLEY PRICE YMCA COVID 19
->#### 4300 El Cajon Blvd., San Diego, CA 92105
->- Dose 1 available on 4 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23, 2021-04-30
->- Dose 2 available on 4 days
->  - Days: 2021-04-09, 2021-04-16, 2021-04-23, 2021-04-30
+>### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
+>#### 5500 Grossmont Center Drive, La Mesa CA 91942
+>- Dose 1 available on 14 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 14 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Ave., San Diego, CA 92114
->- Dose 1 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 4 days
->  - Days: 2021-04-10, 2021-04-17, 2021-04-24, 2021-05-01
->- Dose 2 available on 4 days
->  - Days: 2021-04-10, 2021-04-17, 2021-04-24, 2021-05-01
-
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
+>### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
+>#### 1845 Strand Way, Coronado, CA 92118
 >- Dose 1 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-07
 >- Dose 2 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-07
+
+>### HHSA SOUTHWESTERN COLLEGE SY COVID 19
+>#### 460 W San Ysidro Blvd., San Ysidro, CA 92173
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-16, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-16, 2021-04-24, 2021-04-30, 2021-05-01
+
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
