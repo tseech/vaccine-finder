@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 13:51:27 PDT 2021*
+*Last Updated: Thu Apr 8 14:18:27 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
@@ -15,12 +15,12 @@
 >- Dose 2 available on 7 days
 >  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
->### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
->#### 5500 Grossmont Center Drive, La Mesa CA 91942
->- Dose 1 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 14 days
->  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>### HHSA COPLEY PRICE YMCA COVID 19
+>#### 4300 El Cajon Blvd., San Diego, CA 92105
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-16, 2021-04-23, 2021-04-30
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-16, 2021-04-23, 2021-04-30
 
 >### HHSA ERPHC COVID 19 - Moderna
 >#### 367 N. Magnolia Avenue, El Cajon, CA 92020
@@ -50,12 +50,12 @@
 >- Dose 2 available on 5 days
 >  - Days: 2021-04-10, 2021-04-16, 2021-04-24, 2021-04-30, 2021-05-01
 
->### HHSA NORTH INLAND FIRST UNITED - Pfizer
->#### 341 S. Kalmia Street, Escondido, CA 92025
->- Dose 1 available on 4 days
->  - Days: 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
->- Dose 2 available on 4 days
->  - Days: 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
 
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
@@ -80,12 +80,7 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (20)
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+## Locations with neither (19)
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
