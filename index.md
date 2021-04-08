@@ -1,14 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 06:53:34 PDT 2021*
+*Last Updated: Thu Apr 8 07:20:16 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (0)
+## Locations with both doses (1)
 
->None
+>### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
+>#### 1845 Strand Way, Coronado, CA 92118
+>- Dose 1 available on 2 days
+>  - Days: 2021-04-15, 2021-04-22
+>- Dose 2 available on 2 days
+>  - Days: 2021-04-15, 2021-04-22
 
 ## Locations with dose 1 only (0)
 
@@ -18,7 +23,12 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (21)
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
