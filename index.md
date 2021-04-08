@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 09:38:06 PDT 2021*
+*Last Updated: Thu Apr 8 10:34:21 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
@@ -8,12 +8,13 @@
 
 ## Locations with both doses (1)
 
->### HHSA NCLWHC MISSION COVID 19 - Moderna
->#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 6 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-05, 2021-05-06
->- Dose 2 available on 6 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-05, 2021-05-06
+>### Rady Children's Hospital - San Diego
+>#### 3020 Children's Way
+San Diego California 92123
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03
 
 ## Locations with dose 1 only (0)
 
@@ -23,7 +24,7 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (19)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
@@ -67,11 +68,6 @@
 
 >### VONS PHARMACY #2107
 >#### 10675 Scrpps Poway Parkway, San Diego, CA 92131
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### VONS PHARMACY #2012
->#### 7788 REGENTS ROAD, San Diego, CA 92122
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
