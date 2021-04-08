@@ -1,26 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Apr 7 18:02:30 PDT 2021*
+*Last Updated: Wed Apr 7 19:28:13 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
-
->### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
->#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 3 days
->  - Days: 2021-04-15, 2021-04-22, 2021-04-29
->- Dose 2 available on 3 days
->  - Days: 2021-04-15, 2021-04-22, 2021-04-29
-
->### Sharp - South Bay - Pfizer - Both Doses - Age 16+
->#### 565 Broadway, Chula Vista, CA 91910
->- Dose 1 available on 9 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
->- Dose 2 available on 9 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-28, 2021-04-29, 2021-04-30
+## Locations with both doses (2)
 
 >### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
 >#### 103 Campus View Drive, San Marcos, CA 92078
@@ -28,6 +14,13 @@
 >  - Days: 2021-04-07, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
 >- Dose 2 available on 12 days
 >  - Days: 2021-04-07, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30
+
+>### HHSA NCLWHC MISSION COVID 19 - Moderna
+>#### 1701 Mission Avenue, Oceanside, CA 92058
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-14, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-05
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-14, 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-05
 
 ## Locations with dose 1 only (0)
 
@@ -37,12 +30,7 @@
 
 >None
 
-## Locations with neither (21)
-
->### HHSA NORTHGATE CITY HGTS COVID 19 - Janssen
->#### 5403 University Avenue, San Diego, CA 92105
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+## Locations with neither (20)
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
