@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Apr 7 20:04:19 PDT 2021*
+*Last Updated: Wed Apr 7 20:44:04 PDT 2021*
 
 *Date range: Thu Apr 8 2021 - Sat May 8 2021*
 
@@ -17,10 +17,10 @@
 
 >### HHSA SRPHC COVID 19 - Moderna
 >#### 690 Oxford Street, Chula Vista, CA 91911
->- Dose 1 available on 4 days
->  - Days: 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
->- Dose 2 available on 4 days
->  - Days: 2021-04-15, 2021-04-22, 2021-04-29, 2021-05-06
+>- Dose 1 available on 3 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29
+>- Dose 2 available on 3 days
+>  - Days: 2021-04-15, 2021-04-22, 2021-04-29
 
 >### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
 >#### 103 Campus View Drive, San Marcos, CA 92078
@@ -37,7 +37,12 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (21)
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #2118
 >#### 3550 MURPHY CANYON ROAD, San Diego, CA 92123
