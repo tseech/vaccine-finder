@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 9 12:41:50 PDT 2021*
+*Last Updated: Fri Apr 9 12:49:40 PDT 2021*
 
 *Date range: Fri Apr 9 2021 - Sun May 9 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (6)
+## Locations with both doses (5)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -17,10 +17,10 @@
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Ave., San Diego, CA 92114
->- Dose 1 available on 7 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 7 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-09, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
 >### HHSA MCGRATH FAM YMCA COV19 - Janssen
 >#### 12006 Campo Road, Spring Valley, CA 91978
@@ -28,13 +28,6 @@
 >  - Days: 2021-04-10
 >- Dose 2 available on 1 days
 >  - Days: 2021-04-10
-
->### HHSA NORTH INLAND FIRST UNITED - Pfizer
->#### 341 S. Kalmia Street, Escondido, CA 92025
->- Dose 1 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
