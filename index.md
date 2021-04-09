@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 9 16:21:37 PDT 2021*
+*Last Updated: Fri Apr 9 16:48:04 PDT 2021*
 
 *Date range: Fri Apr 9 2021 - Sun May 9 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (5)
+## Locations with both doses (4)
+
+>### HHSA COLLEGE AREA AT SDSU COVID 19
+>#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Ave., San Diego, CA 92114
@@ -21,20 +28,6 @@
 >  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06
 >- Dose 2 available on 8 days
 >  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06
-
->### HHSA SRPHC COVID 19 - Moderna
->#### 690 Oxford Street, Chula Vista, CA 91911
->- Dose 1 available on 4 days
->  - Days: 2021-04-18, 2021-04-25, 2021-05-02, 2021-05-09
->- Dose 2 available on 4 days
->  - Days: 2021-04-18, 2021-04-25, 2021-05-02, 2021-05-09
-
->### HHSA IB MAR VISTA HS COVID 19
->#### 524 Imperial Beach Blvd., Imperial Beach, CA 91932
->- Dose 1 available on 3 days
->  - Days: 2021-04-17, 2021-04-24, 2021-05-01
->- Dose 2 available on 3 days
->  - Days: 2021-04-17, 2021-04-24, 2021-05-01
 
 >### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
 >#### 9730 Hopkins Dr, San Diego CA 92093
