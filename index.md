@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 20:19:52 PDT 2021*
+*Last Updated: Thu Apr 8 20:46:36 PDT 2021*
 
 *Date range: Fri Apr 9 2021 - Sun May 9 2021*
 
@@ -8,19 +8,19 @@
 
 ## Locations with both doses (3)
 
->### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
->#### 103 Campus View Drive, San Marcos, CA 92078
+>### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
+>#### 1845 Strand Way, Coronado, CA 92118
 >- Dose 1 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-07
 >- Dose 2 available on 12 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-07
 
->### HHSA VISTA LINDA RHOADES COVID 19
->#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 3 days
->  - Days: 2021-04-16, 2021-04-17, 2021-05-01
->- Dose 2 available on 3 days
->  - Days: 2021-04-16, 2021-04-17, 2021-05-01
+>### Palomar Medical Center Downtown Escondido-Pfizer-Must live or work in SD County
+>#### 555 East Valley Parkway, Escondido CA 92025
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-14, 2021-04-16, 2021-04-21, 2021-04-23, 2021-04-28, 2021-04-30
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
@@ -38,7 +38,12 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (20)
+
+>### HHSA JACKIE ROB FM YMCA COV19 - Janssen
+>#### 151 YMCA Way, San Diego, CA 92102
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
