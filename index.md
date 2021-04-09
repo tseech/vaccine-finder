@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 9 12:49:40 PDT 2021*
+*Last Updated: Fri Apr 9 13:21:18 PDT 2021*
 
 *Date range: Fri Apr 9 2021 - Sun May 9 2021*
 
@@ -10,10 +10,17 @@
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
->- Dose 1 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+
+>### Sharp - Grossmont Center Mall - Pfizer - Both Doses - Age 16+
+>#### 5500 Grossmont Center Drive, La Mesa CA 91942
+>- Dose 1 available on 14 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 14 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Ave., San Diego, CA 92114
@@ -22,13 +29,6 @@
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-09, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
->### HHSA MCGRATH FAM YMCA COV19 - Janssen
->#### 12006 Campo Road, Spring Valley, CA 91978
->- Dose 1 available on 1 days
->  - Days: 2021-04-10
->- Dose 2 available on 1 days
->  - Days: 2021-04-10
-
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
 >- Dose 1 available on 6 days
@@ -36,12 +36,13 @@
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
->### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
->#### 9730 Hopkins Dr, San Diego CA 92093
->- Dose 1 available on 31 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09
->- Dose 2 available on 31 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09
+>### Rady Children's Hospital - San Diego
+>#### 3020 Children's Way
+San Diego California 92123
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03
 
 ## Locations with dose 1 only (0)
 
