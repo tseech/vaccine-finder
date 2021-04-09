@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 9 13:51:34 PDT 2021*
+*Last Updated: Fri Apr 9 14:18:36 PDT 2021*
 
 *Date range: Fri Apr 9 2021 - Sun May 9 2021*
 
@@ -38,10 +38,10 @@
 
 >### HHSA VISTA LINDA RHOADES COVID 19
 >#### 600 North Santa Fe Ave., Vista, CA 92084
->- Dose 1 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
 >### HHSA NCLWHC MISSION COVID 19 - Moderna
 >#### 1701 Mission Avenue, Oceanside, CA 92058
@@ -50,13 +50,12 @@
 >- Dose 2 available on 3 days
 >  - Days: 2021-04-11, 2021-04-25, 2021-05-09
 
->### Rady Children's Hospital - San Diego
->#### 3020 Children's Way
-San Diego California 92123
->- Dose 1 available on 4 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03
->- Dose 2 available on 4 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03
+>### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
+>#### 9730 Hopkins Dr, San Diego CA 92093
+>- Dose 1 available on 31 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09
+>- Dose 2 available on 31 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-11, 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09
 
 ## Locations with dose 1 only (0)
 
@@ -66,7 +65,12 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (20)
+
+>### HHSA ERPHC COVID 19
+>#### 367 N. Magnolia Avenue, El Cajon, CA 92020
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
