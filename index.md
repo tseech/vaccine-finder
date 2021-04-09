@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 9 06:53:18 PDT 2021*
+*Last Updated: Fri Apr 9 07:20:36 PDT 2021*
 
 *Date range: Fri Apr 9 2021 - Sun May 9 2021*
 
@@ -24,7 +24,12 @@ San Diego California 92123
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (20)
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
