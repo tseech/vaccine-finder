@@ -1,26 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Thu Apr 8 16:48:34 PDT 2021*
+*Last Updated: Thu Apr 8 17:57:11 PDT 2021*
 
-*Date range: Thu Apr 8 2021 - Sat May 8 2021*
+*Date range: Fri Apr 9 2021 - Sun May 9 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (2)
 
->### Sharp - City of Coronado - Moderna - Both Doses - Age 18+
->#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 13 days
->  - Days: 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-07
->- Dose 2 available on 13 days
->  - Days: 2021-04-09, 2021-04-13, 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-07
-
->### HHSA NORTH INLAND FIRST UNITED - Pfizer
->#### 341 S. Kalmia Street, Escondido, CA 92025
->- Dose 1 available on 6 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
->- Dose 2 available on 6 days
->  - Days: 2021-04-09, 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-30, 2021-05-01
+>### Sharp - CSU San Marcos - Pfizer - Both Doses - Age 16+
+>#### 103 Campus View Drive, San Marcos, CA 92078
+>- Dose 1 available on 12 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
+>- Dose 2 available on 12 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
