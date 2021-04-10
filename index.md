@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 10 01:22:49 PDT 2021*
+*Last Updated: Sat Apr 10 01:48:35 PDT 2021*
 
 *Date range: Sat Apr 10 2021 - Mon May 10 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (8)
+## Locations with both doses (7)
 
 >### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
 >#### 5500 Grossmont Center Drive
@@ -15,13 +15,6 @@ La Mesa, CA 91942
 >  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08
 >- Dose 2 available on 20 days
 >  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08
-
->### HHSA TUBMAN CHAVEZ COVID 19
->#### 415 Euclid Ave., San Diego, CA 92114
->- Dose 1 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 6 days
->  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
 >### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
 >#### 1845 Strand Way, Coronado, CA 92118
