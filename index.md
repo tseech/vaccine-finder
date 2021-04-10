@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 10 13:20:11 PDT 2021*
+*Last Updated: Sat Apr 10 13:42:28 PDT 2021*
 
 *Date range: Sat Apr 10 2021 - Mon May 10 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (14)
-
->### HHSA COLLEGE AREA AT SDSU COVID 19
->#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
->- Dose 1 available on 5 days
->  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 5 days
->  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+## Locations with both doses (12)
 
 >### HHSA COPLEY PRICE YMCA COVID 19
 >#### 4300 El Cajon Blvd., San Diego, CA 92105
@@ -46,10 +39,10 @@ La Mesa, CA 91942
 
 >### Sharp - South Bay - Pfizer - Both Doses - Age 16+
 >#### 565 Broadway, Chula Vista, CA 91910
->- Dose 1 available on 13 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
->- Dose 2 available on 13 days
->  - Days: 2021-04-13, 2021-04-14, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
+>- Dose 1 available on 12 days
+>  - Days: 2021-04-14, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
+>- Dose 2 available on 12 days
+>  - Days: 2021-04-14, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
 
 >### Sharp - South Bay - Moderna - Both Doses - Age 18+
 >#### 565 Broadway, Chula Vista CA 91910
@@ -57,13 +50,6 @@ La Mesa, CA 91942
 >  - Days: 2021-04-10, 2021-04-11, 2021-04-15, 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09
 >- Dose 2 available on 14 days
 >  - Days: 2021-04-10, 2021-04-11, 2021-04-15, 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 1 days
->  - Days: 2021-04-12
->- Dose 2 available on 1 days
->  - Days: 2021-04-12
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
@@ -79,12 +65,12 @@ La Mesa, CA 91942
 >- Dose 2 available on 10 days
 >  - Days: 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-02, 2021-05-03, 2021-05-09, 2021-05-10
 
->### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
->#### 9730 Hopkins Dr, San Diego CA 92093
->- Dose 1 available on 31 days
->  - Days: 2021-04-10, 2021-04-11, 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09, 2021-05-10
->- Dose 2 available on 31 days
->  - Days: 2021-04-10, 2021-04-11, 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09, 2021-05-10
+>### HHSA PALOMAR FAM YMCA COVID 19 - Janssen
+>#### 1050 N. Broadway, Escondido, CA 92026
+>- Dose 1 available on 1 days
+>  - Days: 2021-04-11
+>- Dose 2 available on 1 days
+>  - Days: 2021-04-11
 
 >### Sharp - CSU San Marcos - Moderna - Both Doses - Age 18+
 >#### 103 Campus View Drive, San Marcos, CA 92078
@@ -93,12 +79,13 @@ La Mesa, CA 91942
 >- Dose 2 available on 16 days
 >  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
 
->### HHSA PALOMAR FAM YMCA COVID 19 - Janssen
->#### 1050 N. Broadway, Escondido, CA 92026
->- Dose 1 available on 1 days
->  - Days: 2021-04-11
->- Dose 2 available on 1 days
->  - Days: 2021-04-11
+>### Rady Children's Hospital - San Diego
+>#### 3020 Children's Way
+San Diego California 92123
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03, 2021-05-10
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03, 2021-05-10
 
 >### HHSA NCLWHC MISSION COVID 19 - Moderna
 >#### 1701 Mission Avenue, Oceanside, CA 92058
