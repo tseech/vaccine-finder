@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 9 21:55:14 PDT 2021*
+*Last Updated: Fri Apr 9 22:23:25 PDT 2021*
 
 *Date range: Sat Apr 10 2021 - Mon May 10 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (8)
+## Locations with both doses (9)
 
 >### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
 >#### 5500 Grossmont Center Drive
@@ -50,6 +50,13 @@ La Mesa, CA 91942
 >  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06
 >- Dose 2 available on 8 days
 >  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06
+
+>### HHSA SRPHC COVID 19 - Moderna
+>#### 690 Oxford Street, Chula Vista, CA 91911
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-11, 2021-04-18, 2021-04-25, 2021-05-02, 2021-05-09
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-11, 2021-04-18, 2021-04-25, 2021-05-02, 2021-05-09
 
 >### Sharp - CSU San Marcos - Moderna - Both Doses - Age 18+
 >#### 103 Campus View Drive, San Marcos, CA 92078
