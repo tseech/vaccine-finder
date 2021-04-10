@@ -1,19 +1,20 @@
 # San Diego Vaccine Appointments
-*Last Updated: Fri Apr 9 17:59:48 PDT 2021*
+*Last Updated: Fri Apr 9 19:10:05 PDT 2021*
 
 *Date range: Sat Apr 10 2021 - Mon May 10 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
+## Locations with both doses (7)
 
->### HHSA COLLEGE AREA AT SDSU COVID 19
->#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
->- Dose 1 available on 5 days
->  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 5 days
->  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
+>#### 5500 Grossmont Center Drive
+La Mesa, CA 91942
+>- Dose 1 available on 22 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08
+>- Dose 2 available on 22 days
+>  - Days: 2021-04-09, 2021-04-10, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08
 
 >### HHSA TUBMAN CHAVEZ COVID 19
 >#### 415 Euclid Ave., San Diego, CA 92114
@@ -21,6 +22,27 @@
 >  - Days: 2021-04-09, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-09, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+
+>### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
+>#### 1845 Strand Way, Coronado, CA 92118
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-13, 2021-04-20, 2021-04-27, 2021-05-04
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-13, 2021-04-20, 2021-04-27, 2021-05-04
+
+>### Sharp - South Bay - Pfizer - Both Doses - Age 16+
+>#### 565 Broadway, Chula Vista, CA 91910
+>- Dose 1 available on 17 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
+>- Dose 2 available on 17 days
+>  - Days: 2021-04-12, 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
+
+>### Sharp - South Bay - Moderna - Both Doses - Age 18+
+>#### 565 Broadway, Chula Vista CA 91910
+>- Dose 1 available on 14 days
+>  - Days: 2021-04-10, 2021-04-11, 2021-04-15, 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09
+>- Dose 2 available on 14 days
+>  - Days: 2021-04-10, 2021-04-11, 2021-04-15, 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
