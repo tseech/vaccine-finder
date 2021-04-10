@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 10 11:47:15 PDT 2021*
+*Last Updated: Sat Apr 10 12:19:59 PDT 2021*
 
 *Date range: Sat Apr 10 2021 - Mon May 10 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (6)
+## Locations with both doses (7)
 
 >### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
 >#### 5500 Grossmont Center Drive
@@ -19,9 +19,9 @@ La Mesa, CA 91942
 >### Sharp - South Bay - Pfizer - Both Doses - Age 16+
 >#### 565 Broadway, Chula Vista, CA 91910
 >- Dose 1 available on 13 days
->  - Days: 2021-04-14, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
+>  - Days: 2021-04-14, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
 >- Dose 2 available on 13 days
->  - Days: 2021-04-14, 2021-04-16, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
+>  - Days: 2021-04-14, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
 
 >### Sharp - South Bay - Moderna - Both Doses - Age 18+
 >#### 565 Broadway, Chula Vista CA 91910
@@ -44,6 +44,13 @@ La Mesa, CA 91942
 >- Dose 2 available on 16 days
 >  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
 
+>### HHSA VISTA LINDA RHOADES COVID 19
+>#### 600 North Santa Fe Ave., Vista, CA 92084
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+
 >### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
 >#### 9730 Hopkins Dr, San Diego CA 92093
 >- Dose 1 available on 31 days
@@ -59,7 +66,12 @@ La Mesa, CA 91942
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (20)
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
