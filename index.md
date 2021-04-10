@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 10 14:18:24 PDT 2021*
+*Last Updated: Sat Apr 10 14:43:53 PDT 2021*
 
 *Date range: Sat Apr 10 2021 - Mon May 10 2021*
 
@@ -7,6 +7,13 @@
 
 
 ## Locations with both doses (13)
+
+>### HHSA COLLEGE AREA AT SDSU COVID 19
+>#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
+>- Dose 1 available on 6 days
+>  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+>- Dose 2 available on 6 days
+>  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
 >### HHSA COPLEY PRICE YMCA COVID 19
 >#### 4300 El Cajon Blvd., San Diego, CA 92105
@@ -60,10 +67,10 @@ La Mesa, CA 91942
 
 >### HHSA SRPHC COVID 19 - Moderna
 >#### 690 Oxford Street, Chula Vista, CA 91911
->- Dose 1 available on 10 days
->  - Days: 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-02, 2021-05-03, 2021-05-09, 2021-05-10
->- Dose 2 available on 10 days
->  - Days: 2021-04-11, 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-02, 2021-05-03, 2021-05-09, 2021-05-10
+>- Dose 1 available on 9 days
+>  - Days: 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-02, 2021-05-03, 2021-05-09, 2021-05-10
+>- Dose 2 available on 9 days
+>  - Days: 2021-04-12, 2021-04-18, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-02, 2021-05-03, 2021-05-09, 2021-05-10
 
 >### HHSA NORTH INLAND FIRST UNITED - Pfizer
 >#### 341 S. Kalmia Street, Escondido, CA 92025
@@ -71,13 +78,6 @@ La Mesa, CA 91942
 >  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
-
->### HHSA PALOMAR FAM YMCA COVID 19 - Janssen
->#### 1050 N. Broadway, Escondido, CA 92026
->- Dose 1 available on 1 days
->  - Days: 2021-04-11
->- Dose 2 available on 1 days
->  - Days: 2021-04-11
 
 >### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
 >#### 9730 Hopkins Dr, San Diego CA 92093
@@ -95,10 +95,10 @@ La Mesa, CA 91942
 
 >### HHSA NCLWHC MISSION COVID 19 - Moderna
 >#### 1701 Mission Avenue, Oceanside, CA 92058
->- Dose 1 available on 7 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-03, 2021-05-09, 2021-05-10
->- Dose 2 available on 7 days
->  - Days: 2021-04-12, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-03, 2021-05-09, 2021-05-10
+>- Dose 1 available on 8 days
+>  - Days: 2021-04-11, 2021-04-12, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-03, 2021-05-09, 2021-05-10
+>- Dose 2 available on 8 days
+>  - Days: 2021-04-11, 2021-04-12, 2021-04-19, 2021-04-25, 2021-04-26, 2021-05-03, 2021-05-09, 2021-05-10
 
 ## Locations with dose 1 only (0)
 
