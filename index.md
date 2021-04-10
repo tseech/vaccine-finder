@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 10 00:52:30 PDT 2021*
+*Last Updated: Sat Apr 10 01:22:49 PDT 2021*
 
 *Date range: Sat Apr 10 2021 - Mon May 10 2021*
 
@@ -7,13 +7,6 @@
 
 
 ## Locations with both doses (8)
-
->### HHSA COLLEGE AREA AT SDSU COVID 19
->#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
->- Dose 1 available on 5 days
->  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
->- Dose 2 available on 5 days
->  - Days: 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 
 >### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
 >#### 5500 Grossmont Center Drive
@@ -29,6 +22,13 @@ La Mesa, CA 91942
 >  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
 >- Dose 2 available on 6 days
 >  - Days: 2021-04-10, 2021-04-16, 2021-04-17, 2021-04-24, 2021-04-30, 2021-05-01
+
+>### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
+>#### 1845 Strand Way, Coronado, CA 92118
+>- Dose 1 available on 4 days
+>  - Days: 2021-04-13, 2021-04-20, 2021-04-27, 2021-05-04
+>- Dose 2 available on 4 days
+>  - Days: 2021-04-13, 2021-04-20, 2021-04-27, 2021-05-04
 
 >### Sharp - South Bay - Pfizer - Both Doses - Age 16+
 >#### 565 Broadway, Chula Vista, CA 91910
