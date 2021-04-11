@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sat Apr 10 18:02:32 PDT 2021*
+*Last Updated: Sat Apr 10 19:19:42 PDT 2021*
 
 *Date range: Sun Apr 11 2021 - Tue May 11 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (8)
+## Locations with both doses (7)
 
 >### HHSA COLLEGE AREA AT SDSU COVID 19
 >#### Viejas Arena Lot 12, 2nd Level & Lot 13 (ADA only), 5130 Canyon Crest Dr, San Diego, CA 92182, USA
@@ -23,19 +23,12 @@ La Mesa, CA 91942
 >- Dose 2 available on 20 days
 >  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08
 
->### Sharp - South Bay - Pfizer - Both Doses - Age 16+
->#### 565 Broadway, Chula Vista, CA 91910
->- Dose 1 available on 11 days
->  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
->- Dose 2 available on 11 days
->  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
-
 >### Sharp - South Bay - Moderna - Both Doses - Age 18+
 >#### 565 Broadway, Chula Vista CA 91910
->- Dose 1 available on 14 days
->  - Days: 2021-04-10, 2021-04-11, 2021-04-15, 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09
->- Dose 2 available on 14 days
->  - Days: 2021-04-10, 2021-04-11, 2021-04-15, 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09
+>- Dose 1 available on 13 days
+>  - Days: 2021-04-10, 2021-04-11, 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09
+>- Dose 2 available on 13 days
+>  - Days: 2021-04-10, 2021-04-11, 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
