@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Sun Apr 11 14:18:27 PDT 2021*
+*Last Updated: Sun Apr 11 14:44:02 PDT 2021*
 
 *Date range: Sun Apr 11 2021 - Tue May 11 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (6)
+## Locations with both doses (5)
 
 >### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
 >#### 5500 Grossmont Center Drive
@@ -22,13 +22,6 @@ La Mesa, CA 91942
 >  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
 >- Dose 2 available on 11 days
 >  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-07
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Johnson & Johnson 1 DOSE
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 1 days
->  - Days: 2021-04-12
->- Dose 2 available on 1 days
->  - Days: 2021-04-12
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
