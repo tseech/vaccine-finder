@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 12 07:53:10 PDT 2021*
+*Last Updated: Mon Apr 12 08:18:56 PDT 2021*
 
 *Date range: Mon Apr 12 2021 - Wed May 12 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
+## Locations with both doses (5)
 
 >### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
 >#### 5500 Grossmont Center Drive
@@ -30,6 +30,14 @@ La Mesa, CA 91942
 >- Dose 2 available on 17 days
 >  - Days: 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12
 
+>### Rady Children's Hospital - San Diego
+>#### 3020 Children's Way
+San Diego California 92123
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03, 2021-05-10
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03, 2021-05-10
+
 >### KAISER PERMANENTE La Mesa Medical Offices San Diego Med Ctr Area
 >#### 8080 Parkway Drive, La Mesa, CA
 >- Dose 1 available on 5 days
@@ -45,7 +53,7 @@ La Mesa, CA 91942
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (18)
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
@@ -84,11 +92,6 @@ La Mesa, CA 91942
 
 >### VONS PHARMACY #2081
 >#### 13255 BLACK MOUNTAIN ROAD, San Diego, CA 92129
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### SAV-ON PHARMACY #0758
->#### 543 SWEETWATER RD, Spring Valley, CA 91977
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
