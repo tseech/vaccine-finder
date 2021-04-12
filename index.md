@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Mon Apr 12 13:43:20 PDT 2021*
+*Last Updated: Mon Apr 12 13:52:14 PDT 2021*
 
 *Date range: Mon Apr 12 2021 - Wed May 12 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (5)
+## Locations with both doses (6)
 
 >### Sharp - Central San Diego Knollwood - Pfizer - Both Doses - Age 16+
 >#### 7944 Birmingham Drive, San Diego, CA 92123
@@ -18,10 +18,10 @@
 >### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
 >#### 5500 Grossmont Center Drive
 La Mesa, CA 91942
->- Dose 1 available on 21 days
->  - Days: 2021-04-13, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-11, 2021-05-12
->- Dose 2 available on 21 days
->  - Days: 2021-04-13, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-11, 2021-05-12
+>- Dose 1 available on 20 days
+>  - Days: 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-11, 2021-05-12
+>- Dose 2 available on 20 days
+>  - Days: 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-11, 2021-05-12
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
@@ -36,6 +36,14 @@ La Mesa, CA 91942
 >  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12
 >- Dose 2 available on 16 days
 >  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12
+
+>### Rady Children's Hospital - San Diego
+>#### 3020 Children's Way
+San Diego California 92123
+>- Dose 1 available on 5 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03, 2021-05-10
+>- Dose 2 available on 5 days
+>  - Days: 2021-04-12, 2021-04-19, 2021-04-26, 2021-05-03, 2021-05-10
 
 >### KAISER PERMANENTE La Mesa Medical Offices San Diego Med Ctr Area
 >#### 8080 Parkway Drive, La Mesa, CA
@@ -52,7 +60,7 @@ La Mesa, CA 91942
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (18)
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
@@ -91,11 +99,6 @@ La Mesa, CA 91942
 
 >### VONS PHARMACY #2081
 >#### 13255 BLACK MOUNTAIN ROAD, San Diego, CA 92129
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### SAV-ON PHARMACY #0758
->#### 543 SWEETWATER RD, Spring Valley, CA 91977
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
