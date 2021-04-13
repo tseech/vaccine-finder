@@ -1,12 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 13 07:43:48 PDT 2021*
+*Last Updated: Tue Apr 13 08:21:32 PDT 2021*
 
 *Date range: Tue Apr 13 2021 - Thu May 13 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (6)
+## Locations with both doses (5)
 
 >### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
 >#### 5500 Grossmont Center Drive
@@ -16,12 +16,12 @@ La Mesa, CA 91942
 >- Dose 2 available on 21 days
 >  - Days: 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-11, 2021-05-12, 2021-05-13
 
->### Sharp - City of Coronado - Pfizer - Both Doses - Age 16+
->#### 1845 Strand Way, Coronado, CA 92118
->- Dose 1 available on 3 days
->  - Days: 2021-04-20, 2021-04-27, 2021-05-04
->- Dose 2 available on 3 days
->  - Days: 2021-04-20, 2021-04-27, 2021-05-04
+>### Cuyamaca College COVID 19 - Johnson & Johnson
+>#### 900 Rancho San Diego Pkwy El Cajon CA 92019
+>- Dose 1 available on 1 days
+>  - Days: 2021-04-15
+>- Dose 2 available on 1 days
+>  - Days: 2021-04-15
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
@@ -36,13 +36,6 @@ La Mesa, CA 91942
 >  - Days: 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
 >- Dose 2 available on 8 days
 >  - Days: 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
-
->### Sharp - CSU San Marcos - Moderna - Both Doses - Age 18+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 17 days
->  - Days: 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12, 2021-05-13
->- Dose 2 available on 17 days
->  - Days: 2021-04-14, 2021-04-16, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12, 2021-05-13
 
 >### Rady Children's Hospital - San Diego
 >#### 3020 Children's Way
