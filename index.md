@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 13 14:53:54 PDT 2021*
+*Last Updated: Tue Apr 13 15:22:38 PDT 2021*
 
 *Date range: Tue Apr 13 2021 - Thu May 13 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (4)
-
->### Cuyamaca College COVID 19 - Johnson & Johnson
->#### 900 Rancho San Diego Pkwy El Cajon CA 92019
->- Dose 1 available on 1 days
->  - Days: 2021-04-15
->- Dose 2 available on 1 days
->  - Days: 2021-04-15
+## Locations with both doses (3)
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
