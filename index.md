@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 13 12:25:36 PDT 2021*
+*Last Updated: Tue Apr 13 12:41:16 PDT 2021*
 
 *Date range: Tue Apr 13 2021 - Thu May 13 2021*
 
@@ -10,10 +10,10 @@
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 9 days
->  - Days: 2021-04-13, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
->- Dose 2 available on 9 days
->  - Days: 2021-04-13, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
+>- Dose 1 available on 10 days
+>  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
+>- Dose 2 available on 10 days
+>  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
 
 >### Palomar Medical Center Downtown Escondido-Moderna-Must live or work in SD County
 >#### 555 East Valley Parkway, Escondido CA 92025
@@ -22,12 +22,12 @@
 >- Dose 2 available on 10 days
 >  - Days: 2021-04-13, 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
 
->### Sharp - CSU San Marcos - Moderna - Both Doses - Age 18+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 15 days
->  - Days: 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12, 2021-05-13
->- Dose 2 available on 15 days
->  - Days: 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12, 2021-05-13
+>### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
+>#### 9730 Hopkins Dr, San Diego CA 92093
+>- Dose 1 available on 31 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09, 2021-05-10, 2021-05-11, 2021-05-12, 2021-05-13
+>- Dose 2 available on 31 days
+>  - Days: 2021-04-13, 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09, 2021-05-10, 2021-05-11, 2021-05-12, 2021-05-13
 
 ## Locations with dose 1 only (0)
 
@@ -37,7 +37,7 @@
 
 >None
 
-## Locations with neither (20)
+## Locations with neither (19)
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
@@ -81,11 +81,6 @@
 
 >### SAV-ON PHARMACY #0758
 >#### 543 SWEETWATER RD, Spring Valley, CA 91977
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
-
->### SAV-ON PHARMACY #3202
->#### 1608 BROADWAY, El Cajon, CA 92021
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
