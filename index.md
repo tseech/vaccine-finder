@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 13 14:43:24 PDT 2021*
+*Last Updated: Tue Apr 13 14:53:54 PDT 2021*
 
 *Date range: Tue Apr 13 2021 - Thu May 13 2021*
 
@@ -7,6 +7,13 @@
 
 
 ## Locations with both doses (4)
+
+>### Cuyamaca College COVID 19 - Johnson & Johnson
+>#### 900 Rancho San Diego Pkwy El Cajon CA 92019
+>- Dose 1 available on 1 days
+>  - Days: 2021-04-15
+>- Dose 2 available on 1 days
+>  - Days: 2021-04-15
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
@@ -21,13 +28,6 @@
 >  - Days: 2021-04-13, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
 >- Dose 2 available on 9 days
 >  - Days: 2021-04-13, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
-
->### Sharp - CSU San Marcos - Moderna - Both Doses - Age 18+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 15 days
->  - Days: 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12, 2021-05-13
->- Dose 2 available on 15 days
->  - Days: 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12, 2021-05-13
 
 >### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
 >#### 9730 Hopkins Dr, San Diego CA 92093
@@ -44,12 +44,7 @@
 
 >None
 
-## Locations with neither (20)
-
->### Cuyamaca College COVID 19 - Johnson & Johnson
->#### 900 Rancho San Diego Pkwy El Cajon CA 92019
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+## Locations with neither (19)
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
