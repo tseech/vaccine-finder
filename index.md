@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Apr 14 07:51:18 PDT 2021*
+*Last Updated: Wed Apr 14 08:20:59 PDT 2021*
 
 *Date range: Wed Apr 14 2021 - Fri May 14 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
+>#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
+>- Dose 1 available on 9 days
+>  - Days: 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
+>- Dose 2 available on 9 days
+>  - Days: 2021-04-15, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
 
 >### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
 >#### 9730 Hopkins Dr, San Diego CA 92093
