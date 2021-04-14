@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 13 20:49:39 PDT 2021*
+*Last Updated: Tue Apr 13 21:24:15 PDT 2021*
 
 *Date range: Wed Apr 14 2021 - Fri May 14 2021*
 
@@ -37,12 +37,7 @@
 
 >None
 
-## Locations with neither (21)
-
->### Cuyamaca College COVID 19 - Johnson & Johnson
->#### 900 Rancho San Diego Pkwy El Cajon CA 92019
->- Dose 1 available on 0 days
->- Dose 2 available on 0 days
+## Locations with neither (20)
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
