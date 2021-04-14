@@ -1,12 +1,19 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Apr 14 10:26:42 PDT 2021*
+*Last Updated: Wed Apr 14 11:01:38 PDT 2021*
 
 *Date range: Wed Apr 14 2021 - Fri May 14 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (1)
+## Locations with both doses (2)
+
+>### Sharp - Central San Diego Knollwood - Pfizer - Both Doses - Age 16+
+>#### 7944 Birmingham Drive, San Diego, CA 92123
+>- Dose 1 available on 15 days
+>  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
+>- Dose 2 available on 15 days
+>  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
 
 >### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
 >#### 9730 Hopkins Dr, San Diego CA 92093
