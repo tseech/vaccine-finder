@@ -1,5 +1,5 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Apr 14 14:18:20 PDT 2021*
+*Last Updated: Wed Apr 14 14:43:39 PDT 2021*
 
 *Date range: Wed Apr 14 2021 - Fri May 14 2021*
 
@@ -7,6 +7,13 @@
 
 
 ## Locations with both doses (3)
+
+>### Sharp - South Bay - Moderna - Both Doses - Age 18+
+>#### 565 Broadway, Chula Vista CA 91910
+>- Dose 1 available on 12 days
+>  - Days: 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09, 2021-05-13
+>- Dose 2 available on 12 days
+>  - Days: 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09, 2021-05-13
 
 >### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
 >#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
@@ -22,13 +29,6 @@
 >- Dose 2 available on 4 days
 >  - Days: 2021-04-14, 2021-04-21, 2021-04-28, 2021-05-05
 
->### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
->#### 9730 Hopkins Dr, San Diego CA 92093
->- Dose 1 available on 31 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09, 2021-05-10, 2021-05-11, 2021-05-12, 2021-05-13, 2021-05-14
->- Dose 2 available on 31 days
->  - Days: 2021-04-14, 2021-04-15, 2021-04-16, 2021-04-17, 2021-04-18, 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-25, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-02, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-09, 2021-05-10, 2021-05-11, 2021-05-12, 2021-05-13, 2021-05-14
-
 ## Locations with dose 1 only (0)
 
 >None
@@ -37,7 +37,7 @@
 
 >None
 
-## Locations with neither (19)
+## Locations with neither (20)
 
 >### VONS PHARMACY #4018
 >#### 10016 SCRIPPS RANCH BOULEVARD, San Diego, CA 92131
@@ -81,6 +81,11 @@
 
 >### SAV-ON PHARMACY #0758
 >#### 543 SWEETWATER RD, Spring Valley, CA 91977
+>- Dose 1 available on 0 days
+>- Dose 2 available on 0 days
+
+>### SAV-ON PHARMACY #3202
+>#### 1608 BROADWAY, El Cajon, CA 92021
 >- Dose 1 available on 0 days
 >- Dose 2 available on 0 days
 
