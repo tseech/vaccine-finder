@@ -1,26 +1,20 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Apr 14 14:43:39 PDT 2021*
+*Last Updated: Wed Apr 14 14:54:02 PDT 2021*
 
 *Date range: Wed Apr 14 2021 - Fri May 14 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (3)
+## Locations with both doses (2)
 
->### Sharp - South Bay - Moderna - Both Doses - Age 18+
->#### 565 Broadway, Chula Vista CA 91910
->- Dose 1 available on 12 days
->  - Days: 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09, 2021-05-13
->- Dose 2 available on 12 days
->  - Days: 2021-04-17, 2021-04-18, 2021-04-22, 2021-04-24, 2021-04-25, 2021-04-29, 2021-05-01, 2021-05-02, 2021-05-06, 2021-05-08, 2021-05-09, 2021-05-13
-
->### Scripps Del Mar Fairgrounds Vaccination Super Station - Moderna
->#### 2260 Jimmy Durante Blvd. Del Mar, CA 92014
->- Dose 1 available on 8 days
->  - Days: 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
->- Dose 2 available on 8 days
->  - Days: 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
+>### Sharp - Grossmont Center mall - Moderna - Both Doses - Age 18+
+>#### 5500 Grossmont Center Drive
+La Mesa, CA 91942
+>- Dose 1 available on 20 days
+>  - Days: 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-11, 2021-05-12, 2021-05-13, 2021-05-14
+>- Dose 2 available on 20 days
+>  - Days: 2021-04-17, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-24, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-01, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-08, 2021-05-11, 2021-05-12, 2021-05-13, 2021-05-14
 
 >### Tri-City Medical Center - Pfizer
 >#### 4002 Vista Way, Oceanside, CA 92056
