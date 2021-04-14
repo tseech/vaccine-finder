@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Tue Apr 13 16:45:53 PDT 2021*
+*Last Updated: Tue Apr 13 17:57:05 PDT 2021*
 
-*Date range: Tue Apr 13 2021 - Thu May 13 2021*
+*Date range: Wed Apr 14 2021 - Fri May 14 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (5)
-
->### Sharp - Central San Diego Knollwood - Pfizer - Both Doses - Age 16+
->#### 7944 Birmingham Drive, San Diego, CA 92123
->- Dose 1 available on 13 days
->  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-03, 2021-05-04, 2021-05-07
->- Dose 2 available on 13 days
->  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-03, 2021-05-04, 2021-05-07
+## Locations with both doses (3)
 
 >### Sharp - South Bay - Pfizer - Both Doses - Age 16+
 >#### 565 Broadway, Chula Vista, CA 91910
@@ -35,13 +28,6 @@
 >  - Days: 2021-04-13, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
 >- Dose 2 available on 9 days
 >  - Days: 2021-04-13, 2021-04-20, 2021-04-22, 2021-04-27, 2021-04-29, 2021-05-04, 2021-05-06, 2021-05-11, 2021-05-13
-
->### Sharp - CSU San Marcos - Moderna - Both Doses - Age 18+
->#### 103 Campus View Drive, San Marcos, CA 92078
->- Dose 1 available on 15 days
->  - Days: 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12, 2021-05-13
->- Dose 2 available on 15 days
->  - Days: 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-27, 2021-04-28, 2021-04-29, 2021-04-30, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07, 2021-05-11, 2021-05-12, 2021-05-13
 
 ## Locations with dose 1 only (0)
 
