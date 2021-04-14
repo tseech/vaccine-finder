@@ -1,19 +1,12 @@
 # San Diego Vaccine Appointments
-*Last Updated: Wed Apr 14 00:51:40 PDT 2021*
+*Last Updated: Wed Apr 14 01:22:59 PDT 2021*
 
 *Date range: Wed Apr 14 2021 - Fri May 14 2021*
 
 *Go to: <https://myturn.ca.gov> to schedule your appointment*
 
 
-## Locations with both doses (2)
-
->### Sharp - South Bay - Pfizer - Both Doses - Age 16+
->#### 565 Broadway, Chula Vista, CA 91910
->- Dose 1 available on 12 days
->  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
->- Dose 2 available on 12 days
->  - Days: 2021-04-19, 2021-04-20, 2021-04-21, 2021-04-22, 2021-04-23, 2021-04-26, 2021-04-27, 2021-05-03, 2021-05-04, 2021-05-05, 2021-05-06, 2021-05-07
+## Locations with both doses (1)
 
 >### UC San Diego Health - La Jolla Campus RIMAC Super Station: APPT AVAILABLE NOW
 >#### 9730 Hopkins Dr, San Diego CA 92093
